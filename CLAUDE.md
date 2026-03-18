@@ -38,8 +38,11 @@ InfluEnglish/
 # 1. 영상 목록 수집 (yt-dlp 필요)
 python tools/crawl.py
 
-# 2. 자막 다운로드 (youtube-transcript-api 필요, 캐시됨)
+# 2a. 자막 다운로드 (youtube-transcript-api 필요, 캐시됨)
 python tools/fetch_scripts.py
+
+# 2b. 자막 없는 영상은 음성에서 추출 (pytubefix + faster-whisper 필요)
+python tools/transcribe_audio.py
 
 # 3. 문법 분석
 python tools/analyze_grammar.py
@@ -76,6 +79,15 @@ python tools/generate_html.py
 - 스크립트 내 실제 사용 문맥도 함께 저장
 - 출력: `data/vocab/{video_id}.json`
 - **새 단어 추가**: `analyze_vocab.py`의 `VOCAB_DB` 딕셔너리에 항목 추가
+
+### `tools/transcribe_audio.py`
+- 자막이 없는 영상의 오디오에서 스크립트를 추출
+- `pytubefix`로 오디오 다운로드 → `faster-whisper`(Whisper base 모델)로 음성→텍스트 변환
+- 자동 언어 감지 (한국어/영어 혼합 영상 지원)
+- 처리 후 오디오 파일 자동 삭제 (디스크 절약)
+- 출력: `data/scripts/{video_id}.json` (fetch_scripts.py와 동일 포맷)
+- 의존성: `pip install pytubefix faster-whisper`, `brew install ffmpeg`
+- 사용: `python tools/transcribe_audio.py` (전체) 또는 `python tools/transcribe_audio.py 5` (5개만)
 
 ### `tools/generate_html.py`
 - CSV + scripts + grammar + vocab JSON을 읽어 HTML 생성
