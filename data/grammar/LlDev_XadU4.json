@@ -1,0 +1,81 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      ">> Cheers. Today I'm going to show you what I spend in a day in Hanoi, Vietnam. I'll teach you money related English expressions along the way. Right now, I'm waiting for a taxi to go get my nails done.",
+      "I'm pretty hungry now, so I'm going to head to the old quarter to grab some lunch.",
+      "So, while we drink, I'm going to ask you a few questions about your life in Hanoi. So, you've been living in Hanoi for the past 6 years?",
+      "If my calculations are correct, I spent about $75 all day today. I'd say that's not too bad for a full day of travel. Now I'm going to eat my kebab and relax for the rest of the night. Thanks for watching."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      ">> Cheers. Today I'm going to show you what I spend in a day in Hanoi, Vietnam. I'll teach you money related English expressions along the way. Right now, I'm waiting for a taxi to go get my nails done.",
+      ">> Thank you. I'm sorry. I wanted it to be on me this time since you paid for the taxi. Next time it's on me, I'll get cash >> and next time we can go do.",
+      ">> Yes, it's quite common. Someone will pay and afterwards people will transfer to that person.",
+      ">> In Vietnamese, you will shout the price."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "It cost $2.76 USD. That's pretty cheap. Usually when I get my nails done, it's a bit of a splurge, but I have no idea what it costs here. So, let's go in and find out.",
+      ">> I'm obsessed with these nails. This was the cost. 98,000 dong, which is roughly 35 USD. Usually when I get my nails done, it's pretty pricey, but this was honestly a steal."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      ">> You can get some veggies as well.",
+      ">> Thank you. I'm sorry. I wanted it to be on me this time since you paid for the taxi. Next time it's on me, I'll get cash >> and next time we can go do.",
+      ">> Can I ask how much you pay for rent here in Vietnam?",
+      ">> Wow. But he has a very nice apartment with a beautiful terrace. What's included in your rent? Usually in Hanoi, you can rent a service apartment, meaning that it's fully furniture. You get help with cleaning once or twice a week.",
+      ">> Can I ask what is like the average wage of an English teacher here in Hanoi?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      ">> Yeah. I would say like day-to-day food.",
+      ">> To live comfortably for a month in Hanoi, how much money do you need? I would say depends on where you want to live and the kind of apartment that you would like to get. For example, a one-bedroom apartment would be something in between 8 million to 15 million.",
+      "Price from a studio would be much more cheaper, 67 million. Even though Hanoi is known as budget friendly, there are also luxury options that would be much more expensive. For groceries, every week I spend around four meal, but that's because I eat a lot. You can get food for a dollar or even less. And electricity depends on the months.",
+      "Usually in summer it would be around two to three mil. In winter it would be around a mill.",
+      ">> If I have a,000 USD would I be able to live comfortably for a month here?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      ">> If I have a,000 USD would I be able to live comfortably for a month here?"
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Price from a studio would be much more cheaper, 67 million. Even though Hanoi is known as budget friendly, there are also luxury options that would be much more expensive. For groceries, every week I spend around four meal, but that's because I eat a lot. You can get food for a dollar or even less. And electricity depends on the months."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      ">> In English, if you want to try to get a bargain, first I would just ask, \"How much is this?\" And then you can maybe say something like, \"Can I get a small discount?\" Or, \"How about $5 for two of these?\""
+    ]
+  }
+]

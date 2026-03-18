@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 
 SCRIPTS_DIR = "data/scripts"
+GRAMMAR_DIR = "data/grammar"
 PAGES_DIR = "docs/pages"
 os.makedirs(PAGES_DIR, exist_ok=True)
 
@@ -37,7 +38,8 @@ TABLE_STYLE = """
   .badge:hover { opacity: 0.8; text-decoration: none; }
   .badge.yt { background: #ff0000; color: #fff; }
   .badge.detail { background: #3498db; color: #fff; }
-  .badge.script { background: #2ecc71; color: #fff; cursor: default; }
+  .badge.script { background: #2ecc71; color: #fff; }
+  .badge.grammar { background: #9b59b6; color: #fff; }
   td:first-child, th:first-child { text-align: center; width: 40px; }
   td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(6) { white-space: nowrap; text-align: center; }
   th:nth-child(3), th:nth-child(4), th:nth-child(5), th:nth-child(6) { text-align: center; }
@@ -59,6 +61,12 @@ DETAIL_STYLE = """
   .transcript h2 { margin-bottom: 16px; font-size: 1.2em; }
   .sentence { margin: 0 0 12px 0; line-height: 1.8; font-size: 1.05em; }
   .no-script { color: #999; font-style: italic; }
+  .grammar { background: #fff; border-radius: 8px; padding: 20px; margin-top: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+  .grammar h2 { margin-bottom: 16px; font-size: 1.2em; }
+  .grammar-unit { margin-bottom: 20px; border-left: 4px solid #3498db; padding-left: 16px; }
+  .grammar-unit h3 { font-size: 1em; color: #3498db; margin-bottom: 4px; }
+  .grammar-unit .grammar-desc { color: #888; font-size: 0.85em; margin-bottom: 8px; }
+  .grammar-unit .example { background: #f8f9fa; border-radius: 4px; padding: 8px 12px; margin: 4px 0; font-size: 0.95em; line-height: 1.6; }
 """
 
 
@@ -109,6 +117,29 @@ for i, v in enumerate(videos, 1):
     else:
         lines_html = '<p class="no-script">자막을 가져올 수 없는 영상입니다.</p>'
 
+    # Grammar section
+    grammar_html = ""
+    grammar_path = os.path.join(GRAMMAR_DIR, f"{video_id}.json")
+    if os.path.exists(grammar_path):
+        with open(grammar_path, "r", encoding="utf-8") as gf:
+            grammar_data = json.load(gf)
+        if grammar_data:
+            grammar_items = ""
+            for g in grammar_data:
+                examples = ""
+                for ex in g["examples"]:
+                    examples += f'<div class="example">{html.escape(ex)}</div>\n'
+                grammar_items += f"""<div class="grammar-unit">
+  <h3>Unit {g["unit"]}: {html.escape(g["title"])}</h3>
+  <div class="grammar-desc">{html.escape(g["desc"])}</div>
+  {examples}
+</div>\n"""
+            grammar_html = f"""
+  <div class="grammar" id="grammar">
+    <h2>Grammar Notes (Units 20-46)</h2>
+    {grammar_items}
+  </div>"""
+
     detail_page = f"""<!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -136,6 +167,7 @@ for i, v in enumerate(videos, 1):
     <h2>Script</h2>
     {lines_html}
   </div>
+  {grammar_html}
 </div>
 </body>
 </html>"""
@@ -157,7 +189,9 @@ for i, v in enumerate(videos, 1):
     thumb = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg" if video_id else ""
 
     has_script = os.path.exists(os.path.join(SCRIPTS_DIR, f"{video_id}.json"))
+    has_grammar = os.path.exists(os.path.join(GRAMMAR_DIR, f"{video_id}.json"))
     script_badge = f'<a href="pages/{video_id}.html#script" class="badge script">Script</a>' if has_script else ""
+    grammar_badge = f'<a href="pages/{video_id}.html#grammar" class="badge grammar">Grammar</a>' if has_grammar else ""
 
     rows_html += f"""
     <tr>
@@ -173,6 +207,7 @@ for i, v in enumerate(videos, 1):
               <a href="{url}" target="_blank" class="badge yt">YouTube</a>
               <a href="pages/{video_id}.html" class="badge detail">상세</a>
               {script_badge}
+              {grammar_badge}
             </div>
           </div>
         </div>

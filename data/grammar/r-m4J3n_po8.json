@@ -1,0 +1,95 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "It's the day of the party and I think everyone's going to show up in a few hours. I deep cleaned yesterday, but I still need to pick up the house a little bit before all the guests arrive. I'm going to start by putting the dishes away.",
+      "Finally, I'm going to vacuum.",
+      ">> You're going to be the DD."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "It's really delicious, but I'll resist the temptation.",
+      "This costs the same as one pack of those strawberries. We're getting this. We'll send any extras with your family.",
+      "I'll do the recycling as well.",
+      "Olives, crackers, dessert plate. M. Pro tip, buy packaged food and put it on a plate. That way it looks like you made it. Tip: Never throw away your boxes because you can use them again for leftover food after the party. I've made that mistake many times. The last thing I have to do is heat up the chicken. I will just use the air fryer for that so it's not a hassle.",
+      ">> Time for DJ Callie. What kind of music does your dad like? He plays the saxophone, so I think he'll like jazz music. Let's do that."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "wall. This is a huge cart. Do you think we can fill it? I think we can.",
+      ">> Really good. You can't pass by the free samples and not grab one. It's a rule.",
+      "Can't go wrong with that.",
+      "I think everybody likes takangjang. And it says you can heat it in the air fryer and it's even more delicious. So, we got to get this. 2 4 6 18. That's more than enough, I think.",
+      "I bet you this is filled with air. Can I check?"
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I had to check it and make sure it's good. Quality assurance test.",
+      "Olives, crackers, dessert plate. M. Pro tip, buy packaged food and put it on a plate. That way it looks like you made it. Tip: Never throw away your boxes because you can use them again for leftover food after the party. I've made that mistake many times. The last thing I have to do is heat up the chicken. I will just use the air fryer for that so it's not a hassle.",
+      "Wow, you didn't have to bring all this.",
+      ">> Designated driver. So, he cannot drink alcohol tonight. He has to drive home."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Which one should we buy? These look pretty good, actually."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "Now, it's time to set out the food. I usually like to cook everything myself and prepare a big spread, but unfortunately I was too busy to do that this time. So, I ordered some food and grabbed some simple appetizers and finger food from the grocery store."
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "I bet you this is filled with air. Can I check?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Let's see if they have some fancy cheeses in the deli. Something like these maybe with crackers. Salami cheese and crackers. It's a classic combo."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I bet you this is filled with air. Can I check?"
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Oh, they have the fried chicken ice cream."
+    ]
+  }
+]

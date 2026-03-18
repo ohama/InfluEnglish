@@ -1,0 +1,80 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Oh my gosh. I lied earlier because I found an even hotter room. It's called the Bulgama and it's 75° C. I'm not going to lie, I'm terrified.",
+      "So good. I'm going to find a spot to sit and rest and enjoy my snack. I have to make one of these towel hats. I love that they call it a sheep head. They have very nice clear instructions. I'm going to follow the instructions and make my sheep head hat. Lay the towel flat. Fold it into thirds lengthwise.",
+      "They're so cute. I'm going to crack the egg."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "It's kind of a fun and interesting phrase. Thanks for spending the day with me and I'll see you next time. Bye."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Let's see how long I can handle this heat.",
+      "I feel like I'm suffocating. I can't breathe. Let's go. Bali. Bali.",
+      "M. It's a little bit spicy, but not too bad. I can handle this level of spice.",
+      "I even slurped the noodles. This flavor might be a new favorite of mine. It's pretty good. I can see why it was almost sold out.",
+      "The only thing I have left to do here is enjoy the baths. Obviously, I can't take you guys with me because everyone there is naked. Actually, when I first came to Korea, I was so surprised that the spas were all new. That was a big culture shock for me, but now I'm used to it."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "They have unlimited toppings here. I want to fill up my bowl, but there's a sign that says too many toppings may cause the ramen to overflow or not cook properly. So, I have to choose wisely.",
+      "I even slurped the noodles. This flavor might be a new favorite of mine. It's pretty good. I can see why it was almost sold out."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "When I paid for my ticket, they gave me a wristband. Everything here is cashless. So, if I want to buy something, I just have to tap this wristband. Behind me is the hottest room here. I'm kind of scared to try it, but go big or go home, right? It's 68 degrees Celsius, so it's scorching hot.",
+      "So good. I'm going to find a spot to sit and rest and enjoy my snack. I have to make one of these towel hats. I love that they call it a sheep head. They have very nice clear instructions. I'm going to follow the instructions and make my sheep head hat. Lay the towel flat. Fold it into thirds lengthwise.",
+      "Of course, I have to test out the hammock.",
+      "So, I have to give it a shot and try to win it.",
+      "I'm trying sesame ramen this time. It's got to be good because it's almost all sold out. Now I have to choose some toppings."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "It got even hotter after I went in there. I was struggling in there, but all the emos made it look so easy. It didn't even phase them. Let's head to the ice room to cool off. I'm going from 70° to 10°, but I'm from Michigan, so this should be no problem. I've got this.",
+      ">> Should I try one more time?",
+      "It's a selfs serve ramen noodle bar. It reminds me of eating ramen at the Han River. I'm so stoked for this. I'm very hungry. Should I go for the familiar Shin Ramen or should I try something new? Today they have so many options to choose from."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "I've done extremely hot rooms in extremely cold room. I think it's time to find a happy medium.",
+      "It's time to cook the ramen. I've got my chopsticks ready."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      ">> Where to first? They have different colored foot baths here. They have a pink one, a blue one. I'm getting in the greenish yellowish one. I guess the different colors are just for fun and to look cool. Feels good though."
+    ]
+  }
+]

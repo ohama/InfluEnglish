@@ -1,0 +1,78 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Key word. Feel like this date is going to be very important.",
+      "Honestly, [music] I'm just scared she's going to fall down those stairs right now.",
+      ">> I wonder if he's going to bring up the conversation on the phone. Remember, she said like, \"I don't think he ever loved me."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      ">> Do you think she will change from Yushi?",
+      ">> I know. I hate when they only do one episode. I want to just like binge watch the whole series at once. Anyways, let us know in the comments what you thought of this episode and we will see you next time. Bye."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "That's so sad. He's underrated. He can cook. He's tall.",
+      "[snorts and laughter] >> The way she's sitting, that's all I can think about. I'm like so [laughter] scared watching this.",
+      ">> Yeah, [sighs] >> she can't move on.",
+      "He deserves it. Wow. I could I should be a matchmaker."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "So, mad respect for all of them. All right. Should we get started?",
+      ">> You know what? Her and Beyon should get together. [laughter] They would be a match made in heaven. I respect all of them.",
+      "He deserves it. Wow. I could I should be a matchmaker."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      ">> I pretty much like all the girls I would say, but these days I have a soft spot for Minyong. I think she's having a really hard time. I just hope she finds someone and she's happy. And then out of the guys, I love Ugjin, >> the cook.",
+      ">> You know, to be honest, as a guy, >> I don't think I would like that too much.",
+      "He does not mean it. Otherwise, he wouldn't even be saying this. He's just trying to be Mr. Cool.",
+      ">> You know what? Her and Beyon should get together. [laughter] They would be a match made in heaven. I respect all of them."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      ">> Today we are watching and reviewing episode 9 of Juan. We are obsessed with this show.",
+      ">> is done game."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      ">> Actually, we dated for 12 years before getting married. So, we love dating shows and talking about relationships."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      ">> I pretty much like all the girls I would say, but these days I have a soft spot for Minyong. I think she's having a really hard time. I just hope she finds someone and she's happy. And then out of the guys, I love Ugjin, >> the cook."
+    ]
+  }
+]

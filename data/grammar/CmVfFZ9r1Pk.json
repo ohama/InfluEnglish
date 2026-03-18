@@ -1,0 +1,72 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "DIY stands for do it yourself. There is even a TV channel called HGTV, which stands for Home and Garden Television. On that channel, they have a ton of shows [music] of people doing home makeovers, flipping houses, and house hunting. Behind me are some tools commonly used when doing [music] DIY projects. I see a level, a power drill, a hammer, and nails. But you'll also probably need a measuring tape.",
+      "I built one all by myself. It was so heavy and hard. I'm surprised I didn't throw my back out. Building IKEA furniture is not for the week, but I did it. I'm so proud of myself. I notice a lot of the furniture here has a very minimalist feel to it. And although I'm trying to live like a minimalist these days, my favorite style of home is actually the opposite, maximalist. In maximalist rooms, you'll find a lot of little trinkets, bold colors, fun patterns, and mixing and matching different styles. It sounds a little crazy, but if it's done right, it's really fun and whimsical.",
+      ">> Yes, it is cooked perfectly. Evenly cooked. Very complex flavor profile. The chef's intention was well delivered here.",
+      "That's a wrap [music] on my trip to IKEA. I didn't buy much, but I got [music] a lot of inspiration for my future home. Thanks for joining me, and I'll see you next time. Bye."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I move around a lot, so I never really get to personalize my space or make it feel like me. One day I'd love to buy a fixer upper and do some renovations and remodeling like tearing out walls, redoing the kitchen, laying new flooring, and adding a fresh coat of paint. Ooh, I really like this living room. Warm lighting like this makes a space feel very cozy and inviting. I'm not a big fan of harsh overhead lights at home. A nice lamp like this can totally change the vibe of a room.",
+      "It's like looking into the future. I can see myself here.",
+      "Honey, you're home. Our chef couldn't make it today, [music] so I was going to whip up something quick and easy like filet minan and lobster. What do you think?",
+      "I'm Dulu right now. Just let me be Dulu in peace. [music] Okay. A girl can dream. I think I found the cameraman's favorite room.",
+      "All right, vlog's over. Good night, everyone. [laughter] I could use a nap. It's quite comfortable. This mattress is a little bit firm, but I like it. Okay, let's keep going. Oh my gosh, they have bunk beds here. I had a bunk bed when I was a kid, and I used to love sleeping on the top bunk. This one is really cool because instead of having another bed on the bottom, they have a little love seat."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "A love seat is a twoperson sofa. It's a cute word, isn't it? I think they call it a love seat since it's small. You have to get really close to the person next to you. Come on, cameraman. Sit next to me."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I'd love to buy a fixer upper. They have a lot of pull out couches. I'm dulu right now. I always have room for dessert. What do you call these? These are called Today I am shopping at IKEA.",
+      "I move around a lot, so I never really get to personalize my space or make it feel like me. One day I'd love to buy a fixer upper and do some renovations and remodeling like tearing out walls, redoing the kitchen, laying new flooring, and adding a fresh coat of paint. Ooh, I really like this living room. Warm lighting like this makes a space feel very cozy and inviting. I'm not a big fan of harsh overhead lights at home. A nice lamp like this can totally change the vibe of a room."
+    ]
+  },
+  {
+    "unit": 39,
+    "title": "I wish I knew",
+    "desc": "현재 반대 소망",
+    "examples": [
+      "Okay, it's pretty good. I really like the creamy sauce, but I wish they had more gravy. Usually, I love my mashed potatoes smothered in gravy."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I'd love to buy a fixer upper. They have a lot of pull out couches. I'm dulu right now. I always have room for dessert. What do you call these? These are called Today I am shopping at IKEA.",
+      "These are called faucets. What do you call this?",
+      "This is called a strainer. What do you call these?",
+      "These are called food containers, but in everyday English, a lot of people call it Tupperware. Tupperware is actually the name of a brand that sells a lot of food containers and other kitchen supplies. Last one because this one is a fun word. What do you call this?",
+      "This is called a squeegee. I just love that word. [music] It sounds so silly."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I built one all by myself. It was so heavy and hard. I'm surprised I didn't throw my back out. Building IKEA furniture is not for the week, but I did it. I'm so proud of myself. I notice a lot of the furniture here has a very minimalist feel to it. And although I'm trying to live like a minimalist these days, my favorite style of home is actually the opposite, maximalist. In maximalist rooms, you'll find a lot of little trinkets, bold colors, fun patterns, and mixing and matching different styles. It sounds a little crazy, but if it's done right, it's really fun and whimsical.",
+      "All right, vlog's over. Good night, everyone. [laughter] I could use a nap. It's quite comfortable. This mattress is a little bit firm, but I like it. Okay, let's keep going. Oh my gosh, they have bunk beds here. I had a bunk bed when I was a kid, and I used to love sleeping on the top bunk. This one is really cool because instead of having another bed on the bottom, they have a little love seat.",
+      ">> Wow, you're ditching me. Wow. [laughter] Ooh, I really like this bedroom. It's mostly black and white, but they added some pops of color. They have a green throw pillow and a red chair. I also love how they mix and matched different patterns here. They have a polka dot blanket and a striped pillow. Very nice."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to put my PJs on.",
+      "I'm going to put my PJs on.",
+      "I'm going to put my PJs on."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll do my skin care now.",
+      "I'll do my skinare now.",
+      "I'll do my skincare now.",
+      "If you do your skin care consistently, you'll notice a big improvement in your skin.",
+      "If you do your skin care consistently, you'll notice a big improvement in your skin."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "What should we cook for dinner tonight?",
+      "What should we cook for dinner tonight?",
+      "What should we cook for dinner tonight?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "Would you rather set an early alarm and go for breakfast or sleep in tomorrow?",
+      "Would you rather set an early alarm and go for breakfast or sleep in tomorrow?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "I wouldn't have put my PJs on if I had known we were going out tonight.",
+      "If you do your skin care consistently, you'll notice a big improvement in your skin.",
+      "If you do your skin care consistently, you'll notice a big improvement in your skin."
+    ]
+  }
+]

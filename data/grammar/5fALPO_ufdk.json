@@ -1,0 +1,48 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Hi. What can I get for you? I'll do a latte.",
+      "I'll do a latte.",
+      "I'll do a latte.",
+      "I'll have a mocha with soy milk.",
+      "I'll have a mocha with soy milk."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Hi. What can I get for you? I'll do a latte.",
+      "Can I get an iced vanilla latte?",
+      "Can I get an iced vanilla latte?",
+      "Can I get an iced vanilla latte?",
+      "Could I please have a small iced vanilla latte?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I'd like a blueberry bagel with cream cheese on the side.",
+      "I'd like a blueberry bagel with cream cheese on the side.",
+      "I'd like a blueberry bagel with cream cheese on the side."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Could I please have a small iced vanilla latte?",
+      "Could I please have a small iced vanilla latte?",
+      "Could I please have a small iced vanilla latte?",
+      "Could I get the croissant warmed up?",
+      "Could I get the croissant warmed up?"
+    ]
+  }
+]

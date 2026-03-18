@@ -1,0 +1,58 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "It's pretty good bang [music] for your buck. I'm going to be on a sugar high after tonight. My hands are numb. What the heck? Merry Christmas. I'm at the Christmas market in Busousan. I've seen it all over social media, so I'm excited to be here and experience it for myself.",
+      ">> Yeah. I really like it. I'm being so indecisive. I can't make up my mind about what to eat. There's just so much good food here. This is like a little sampler platter. I think I'm going to get this because it's great for indecisive people. You can try a little bit of everything.",
+      ">> I think we did pretty good. We finished almost everything. I really liked this platter because I got to try a variety of different foods. It was 36,000 Korean Juan, but you get a lot of food, so it's pretty good bang for your buck. The sun is setting and it's getting a bit chilly, so I'm going to head inside for a little bit to take a break and warm up. My hands are numb. Let's brave the cold for some hot chocolate. Come on.",
+      "I love toasted marshmallow. I feel like it's going to get on my nose.",
+      "Woo. That is rich. I'm going to be on a sugar high after tonight. Try sip."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Very delicious. I'll never go back to eating this with rice. It's so good with noodles."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      ">> Yeah. I really like it. I'm being so indecisive. I can't make up my mind about what to eat. There's just so much good food here. This is like a little sampler platter. I think I'm going to get this because it's great for indecisive people. You can try a little bit of everything.",
+      "Mission complete. Let's go eat this before it gets cold. Let's see if we can find a seat. There's so many people here.",
+      ">> I haven't bought something nice for myself like this for a long time. It's Christmas. It's just so unique. I can't pass it up. The elves were working hard in their workshop and they made me a nice gift."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Mold wine is a must at Christmas markets.",
+      "It's steaming hot. I have to blow on it to cool it off."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      ">> There's people toasting marshmallows over a fire. I want to do it, but I've had too much sugar today. It's time for some Christmas shopping. Who needs Santa when I've got the cameraman, right? He's ignoring me.",
+      ">> I'm pretty worn out. I'm coming down from my sugar high. So, it's time to go home. Let's get out of here. It's getting more and more packed."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "It reminds me of German Christmas markets. I've never been to a German Christmas market, but that's what I imagined they'd serve there. I got matadubu noodles. This is a first for me."
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      ">> I've done a lot of hiking in Korea. I did Jirisan and my first hike ever in Korea was Sarakan. We started at 3:00 a.m. I thought we were going to be the only crazy people on the mountain and there was a line going up the mountain.",
+      "Watch your step. It's a little steep here. Going down is really hard on my knees. I feel like they're going to give out. It's a little slippery, too. Wa!",
+      "I know this is not going to look cool on camera. Okay, trail running.",
+      "John >> food at the bottom of a mountain is always the best. I love acorn jelly and I heard that it's handmade here, so it must be great. I also got some dongju. I love traditional Korean alcohol, but I'm not going to lie, it always gives me a killer headache the next day. I hope that's not the case tomorrow. Fingers crossed. Cheers.",
+      "I'm going to enjoy the rest of my meal."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Fit check. I have a zip up on because I always like to dress in layers while hiking. I have a hat on and a backpack full of supplies. And of course, I wore my hiking boots. I'm ready. Let's check the trail map to see which route I'll be taking. I want to go to the peak today."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I think we went the wrong way. You can eat the butt.",
+      "A hiking necessity. Gimbop, you can eat the butt. I don't like the butt. It's too big.",
+      "Whoa. I can see the apartments. Oh. Oh, there's a really pretty bird. I think it's good for bird watching.",
+      ">> Oh, someone feeds you. Well, huh. Can we take him home?"
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "John >> food at the bottom of a mountain is always the best. I love acorn jelly and I heard that it's handmade here, so it must be great. I also got some dongju. I love traditional Korean alcohol, but I'm not going to lie, it always gives me a killer headache the next day. I hope that's not the case tomorrow. Fingers crossed. Cheers."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "It's kind of an unspoken rule. If somebody asks that, you have to say you're almost there. Even if you're very far. Am I almost to the top? You're almost there. You're almost there.",
+      "We made it to the peak. Woohoo. I have to take a picture with the marker for proof.",
+      "Before I went on the Appalachian Trail, I had to get leave no trace certified."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Goang Bong. That's where we're headed today. And we are here. Okay. Our course is about 2 kilometers. And it says it should take about an hour, but I guess that depends on how many snack breaks I take. Let's go."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "This is such an amazing view. And the leaves are changing colors. It reminds me of home. Michigan has beautiful fall colors. I was hoping we'd catch them this year. Yes."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "John >> food at the bottom of a mountain is always the best. I love acorn jelly and I heard that it's handmade here, so it must be great. I also got some dongju. I love traditional Korean alcohol, but I'm not going to lie, it always gives me a killer headache the next day. I hope that's not the case tomorrow. Fingers crossed. Cheers."
+    ]
+  }
+]
