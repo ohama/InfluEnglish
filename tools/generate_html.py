@@ -57,10 +57,7 @@ DETAIL_STYLE = """
   .embed iframe { width: 100%; max-width: 720px; aspect-ratio: 16/9; border: none; border-radius: 8px; }
   .transcript { background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
   .transcript h2 { margin-bottom: 16px; font-size: 1.2em; }
-  .line { padding: 6px 0; border-bottom: 1px solid #f0f0f0; display: flex; gap: 12px; }
-  .line:hover { background: #fafafa; }
-  .ts { color: #888; font-size: 0.85em; min-width: 50px; flex-shrink: 0; }
-  .text { flex: 1; }
+  .sentence { margin: 0 0 12px 0; line-height: 1.8; font-size: 1.05em; }
   .no-script { color: #999; font-style: italic; }
 """
 
@@ -92,11 +89,22 @@ for i, v in enumerate(videos, 1):
     if has_script:
         with open(script_path, "r", encoding="utf-8") as sf:
             snippets = json.load(sf)
+        # Merge snippets into sentences
+        paragraphs = []
+        current_text = ""
+        current_start = 0
         for s in snippets:
-            ts = fmt_time(s["start"])
-            yt_link = f"{url}&t={int(s['start'])}"
-            text = html.escape(s["text"])
-            lines_html += f'<div class="line"><a class="ts" href="{yt_link}" target="_blank">{ts}</a><span class="text">{text}</span></div>\n'
+            if not current_text:
+                current_start = s["start"]
+            current_text += (" " if current_text else "") + s["text"]
+            if current_text.rstrip().endswith((".", "!", "?", "...", '"')):
+                paragraphs.append({"start": current_start, "text": current_text.strip()})
+                current_text = ""
+        if current_text.strip():
+            paragraphs.append({"start": current_start, "text": current_text.strip()})
+        for p in paragraphs:
+            text = html.escape(p["text"])
+            lines_html += f'<p class="sentence">{text}</p>\n'
         detail_count += 1
     else:
         lines_html = '<p class="no-script">자막을 가져올 수 없는 영상입니다.</p>'
