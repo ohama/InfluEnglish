@@ -31,6 +31,9 @@ def get_missing_videos():
         if not video_id:
             continue
         if not os.path.exists(os.path.join(SCRIPTS_DIR, f"{video_id}.json")):
+            duration = int(v.get("duration", 0) or 0)
+            if duration > 1800:  # Skip videos longer than 30 minutes
+                continue
             missing.append({"video_id": video_id, "url": url, "title": v["title"]})
     return missing
 

@@ -1,0 +1,57 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "So I'm going to have a piece of pie now and get ready for bed."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "You take this out, and there will be a little plastic in on top.",
+      "I've got a few souvenirs from Korea with me, so I'll give them some gifts and just catch up with them.",
+      "Oh, sure, I'll have cherry coke.",
+      "Yeah, I'll show you again.",
+      "I am definitely going to sleep well after all of this good food I ate today."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "I will be making a lot more videos like this while I'm in the US."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "The food already smells amazing, and I can't wait to dig in.",
+      "I bet you know what I have, so you can help yourself.",
+      "Yeah, you can have some of that.",
+      "I couldn't make up my mind about which kind of pie I wanted to eat."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Sometimes if we have leftover turkey, we like to make turkey sandwiches in the evening."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "And I know it was baked with love."
+    ]
+  }
+]

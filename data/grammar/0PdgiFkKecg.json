@@ -1,0 +1,93 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "So today, I'm going to give you a tour of our cabin."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "My grandma cooks very delicious food so we eat really well up here.",
+      "If you take a look around the cabin, you'll see all kinds of deer heads and antlers.",
+      "So we'll grill hot dogs, hamburgers, chicken, steaks, all kinds of delicious food on the grill.",
+      "I will be interviewing my grandpa who built this cabin with his bare hands.",
+      "So make sure to stay tuned. I will see you next time."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "I will be interviewing my grandpa who built this cabin with his bare hands."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "And I've been coming here since I was a very little girl before I could even walk.",
+      "As you can see, this cabin is very remote.",
+      "But sometimes it can be a little bit scary because if there's ever an emergency, there's no hospital nearby. You're out of luck.",
+      "In these days we can even watch TV here and make phone calls.",
+      "Even in the dead of winter, you can stay very warm in this cabin."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "But you have to be careful sometimes because there is a lot of wildlife in the area.",
+      "So you just have to stay alert if you go for a walk.",
+      "So we had to go to the bathroom outside, which was not an ideal situation.",
+      "We don't have to rough it as much up here anymore.",
+      "Now I'm going upstairs. The stairs are quite steep, so you have to be careful coming up."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "This is our shed where we store our ATVs.",
+      "And when I was growing up, my grandparents would put a salt lick out there for the deer to come eat.",
+      "We'd always use binoculars and get a good view of the deer here.",
+      "When we would come in the winter time, it would be so snowy.",
+      "And we would sled down this little hill."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "So you just have to stay alert if you go for a walk.",
+      "If you take a look around the cabin, you'll see all kinds of deer heads and antlers."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The whole thing is heated by this wood stove here.",
+      "They shoot the deer and then they eat the deer meat, which is called venison."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "We also have a bonfire pit where my family and our friends all like to gather around the fire, have some drinks and roast some marshmallows.",
+      "When I was very young here, we had an outhouse because they didn't have a working toilet."
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "If you have any other K drama recommendations please let me know in the comments because I'll be watching a lot more K dramas from here on out.",
+      "So I think it will be a good chance to focus on some of my personal goals, like continuing to try and exercise more regularly, getting on a better sleep schedule, practicing my Korean, these kinds of things.",
+      "Thank you for watching and I will see you next time."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "When I have free time and I'm not watching a K drama I've been reading books which is pretty normal for me. I love to read books."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I'm not really a big gym rat and I think doing workouts at home can be more comfortable and convenient.",
+      "Maybe it's because I can relate to them.",
+      "So they can be a bit confusing but always towards the end of her books I get hooked and I cannot put them down.",
+      "The tent actually floats on water and you can fish right off of the deck of your tent."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "You must be very familiar with her now."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "In order to change that habit I told myself if I want to watch TV I should watch a Korean drama instead.",
+      "This upcoming week should be a little bit more chill."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If I was washing the dishes I also watched a show. While I was folding laundry I also watched a show.",
+      "If you have any other K drama recommendations please let me know in the comments because I'll be watching a lot more K dramas from here on out."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I was invited to a skincare event by Skinchansa."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I love lead female characters that have a little bit of an attitude."
+    ]
+  }
+]

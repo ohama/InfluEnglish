@@ -1,0 +1,67 @@
+[
+  {
+    "word": "awkward",
+    "meaning": "어색한, 불편한",
+    "examples": [
+      "There was an awkward silence.",
+      "I felt so awkward at the party.",
+      "It was awkward meeting my ex at the store."
+    ],
+    "context": [
+      "Sometimes I feel awkward.",
+      "That's really awkward."
+    ]
+  },
+  {
+    "word": "chewy",
+    "meaning": "쫄깃쫄깃한",
+    "examples": [
+      "Tteokbokki has a chewy texture.",
+      "The bread is soft and chewy.",
+      "I love chewy gummy bears."
+    ],
+    "context": [
+      "Whereas for you, it's like really kind of chewy texture.",
+      "The texture is very chewy."
+    ]
+  },
+  {
+    "word": "fluent",
+    "meaning": "유창한",
+    "examples": [
+      "She's fluent in three languages.",
+      "I want to become fluent in English.",
+      "He speaks fluent Korean."
+    ],
+    "context": [
+      "We're not totally fluent.",
+      "We're not totally fluent."
+    ]
+  },
+  {
+    "word": "spicy",
+    "meaning": "매운, 양념이 센",
+    "examples": [
+      "Korean food can be very spicy.",
+      "I can't handle spicy food well.",
+      "Would you like it mild or spicy?"
+    ],
+    "context": [
+      "Spicy.",
+      "Do you like spicy food?"
+    ]
+  },
+  {
+    "word": "texture",
+    "meaning": "식감, 질감",
+    "examples": [
+      "The cake has a soft, fluffy texture.",
+      "I love the crunchy texture of fried chicken.",
+      "The texture of this fabric is so smooth."
+    ],
+    "context": [
+      "The texture is very chewing and I don't think it has too much flavor though.",
+      "I feel like in Spain we like more like softer texture."
+    ]
+  }
+]

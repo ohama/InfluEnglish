@@ -1,0 +1,32 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "To finish day 1, you'll do shadowing and practice listening.",
+      "This is where you'll actually be able to practice using what you learned.",
+      "The last thing you'll do on the output day is write a diary entry.",
+      "You'll have your input day, your output day, in a review day, input day, output day in review."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "와우, we're already printing our third batch of this book, I can't believe it.",
+      "That is the best compliment I could ever get.",
+      "This is where you'll actually be able to practice using what you learned.",
+      "In this part of the lecture, I provide you with sentence patterns so you can make longer and more complex sentences on your own."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I'd really appreciate any reviews."
+    ]
+  }
+]

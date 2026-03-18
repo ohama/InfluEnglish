@@ -1,0 +1,67 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to grab some coffee.",
+      "I'm going to take a sip."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "We'll be giving everyone a free PDF of our custom orders episode along with the MP3 file that goes along with it.",
+      "I'll do an iced latte.",
+      "I'll do an oatmeal coin, please.",
+      "I'll do a bowl with chicken.",
+      "I'll do a larger please."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "You can say take out or take away but I definitely here to go the most in the US.",
+      "so I can hop on a bus and go to the office.",
+      "Can I take a sip of your latte?",
+      "그래서 if you do print out the worksheet you can always see the English script and the Korean script side by side.",
+      "We also added QR codes so you can easily use your phone to pull up the YouTube video."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Let's make the light in context is so important when learning phrases like these because if you look at all of the words separately, make the light, you might know all three of those words, what they mean."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "But it's like anything in life you have to push yourself out of that comfort zone to make progress."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "그래서 if you do print out the worksheet you can always see the English script and the Korean script side by side."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "These days we're trying out a lot of different content, like news with my dad, and mom's English with my sister, and it's been a lot of fun, but it is just the two of us, so at times it can be difficult."
+    ]
+  }
+]

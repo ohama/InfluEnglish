@@ -1,0 +1,115 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to kill you.",
+      "I'm going to have a lot of bad comments.",
+      "About where we're going to live."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "In my head, English is very soft, but it doesn't come out well in my mouth.",
+      "He'll really think about his next point or the logical solution.",
+      "Maybe I'll get some sympathy from the viewer.",
+      "The kids in English will be better than America.",
+      "I always when these arguments, like you were arguing so well and your English even improved."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "How can I beat my wife in an argument in English?",
+      "But when you're an international couple, and there's language differences, culture differences, it can lead to more arguments.",
+      "Of course, you can also use your body.",
+      "You can tell we're both stubborn.",
+      "How can I beat my wife in an argument in English?"
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "You may know it."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "You have to squeeze from the bottom to the bottom.",
+      "Since he has to fight in English, it usually works out in my favor.",
+      "You have to get out of your mouth quickly.",
+      "But to be accepted for a barmer car, you have to literally have nothing."
+    ]
+  },
+  {
+    "unit": 32,
+    "title": "mustn't / needn't",
+    "desc": "금지 / 불필요",
+    "examples": [
+      "But yeah, you don't need to want to mention that because you want to keep that in Korea."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "We should definitely live in the US because if we ever have kids sending them to school, I've seen how stressful it is here in Korea."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "So I would say the cost of healthcare is high in America.",
+      "I would love to visit London one day.",
+      "I would be outrageously expensive.",
+      "I think it would be nice if you guys to try English skills."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you go further, we don't want to go further though.",
+      "If you do really car, you've got to have a house, you don't have a job."
+    ]
+  },
+  {
+    "unit": 39,
+    "title": "I wish I knew",
+    "desc": "현재 반대 소망",
+    "examples": [
+      "I wish you had a good life in the US."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "But to be accepted for a barmer car, you have to literally have nothing."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Also, I feel like we have a very different style of fighting."
+    ]
+  }
+]

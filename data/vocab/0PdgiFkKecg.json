@@ -1,0 +1,38 @@
+[
+  {
+    "word": "cozy",
+    "meaning": "아늑한, 포근한",
+    "examples": [
+      "This café is really cozy.",
+      "I love staying in my cozy bed on rainy days.",
+      "They have a cozy little apartment."
+    ],
+    "context": [
+      "The cabin is always so cozy."
+    ]
+  },
+  {
+    "word": "literally",
+    "meaning": "문자 그대로, 정말로",
+    "examples": [
+      "I literally can't stop laughing.",
+      "She literally ran a marathon yesterday.",
+      "The store is literally around the corner."
+    ],
+    "context": [
+      "It's literally in the middle of nowhere."
+    ]
+  },
+  {
+    "word": "steep",
+    "meaning": "가파른; (가격이) 비싼",
+    "examples": [
+      "The mountain trail was very steep.",
+      "That's a steep price for a coffee.",
+      "Be careful on the steep stairs."
+    ],
+    "context": [
+      "Now I'm going upstairs. The stairs are quite steep, so you have to be careful coming up."
+    ]
+  }
+]

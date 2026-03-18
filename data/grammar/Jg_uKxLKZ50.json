@@ -1,0 +1,78 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "The first thing is, even if you, the mother, are not fluent in English, and you're afraid that if I teach them the wrong thing, they're going to learn the wrong thing.",
+      "So in the end, I'm going to let it be their decision."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "But first, I will introduce you to my very special guest today.",
+      "So will you introduce yourself?",
+      "The kids play very well during class time.",
+      "When we're together, it does sound funny, but the children will respond to me in English and respond to their father in Korean.",
+      "Even funnier, sometimes they will translate between us."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "Because even if we study it all day with a book, when you come face to face, hey, it's so different."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Suddenly, they can distinguish which one is English, which one is Korean.",
+      "Can you tell me a little bit more about that?",
+      "Mom can also learn from ABCD.",
+      "How can they help their kids get more fluent in English?",
+      "Not every kid can look at the book, write down 100 words."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "You might have heard there's like a few techniques for how to raise bilingual children.",
+      "And then you might end up making the same mistake again.",
+      "You might have heard there's like a few techniques for how to raise bilingual children, and we adapt one technique, which is called one parent, one language, where each parent chooses their native language to use to the child."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "And I would say the second one is, just acknowledge your own child's learning style.",
+      "That would be really interesting, the progression."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "You might have heard there's like a few techniques for how to raise bilingual children, and we adapt one technique, which is called one parent, one language, where each parent chooses their native language to use to the child."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "I can see that exactly right around three and a half years old is where the languages start to blend, and they get confused, but then they have this burst of language, and suddenly they can distinguish which one is English, which one is Korean."
+    ]
+  }
+]

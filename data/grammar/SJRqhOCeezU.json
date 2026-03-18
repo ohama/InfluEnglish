@@ -1,0 +1,112 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "So I'm going to take you to all the biggest sites and attractions that the city has to offer.",
+      "Now I'm going to dig into my bagel.",
+      "This looks like it's going to be the shortest line that we've had to stand in for food so far, but looks can be deceiving.",
+      "Tomorrow, I'm going to see Wicked."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I think kids will love this bagel.",
+      "Get the hell out of here.",
+      "I am at Magnolia Bakery, which is well known for its banana pudding.",
+      "I'll just do a small almond milk latte, please.",
+      "You can feel the energy when you come here, but I will say you need to be a little bit careful in Times Square."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "You can feel the energy when you come here, but I will say you need to be a little bit careful in Times Square."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Can I pick that?",
+      "In the summer they have concerts and in winter you can go ice skating here which I did years ago and it was lots of fun.",
+      "You could go to one.",
+      "Today it is very foggy so we can't see anything.",
+      "I'm kind of bummed because normally when the weather is nice, you can see all of the famous landmarks like the Empire State Building."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So I'm going to take you to all the biggest sites and attractions that the city has to offer.",
+      "This looks like it's going to be the shortest line that we've had to stand in for food so far, but looks can be deceiving.",
+      "I guess Koreans must like very strong coffee.",
+      "In my opinion, if you only have time to do one thing while you're here, you must go see a Broadway show."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "He should be the one carrying this, huh?",
+      "I'm not usually a huge meat eater, so this should be interesting.",
+      "The amount of cheese and meats on here should be criminal.",
+      "Plus, I think when it's your first time trying something, you always should go for the classic."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "It's been a long day of walking out in the cold, so it's time for some sugar and coffee."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "How much would it pay?",
+      "I would compare it to Song Su in Seoul because it looks a little rough on the outside, but it's got very trendy cafes and restaurants and lots of cool events going on.",
+      "I think it's delicious, but if I ate too much of it, I think I would definitely get a stomach ache.",
+      "I'd say today was a big success.",
+      "Let me know in the comments what you would like to do most in New York City."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you go to Liberty Bagels I do recommend this because it's the most popular menu item and it's very good."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I don't think the bagel is flavored at all.",
+      "Now we are in Dumbo, which is located in Brooklyn."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Get the hell out of here."
+    ]
+  }
+]

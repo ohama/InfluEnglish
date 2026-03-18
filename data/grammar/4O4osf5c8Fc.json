@@ -1,0 +1,82 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "If you visit the US during the winter months, chances are you're going to encounter some cold weather.",
+      "So today, I am going to teach you some cold weather English.",
+      "That's not going to happen.",
+      "And there's a dollopie on the card, so I'm going to be 44."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Yeah, I'll just take the price tags off and then whenever you're ready to come back, just get my attention.",
+      "I will never register to participate in this event again.",
+      "We'll take care of you, cameraman.",
+      "Yeah, I'll just take the price tags off.",
+      "And I'll take a Pepsi."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "It's just when you get some of that wind, then it gets bitter cold."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "And if you do want a hand carry and a mount, I can help you guys carry.",
+      "I can tell he's not used to Michigan winters like my mother and I.",
+      "And if you do want a hand carrying amount, I can help you guys carry it.",
+      "You could go with that.",
+      "Can I have a lemonade, too?"
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I'd have to have a lot of drinks before jumping in that water.",
+      "Yeah, we'll have to show you one to you."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I'd have to have a lot of drinks before jumping in that water.",
+      "I would not expect to run into someone I know up here, since this is not my hometown."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "And if you do want a hand carry and a mount, I can help you guys carry.",
+      "And if you do want a hand carrying amount, I can help you guys carry it."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The first event we came to see is called the Polar Plunge.",
+      "My mom and I are dressed in layers, but the cameraman isn't even wearing boots.",
+      "Actually, that's why this festival is called Tip Up Town."
+    ]
+  }
+]

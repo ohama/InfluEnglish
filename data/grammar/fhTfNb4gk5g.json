@@ -1,0 +1,91 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today, I'm going to take you around the city and show you all of the Christmassy sites and activities you can do while you're here.",
+      "So I'm going to try it.",
+      "We're going to go a little bit closer and get a better look at the windows.",
+      "I'm going to enjoy my food, watch a movie, and go to sleep right away."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "So anywhere you go, it'll be pretty crazy and crowded with people.",
+      "Well seasoned.",
+      "Even though this is expensive, I will say they give you a generous amount of meat.",
+      "We are heading to Diker Heights in Brooklyn because it's really well known for its Christmas light display.",
+      "It's about an hour on the subway, but it'll be nice to rest my legs for a while."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Today, I'm going to take you around the city and show you all of the Christmassy sites and activities you can do while you're here.",
+      "So let's get going and see what we can find to eat.",
+      "Can I do the Matcha broth latte, please?",
+      "I can taste the coconut more.",
+      "As you can see, there are gigantic wreaths all along the side of the building."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "I may have missed out on the viral hot chocolate earlier, but this one is even better because it's spiked."
+    ]
+  },
+  {
+    "unit": 30,
+    "title": "may/might have (done)",
+    "desc": "과거 가능성 추측",
+    "examples": [
+      "I may have missed out on the viral hot chocolate earlier, but this one is even better because it's spiked."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So I felt like I had to support it.",
+      "So you only have to pay to rent some skates.",
+      "If you're in New York City during the holiday season, you must see the rockets perform at Radio City, at least once in your life."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "We're at Macy's, which has what I would say, probably the most iconic holiday window display each year.",
+      "This would be my house."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "You can tell it was made fresh.",
+      "This thing is packed with meat.",
+      "They are known for their synchronized dance moves and especially for their kick line."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "They have a carousel right behind me.",
+      "And we still got a seep out here."
+    ]
+  }
+]

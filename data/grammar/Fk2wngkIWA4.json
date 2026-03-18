@@ -1,0 +1,92 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We are going to do some face painting.",
+      "We are going to surprise each other.",
+      "The boss is not what you were going to say?",
+      "This is what I'm going to make Christie."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll think about that.",
+      "This will choke me.",
+      "I think they'll be shocked."
+    ]
+  },
+  {
+    "unit": 22,
+    "title": "will / won't",
+    "desc": "거부, 불가, 확신 표현",
+    "examples": [
+      "I won't have it, but after she has me and Helen is gone."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "You can show the camera.",
+      "Okay, I can't laugh when you do it.",
+      "You can actually do it.",
+      "But then it can choke you.",
+      "You can do both of them, I think."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Okay, the lips might look good."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "You don't have to."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "No, you should trust me."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "That would not be a good ending.",
+      "Would you do it again?"
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "Can I open?"
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "So I've got a monkey butt, a minion and a ninja turtle nose."
+    ]
+  }
+]

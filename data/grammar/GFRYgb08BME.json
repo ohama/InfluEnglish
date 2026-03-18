@@ -1,0 +1,94 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We've got our tests here and we're going to get started.",
+      "Okay, this is not going to reflect well on American education maybe.",
+      "I'm definitely not going to SNU."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "How do you think you'll do on today's test?",
+      "Okay, this is not going to reflect well on American education maybe.",
+      "There's a lot more pressure to do well on the tests.",
+      "But it doesn't mean that they can actually speak English well or use English well in day-to-day life, right?"
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "How about you? Do you think you can beat a native English speaker?",
+      "I'm struggling. I can't imagine a high school student having to do that.",
+      "I can empathize with these students now.",
+      "So usually, if you want to go to a song university, I think you can make it perfect.",
+      "But I still can make it correct."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Non-value, market value may exceed the economic value of the timber.",
+      "So it may come a lot easy, but no, I was humbled."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So they have to pick what sentence they need to read.",
+      "I think it's good to know these advanced vocabulary words for when you do have to take tests like this."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Topics should be broader, right?",
+      "I should have asked you.",
+      "Do you know what it should be?",
+      "Should it be Hong's channel?",
+      "So I think it's important that if you actually want to communicate with others in another country using English that you should focus more on everyday English, phrases, expressions."
+    ]
+  },
+  {
+    "unit": 34,
+    "title": "should have (done)",
+    "desc": "과거 후회 (했어야/하지 말았어야)",
+    "examples": [
+      "I should have asked you."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "The only comparable thing would be the SATs and it's not taken quite as seriously.",
+      "Of course, the way things are worded in many of these questions aren't like how we would say them in everyday life.",
+      "They just try to throw in these big, advanced vocabulary words that no one would actually say in real life.",
+      "Let's see if S&U would accept me.",
+      "But we would not use it in conversation."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Of course, the way things are worded in many of these questions aren't like how we would say them in everyday life.",
+      "So all of the students that are about to take this test, I'm cheering for you, best of luck, and you got this."
+    ]
+  }
+]

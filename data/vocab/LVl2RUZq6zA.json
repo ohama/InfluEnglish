@@ -1,0 +1,90 @@
+[
+  {
+    "word": "absolutely",
+    "meaning": "절대적으로, 완전히",
+    "examples": [
+      "That was absolutely amazing!",
+      "I absolutely love this song.",
+      "You're absolutely right about that."
+    ],
+    "context": [
+      "Absolutely."
+    ]
+  },
+  {
+    "word": "bland",
+    "meaning": "싱거운, 맛없는; 특색 없는",
+    "examples": [
+      "The soup tastes a bit bland.",
+      "Add some seasoning, it's too bland.",
+      "The movie was kind of bland and boring."
+    ],
+    "context": [
+      "This is kind of bland."
+    ]
+  },
+  {
+    "word": "chewy",
+    "meaning": "쫄깃쫄깃한",
+    "examples": [
+      "Tteokbokki has a chewy texture.",
+      "The bread is soft and chewy.",
+      "I love chewy gummy bears."
+    ],
+    "context": [
+      "I like it because it's saucy, cheesy, chewy, gooey, yummy.",
+      "Well, chewy."
+    ]
+  },
+  {
+    "word": "crispy",
+    "meaning": "바삭바삭한",
+    "examples": [
+      "The chicken was perfectly crispy.",
+      "I like my bacon extra crispy.",
+      "These fries are nice and crispy."
+    ],
+    "context": [
+      "It's got a crispy, low shell, moist inside, flavorful.",
+      "You can have them steamed, so it's not crispy, but it's soft on the outside and you can get them fried."
+    ]
+  },
+  {
+    "word": "definitely",
+    "meaning": "확실히, 분명히",
+    "examples": [
+      "I'm definitely coming to the party.",
+      "This is definitely the best pizza I've ever had.",
+      "You should definitely try the cheesecake."
+    ],
+    "context": [
+      "Well, I definitely like the kimchi, but I really like this."
+    ]
+  },
+  {
+    "word": "spicy",
+    "meaning": "매운, 양념이 센",
+    "examples": [
+      "Korean food can be very spicy.",
+      "I can't handle spicy food well.",
+      "Would you like it mild or spicy?"
+    ],
+    "context": [
+      "Usually it's super spicy.",
+      "So it's not as spicy."
+    ]
+  },
+  {
+    "word": "texture",
+    "meaning": "식감, 질감",
+    "examples": [
+      "The cake has a soft, fluffy texture.",
+      "I love the crunchy texture of fried chicken.",
+      "The texture of this fabric is so smooth."
+    ],
+    "context": [
+      "Good texture.",
+      "I like the vinegary, picoli, and the texture."
+    ]
+  }
+]

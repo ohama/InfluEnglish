@@ -1,0 +1,60 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "he is picking out his clothes, I always pick out my clothes the night before if she had picked out her clothes last night, she wouldn't have been late if she had picked out her clothes last night, get ready, I'll start getting ready, what time should we start getting ready?"
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "He gets out of bed slowly every morning, he gets out of bed slowly every morning, he gets out of bed slowly every morning, it's hard to get out of bed when it's cold outside, it's hard to get out of bed when it's cold outside, it's hard to get out of bed when it's cold outside, make the bed, she is making the bed, she is making the bed, did you already make the bed, once I make the bed, I feel like my day has officially started, once I make the bed, I feel like my day has officially started, once I make the bed, I feel like my day has officially started, brush my teeth, I'm gonna brush my teeth, I'm gonna brush my teeth, he brushes his teeth after breakfast, I always brush my teeth before I leave the house, take a shower, I took a shower, I need to take a shower after my run, I need to take a shower after my run, do you usually take a shower in the morning or at night?"
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "he is picking out his clothes, I always pick out my clothes the night before if she had picked out her clothes last night, she wouldn't have been late if she had picked out her clothes last night, get ready, I'll start getting ready, what time should we start getting ready?",
+      "I like to listen to music or podcasts while I get ready for work have breakfast, I had breakfast, I had breakfast, we usually have breakfast together on weekends did you already have breakfast or should I cook something for you?"
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "wake up. it's time to wake up, it's time to wake up, it's time to wake up, I usually wake up around 7, I usually wake up around 7, I usually wake up around 7, if I wake up early I have time to relax before work."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "he is picking out his clothes, I always pick out my clothes the night before if she had picked out her clothes last night, she wouldn't have been late if she had picked out her clothes last night, get ready, I'll start getting ready, what time should we start getting ready?",
+      "grab coffee let's grab coffee he always grabs coffee on his way to work if you grab coffee on your way over this morning, I'd really appreciate it great work everybody, you got this"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "he is picking out his clothes, I always pick out my clothes the night before if she had picked out her clothes last night, she wouldn't have been late if she had picked out her clothes last night, get ready, I'll start getting ready, what time should we start getting ready?"
+    ]
+  },
+  {
+    "unit": 40,
+    "title": "If I had known / I wish I had",
+    "desc": "과거 반대 가정/후회",
+    "examples": [
+      "he is picking out his clothes, I always pick out my clothes the night before if she had picked out her clothes last night, she wouldn't have been late if she had picked out her clothes last night, get ready, I'll start getting ready, what time should we start getting ready?"
+    ]
+  }
+]

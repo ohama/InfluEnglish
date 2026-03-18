@@ -1,0 +1,99 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Good morning everyone! Today I'm going to show you my new morning routine in Busan.",
+      "It's very popular in the US and it has a section for morning and night so right now I'm going to do the morning section. First I fill in the date and I like that there's always a quote at the top.",
+      "I changed into my workout clothes and I'm going to do a little warm-up before my workout. I've got a foam roller and my yoga mat. This week I've been foam rolling my calves a lot because they are extremely sore. I could hardly walk this week. I start out with both of my legs on the foam roller.",
+      "I got my coffee to go and I'm walking along the beach. It's a little bit overcast today, but I still think it's going to be a beautiful day today.",
+      "I wrapped my hair up and dried off with a towel. Now I'm going to do my skincare and makeup."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Now I will write about what I'm grateful for, what would make today great and a daily affirmation.",
+      "I learned about it on YouTube. I'll link the video. I sit in a cross-legged position, close my eyes and I breathe in for four seconds. Hold it at the top and then take a longer exhale.",
+      "I can't catch me in a few months. I'll be doing all the fancy footwork. I'm sweaty. I need coffee.",
+      "Finally, I'll top it off with some goji berries. Easy peasy. Looks good, right?",
+      "To finish up my daily routine, I usually go over my to-do list and check my emails while I eat breakfast and drink my coffee. I used to use a few different apps, but now I mostly use Google Calendar to organize all of my tasks. As you can see, I have a to-do list. I have my morning routine here so I can check these off. I finished my breathing exercises, my journal, and my workout. Later, I will do the same thing for my night routine. That's it for my morning routine. If there are other morning routine English phrases that you're curious about, leave it in the comments below and I'll make sure to respond. Check out the pinned comment below and have a great day! Bye!"
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I changed into my workout clothes and I'm going to do a little warm-up before my workout. I've got a foam roller and my yoga mat. This week I've been foam rolling my calves a lot because they are extremely sore. I could hardly walk this week. I start out with both of my legs on the foam roller.",
+      "How do I? Am I doing this right? I'm a foam roller newbie. Can you tell?",
+      "Let's head outside. Wow, you can't be working out with this view. This is why I moved to Busan.",
+      "I can't do any fancy footwork yet. So I just hop like this. It's great cardio.",
+      "I can't catch me in a few months. I'll be doing all the fancy footwork. I'm sweaty. I need coffee."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "Let's head outside. Wow, you can't be working out with this view. This is why I moved to Busan."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "It's steaming hot so I have to blow on it to cool it down.",
+      "This one is a bit more painful. I have to mentally prepare myself for this. Go and I try to move my bottom leg from side to side as I roll. It hurts so good. You just gotta smile through the pain."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "Now it's time to brush my teeth. I use an electric toothbrush.",
+      "I breathe in and out through my nose. I do this for about 10 minutes. It really helps keep me calm and focused throughout the day. I feel so relaxed but now it's time to move my body.",
+      "My hair is greasy. I'm sweaty. I'm stinky. It's time to take a shower and get ready.",
+      "I picked out my top, so now it's time to get dressed."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Now I will write about what I'm grateful for, what would make today great and a daily affirmation."
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "How do I? Am I doing this right? I'm a foam roller newbie. Can you tell?"
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "My makeup is done. Now I'm going to pick out my clothes and get dressed before blow drying my hair."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "My makeup is done. Now I'm going to pick out my clothes and get dressed before blow drying my hair.",
+      "I picked out my top, so now it's time to get dressed."
+    ]
+  }
+]

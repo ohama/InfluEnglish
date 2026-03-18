@@ -1,0 +1,127 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Because you never really know what it's going to be like.",
+      "Please stay tuned, because we're going to have more guests and eat more delicious food.",
+      "I'm going to use it and kind of like became addiction.",
+      "You know, like the restaurant is going to be good.",
+      "If the kimchi is good, the food is going to be good."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "But like the funny thing is like most people in Spain, they will call you like talk to meaning formal.",
+      "People will feel good foreigners.",
+      "You will be like, Oh, what is it?",
+      "So like you can experience how that person will feel.",
+      "But like the funny thing is like, most people in Spain, they will call you like, talk to me in informal."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "Like then for example in Korea, like when you go on to the elevator, like even if it's your neighbors, you don't really say hello.",
+      "When I go back to Spain, it's kind of reverse culture shock.",
+      "Like them, for example in Korea, like when you go on to the elevator.",
+      "When I go back to Spain, it's kind of reverse culture shock because I had become a little bit rude in Spanish standards."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Can you please introduce yourself?",
+      "I can't go wrong with noodles.",
+      "I can't go wrong.",
+      "In Spain, you could say something.",
+      "You gotta be careful when you can say something."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "I said maybe even if I'm in the like subway, I might myself, someone sneezes.",
+      "Even if I'm in the subway, I might myself someone sneeze."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "When I came to Korea and people weren't talking to each other on the bus or elevators somewhere like this, I felt like I had to say something.",
+      "We have to speak Spanish.",
+      "I felt like I had to say something."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I would say like onion.",
+      "Pros, I would say, is not per se of like being a model only.",
+      "Like is there any difference, would you say?",
+      "I would be like German or Bibimian.",
+      "I would say like onion."
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "Like is there any difference, would you say?",
+      "Like, is there any difference, would you say?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Even if they did something wrong.",
+      "Even if they did something wrong."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Because I go to places and I don't remember that you are supposed to say hello.",
+      "Like if you are a mean person on camera, you are allowed to be mean.",
+      "Because I go to places and I don't remember that you are supposed to say hello.",
+      "Like, if you are a mean person on camera, you are allowed to be mean, so you can experience how the person will feel."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "So I get excited for the noodles.",
+      "And got used to it and kind of like became addiction.",
+      "This is what I get excited for."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "When I first came to Korea, I had a job at a company."
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll see you all next time."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "My husband and I have a storage unit in Seoul so when we come to the U.S. we pack everything in boxes and take them to the storage unit."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "And our actual moving day was a disaster. Things couldn't have gone worse. We were already a bit behind with our packing and the weather was awful.",
+      "Unfortunately with the rain and all of the traffic we ran out of time and couldn't buy a new suitcase.",
+      "My brother-in-law looked very handsome and the bride of course was stunning. I couldn't be happier for them.",
+      "It was about six hours and we arrived very late at night. We got some sleep and went to the airport bright and early the next day to catch our flight to the US. It's a 13 hour flight so it is very long but I can't complain too much."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "My schedule was jam-packed. On top of working I also had to pack up everything in our house and get organized for moving day.",
+      "On top of that we had a train to catch at 6 p.m. because we had to go to Changwon for my brother-in-law's wedding.",
+      "So it was a bit of a time crunch. When we were unpacking our boxes and trying to put them into storage at the storage unit, we accidentally knocked over a plant so my husband had to shovel up the dirt and clean up in the pouring rain.",
+      "The next day we had to wake up bright and early because it was my brother-in-law's wedding. It was such an exciting day and made me reminisce on my own wedding."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "So I didn't want to keep it if it was broken. So on this already busy chaotic day, my husband needed to go to a department store to try and buy a new suitcase."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "My husband and I have a storage unit in Seoul so when we come to the U.S. we pack everything in boxes and take them to the storage unit."
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "My favorite! Let's go! I'm going to buy some grapes, so I'll just put them in the carts.",
+      "I love Korean melon, so I'm going to buy some today.",
+      "This one looks pretty good, so I'm going to put it in my carts.",
+      "Let's take a look! I'm going to buy a bag of pre-cooked chicken breasts and some packs of salad. I'm so excited! I found a food that I love!",
+      "Sour Crout. Sour Crout is like kimchi, but not spicy. I'm going to buy one."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "My favorite! Let's go! I'm going to buy some grapes, so I'll just put them in the carts."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "Thank you. If you have time before you leave, make sure to check out the food court."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Now I'm in the deli where you can buy different kinds of meats and cheese and all kinds of good stuff.",
+      "I couldn't find anything I wanted in the freezer aisle, so let's go to the dry goods."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "I love hearty seated bread like this. It looks like it might be whole wheat bread, but I'm not really sure, but today I'm practicing self-control, so I'm going to put it back on the shelf."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Thank you. If you have time before you leave, make sure to check out the food court."
+    ]
+  }
+]

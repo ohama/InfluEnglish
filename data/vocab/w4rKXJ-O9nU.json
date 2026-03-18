@@ -1,0 +1,39 @@
+[
+  {
+    "word": "definitely",
+    "meaning": "확실히, 분명히",
+    "examples": [
+      "I'm definitely coming to the party.",
+      "This is definitely the best pizza I've ever had.",
+      "You should definitely try the cheesecake."
+    ],
+    "context": [
+      "I am definitely going to sleep well after all of this good food I ate today.",
+      "But I definitely like the apple pie more tonight."
+    ]
+  },
+  {
+    "word": "ingredient",
+    "meaning": "재료, 성분",
+    "examples": [
+      "What are the main ingredients in this dish?",
+      "Fresh ingredients make all the difference.",
+      "I need to buy a few ingredients for dinner."
+    ],
+    "context": [
+      "This is the secret ingredient to good pie."
+    ]
+  },
+  {
+    "word": "texture",
+    "meaning": "식감, 질감",
+    "examples": [
+      "The cake has a soft, fluffy texture.",
+      "I love the crunchy texture of fried chicken.",
+      "The texture of this fabric is so smooth."
+    ],
+    "context": [
+      "The taste is quite unique and the texture is very soft and mushy."
+    ]
+  }
+]

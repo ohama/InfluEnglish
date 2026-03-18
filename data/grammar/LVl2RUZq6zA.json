@@ -1,0 +1,122 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We are going to start with this. This is called tapoki.",
+      "I'm going to say six, only because I guess I'm more of a spicy eater?",
+      "Korean food, we're going to eat rice and that's it."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "He will be trying out different kinds of Korean food that we got from a market here, but actually he's already been to Korea.",
+      "Sometimes they'll have fish cakes inside or I like it with ramen noodles.",
+      "So they'll do different toppings and they'll also do different kinds of sauces.",
+      "This is very popular like when people go camping, they'll have this in the morning for breakfast after drinking a lot of beers or soju the night before.",
+      "So if you're eating noodles or rice, you'll eat it together."
+    ]
+  },
+  {
+    "unit": 22,
+    "title": "will / won't",
+    "desc": "거부, 불가, 확신 표현",
+    "examples": [
+      "Most people won't eat this just plain."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "He will be trying out different kinds of Korean food that we got from a market here, but actually he's already been to Korea."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Let me see if I can remember how to do this.",
+      "So if you can take a small piece of the kimchi, and then if you can get some noodles to eat it together with this, so kimchi is usually served as a side dish.",
+      "I can see why you'd eat it together.",
+      "Wow, I can see where I get it from.",
+      "I could make a meal out of this."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "I might say. We've got the whole kitchen smelling good.",
+      "You may have another one.",
+      "I think it might do go all right."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Do you think the shin ramen or the chapegetti if you had to choose?",
+      "If I had to choose, I'd say the shin ramen.",
+      "I'd have to have some of this with it.",
+      "I would have to have something with that."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Do you think I should open a tapoki shop or bunga pung stand in Saginaw?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "If you were to just look at this, what would you guess that it is?",
+      "I would guess it's some type of noodles, cheese, and sauce.",
+      "So out of ten, what would you rate this?",
+      "I don't know if I'd try it for breakfast.",
+      "I'd go about eight on it."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you were to just look at this, what would you guess that it is?",
+      "Do you think the shin ramen or the chapegetti if you had to choose?",
+      "If I had to choose, I'd say the shin ramen.",
+      "Um, I'd give it a ten if I could mix it with this or that.",
+      "So out of everything, I know it's hard, but if you could only choose one food, what would you say was your favorite?"
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "We are going to start with this. This is called tapoki.",
+      "So this is called hit bun."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I might say. We've got the whole kitchen smelling good."
+    ]
+  }
+]

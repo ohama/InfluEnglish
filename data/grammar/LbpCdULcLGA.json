@@ -1,0 +1,67 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Also, you know who I'm going to talk about, right?",
+      "So we're going to tell the whole story in the next episode."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Sometimes they'll even have security.",
+      "It's kind of odd, but I guess it's convenient and it worked out well for us.",
+      "I'll never forget when we stayed in San Francisco.",
+      "And then there was snow and I was like, how the hell did this happen?",
+      "That will never happen in New York."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Could almost die by sweating so much.",
+      "We were able to use the bathrooms there.",
+      "We could get food if we needed anything.",
+      "But most of the time, we would just park anywhere that we could find.",
+      "If you ever go to the national parks in the US, you can get a pass."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "We really had to do this on a budget.",
+      "If you like hiking, you must go to Zion.",
+      "I have to go to bathroom.",
+      "You must do it."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "We would just lay down some blankets, pillows.",
+      "We would feed the blankets through the window and roll up the windows so that we had some makeshift curtains for privacy.",
+      "But most of the time, we would just park anywhere that we could find.",
+      "My dad would have been so proud, though.",
+      "On the days where we were really sick of PBJ's, we'd go to Taco Bell and order off their, like, dollar menu."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I don't think people are allowed to swim there now.",
+      "When we went there, you were allowed to swim."
+    ]
+  }
+]

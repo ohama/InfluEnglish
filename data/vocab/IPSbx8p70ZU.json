@@ -1,0 +1,39 @@
+[
+  {
+    "word": "crispy",
+    "meaning": "바삭바삭한",
+    "examples": [
+      "The chicken was perfectly crispy.",
+      "I like my bacon extra crispy.",
+      "These fries are nice and crispy."
+    ],
+    "context": [
+      "I always like the corner piece because I like crispy edges."
+    ]
+  },
+  {
+    "word": "fancy",
+    "meaning": "고급스러운, 화려한",
+    "examples": [
+      "We went to a fancy restaurant for our anniversary.",
+      "That's a fancy car you've got there.",
+      "She was wearing a fancy dress to the party."
+    ],
+    "context": [
+      "Fancy fancy.",
+      "Fancy fancy."
+    ]
+  },
+  {
+    "word": "ingredient",
+    "meaning": "재료, 성분",
+    "examples": [
+      "What are the main ingredients in this dish?",
+      "Fresh ingredients make all the difference.",
+      "I need to buy a few ingredients for dinner."
+    ],
+    "context": [
+      "We found a very simple three ingredient recipe for peanut butter cookies."
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "authentic",
+    "meaning": "정통의, 진짜의",
+    "examples": [
+      "This restaurant serves authentic Italian food.",
+      "Is this an authentic designer bag?",
+      "I want to try authentic Korean kimchi."
+    ],
+    "context": [
+      "I think you just say hello, and you try to be yourself, and you know, just ask how they're doing, and what they're doing, you know, what's going on, and I think it's most important to just be authentic."
+    ]
+  },
+  {
+    "word": "awkward",
+    "meaning": "어색한, 불편한",
+    "examples": [
+      "There was an awkward silence.",
+      "I felt so awkward at the party.",
+      "It was awkward meeting my ex at the store."
+    ],
+    "context": [
+      "What do you say to break an awkward silence?",
+      "Oh, break an awkward silence."
+    ]
+  },
+  {
+    "word": "definitely",
+    "meaning": "확실히, 분명히",
+    "examples": [
+      "I'm definitely coming to the party.",
+      "This is definitely the best pizza I've ever had.",
+      "You should definitely try the cheesecake."
+    ],
+    "context": [
+      "That would definitely break an awkward silence."
+    ]
+  },
+  {
+    "word": "literally",
+    "meaning": "문자 그대로, 정말로",
+    "examples": [
+      "I literally can't stop laughing.",
+      "She literally ran a marathon yesterday.",
+      "The store is literally around the corner."
+    ],
+    "context": [
+      "That's literally all I have to say."
+    ]
+  },
+  {
+    "word": "vibe",
+    "meaning": "분위기, 느낌",
+    "examples": [
+      "This place has a great vibe.",
+      "I'm getting good vibes from this restaurant.",
+      "The vibe at the concert was electric."
+    ],
+    "context": [
+      "It's your vibe.",
+      "Yeah, I think I always say it's your vibe."
+    ]
+  }
+]

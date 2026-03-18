@@ -1,0 +1,77 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "So he is going to teach you today instead of me.",
+      "아, usually say that I'm going to change to a clothes.",
+      "I'm going to dance my friend.",
+      "even though the feedback was maybe lacking a little bit had you be asked good questions and then you were able to practice speaking naturally 여러분들이 더 나가고 싶다고 하면 그 상황을 더욱 부체적으로 설명을 할 수 있어요 예를 들면 회사에서 내가 마케팅 관련 회의를 하는데 부장님한테 혼나는 상황이다 뭐 이런 상황에서 어떻게 영어를 해야 될까 저 같은 경우는 저희 책에 있는 스크리트를 사진으로 찍어서 보낼기도 합니다 왜냐하면 딱 그 장면에 있는 상황을 제가 바로 학습할 수 있기 때문에 이런 것들도 한 번 활용해 보시면 좋을 것 같아요 for the next mission I want you to practice small talk and you're going to practice talking about morning routine since that's one of my signature vlogs 책에는 브이로그 지문들을 대화형으로 저희가 또 바꿔놨거든요 실제 그 상황에서 두 사람이 대화를 한다면 어떤 모습일까가 나와 있습니다 그래서 그걸 연습을 하기 위해서 또 체치피티를 활용을 한 번 해볼게요 첫 번째로 책에 있는 스크리트를 체치피티한테 보내줘요 이 책을 찍어서 넣어주는 것만으로도 핵심 표현들이나 이런 것들을 알려주죠 사진 속 스몰토크를 같이 읽어볼게요 제가 홍 역할을 할게요 캘리 역할을 해주세요 알겠습니다 그럼 제가 캘리 역할을 맡을게요 편하게 시작하시면 되고 제가 자연스럽게 이어서 말해드리겠습니다 아, morning's are the worst 이제 역할을 바꿔볼게요 먼저 홍 대사를 해주세요 알겠습니다 그럼 제가 홍 역할을 맡을게요 언제든 시작하시면 됩니다 시작해주세요 alright, let's get started I'll jump in as long and we can go through the dialogue 말을 하라고 아, morning's are the worst 보셨겠지만 가끔 얘가 말을 안 하고 언제든지 편하게 시작하세요 계속 반복할 때 있거든요 말을 하라고 이런 게 무려 버전일 때는 좀 답답한 부분들이 있을 때가 있는데 요청을 하시면 됩니다 for mission number 3 I want chat GPT to check one of your diary entries 저도 이렇게 영어일기를 쓰고 있는데요 저희 책의 캘리스미 선별해놓은 좋은 문장 구조들이 있거든요 거기에 단어나 표현을 넣어서 한편에 글을 쓸 수 있도록 되어 있습니다 제가 쓰는 글을 피드백을 한 번 받아볼게요 그게 사진을 찍는다고 과정하고 해보겠습니다 제가 쓴 영어일기에요 영어를 원어민이 쓴 것처럼 자연스럽게 다듬어 주세요 어색한 문법이나 단어 선택이 있으면 고쳐주고 왜 그렇게 수정했는지 한국어로 구체적으로 설명해주세요 I think when you write something it's able to give more detailed feedback 질문을 추가로 더 해보시면 좋을 것 같아요 다른 표현으로도 바꿔볼 수 있을까요?"
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll check those bags in for you.",
+      "Of course, I'll assign you a window seat.",
+      "No, I think you said I'll sit by window.",
+      "I'll sit by the window.",
+      "I think I'll be out of a job soon but I think the conversation was really good."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "AI can take over later.",
+      "Can I sit by window please?",
+      "Is there anything else I can help you with today?",
+      "Can you upgrade me to a first class for free?",
+      "Or you could say I want a window seat."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "May I have your passport and take it please?"
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "I think what you said was I have two bags but it should just be I have two bags."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Would you like a window seat or an aisle seat for your flight?"
+    ]
+  },
+  {
+    "unit": 39,
+    "title": "I wish I knew",
+    "desc": "현재 반대 소망",
+    "examples": [
+      "I wish I had unfortunately upgrades usually depend on availability and ticket type but let me know if you need anything else."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Everything is set."
+    ]
+  }
+]

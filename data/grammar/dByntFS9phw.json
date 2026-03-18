@@ -1,0 +1,95 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Oh, you're going to keep adding on, huh?",
+      "You're going to bring your shovel?",
+      "I'm going to be wide awake tonight.",
+      "Don't try to think that you're going to, if you work 24 hours a day, you're going to get ahead because you're not.",
+      "You're going to destroy your body, so just relax."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Well, maybe we'll have to charge him something for the tree.",
+      "I'll shovel us out.",
+      "Well, they'll wake you up when they run across your face.",
+      "Every once in a while, you'll see a bear."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "Then before you start building, you've got to have water.",
+      "Then when you get the water, then you can start thinking about what you want to build, how big a cabin do I want."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Can you give some relationship advice?",
+      "I could run around on that roof, but I have a lot of help to put it on.",
+      "I could sell this for lots of money.",
+      "Because I can imagine back in the 90s.",
+      "Level everything off so that you can build there."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Well, maybe we'll have to charge him something for the tree.",
+      "If you need help, all you have to do is mention it to somebody and they come.",
+      "First, you have to buy the property.",
+      "Then you have to have somebody come with a bulldozer.",
+      "So now that you can have to cement people come and put a foundation in to bring it up where you want it."
+    ]
+  },
+  {
+    "unit": 32,
+    "title": "mustn't / needn't",
+    "desc": "금지 / 불필요",
+    "examples": [
+      "I don't need to know this grandpa."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "And in the winter we would come up with snow machines with a family and with the little kids and the grandkids like you.",
+      "Up in the woods, and then on the weekends, my wife, Shirley, she would come.",
+      "And she would help me for two days.",
+      "Then she'd kiss me on the cheek and wave and go, bye-bye.",
+      "She'd go to say, agonaut."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "One day, Grandma and I was out on a trail, and we hear the dogs barking in all of a sudden."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "Hope we don't get stuck, right?",
+      "Because you get tired of going to the outhouse."
+    ]
+  }
+]

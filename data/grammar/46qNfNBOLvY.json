@@ -1,0 +1,52 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I've got my coffee, and I'm going to use a sleeve, so my hands don't get too cold.",
+      "Hmm, fire. This is going to give me the energy I need for work."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I usually like to eat in, but today I have to go back to work, so I'll do takeaway or takeout.",
+      "I'm also trying to cut back on caffeine, so I'll go for decaf.",
+      "I don't drink regular milk, so I'll choose the non-dairy option, which is oat milk.",
+      "And I'll add it to my cards. I'm ready to pay, so I'll place my order. No, thank you. I'm all set.",
+      "So this is my bill, and I will pay with my husband's card."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "At this cafe, you can place your order using a kiosk, so you don't even have to talk to a barista here.",
+      "Wow, it is so customizable here. You can add an extra shot of espresso or popping cream, which I'm guessing is whipped cream.",
+      "This is a tip. You can bring your husband's card. I don't have a loyalty card here, so I cannot earn points.",
+      "I'll also grab a straw, and some cafes even have bottles of syrup, so you can pump extra sweetener into your drink.",
+      "This one doesn't have a cure. If you have more than one drink, you can always ask for a carrier as well."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "At this cafe, you can place your order using a kiosk, so you don't even have to talk to a barista here.",
+      "I usually like to eat in, but today I have to go back to work, so I'll do takeaway or takeout."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "This one doesn't have a cure. If you have more than one drink, you can always ask for a carrier as well."
+    ]
+  }
+]

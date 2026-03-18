@@ -1,0 +1,120 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I heard that you can get a meal at the cafeteria for chonon. So I'm going to head there now and grab a bite to eat."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I think we should go that way. Then we will pass like college of art and then college of shimany. Let's go!",
+      "And in these years, I've noticed a lot of students will take a gap year just to take a breather or to think about what they want to do or pursue an internship.",
+      "The gap years aren't very common and people will start to do internships very early on.",
+      "I have been working on it for a few semesters now, and I will graduate next semester.",
+      "A lot of people will just tap or scan, then they will leave really fast before the professor walks in."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "I will be continuing my studies for the next three years."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "And then I would say junior and senior year is really when you start to think about what you want to do."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I heard that you can get a meal at the cafeteria for chonon. So I'm going to head there now and grab a bite to eat.",
+      "Let's find somewhere to sit. Wow, I can't believe this is only chonon. That's less than one US dollar.",
+      "You can buy lots of SNU merch at the store here. You can tell they have a lot of school spirit.",
+      "We picked up another friend on our campus tour. Can you introduce yourself?",
+      "Girls can go to sororities and boys can be in fraternities."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "Yeah, doing homework and studying all the time. It must be nice to walk outside and enjoy this nature.",
+      "It must be really tough here."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "It's very peaceful. The students must need this. They have such a stressful life.",
+      "You have to work hard to get to classes.",
+      "But because you have to fulfill a certain number of credits.",
+      "They just had to make sure that you didn't have alcohol in your room.",
+      "So I feel like you must get a lot of homework."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "I think we should go that way. Then we will pass like college of art and then college of shimany. Let's go!"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "But then a difference, I would say, is that you have more time in college in Korea to think about what you want to do.",
+      "And then I would say junior and senior year is really when you start to think about what you want to do.",
+      "So he'd always give us a warning.",
+      "He'd knock on the door and say, if you have anything to hide, hide it now.",
+      "We have a system where you can just tap your ID card on this attendance checker."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "He'd knock on the door and say, if you have anything to hide, hide it now."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Or maybe that's also because I'm a foreigner. I'm very lucky to have these kinders. I love how this campus is surrounded by nature.",
+      "So electives are required in some sense.",
+      "So at my college, there was one street and it was filled with sororities and fraternities.",
+      "And it was known as the party street.",
+      "In the US, you were required to live on campus for the first, at least semester."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I heard that you can get a meal at the cafeteria for chonon. So I'm going to head there now and grab a bite to eat.",
+      "Will you get your PhD at SNU?"
+    ]
+  }
+]

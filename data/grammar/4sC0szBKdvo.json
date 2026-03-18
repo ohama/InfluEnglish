@@ -1,0 +1,73 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to have a rain check.",
+      "So maybe when I was younger, my dad would say, all right, I'm going to work.",
+      "So if I'm going to the bar with my girlfriends, maybe you'll say, have fun tonight, but no monkey business."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll say, I'm really sorry, I have plans already, but can I get a rain check?",
+      "Oh, you'll do great.",
+      "So if I'm going to the bar with my girlfriends, maybe you'll say, have fun tonight, but no monkey business.",
+      "Because it's a little bit of an older expression, I'll say.",
+      "They'll be funny if I'm using to your family."
+    ]
+  },
+  {
+    "unit": 22,
+    "title": "will / won't",
+    "desc": "거부, 불가, 확신 표현",
+    "examples": [
+      "I messaged her, but she won't reply."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "So you can say, I don't want to be a third wheel, or I felt like a third wheel.",
+      "So a rain check is when you can't attend something, or you have to decline an invitation, but you want to ask if you can do that later.",
+      "I'll say, I'm really sorry, I have plans already, but can I get a rain check?",
+      "Can we have a rain check?",
+      "Can I get a rain check?"
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "So that person might feel a little bit awkward or uncomfortable or even less doubt.",
+      "When there's an extra person in a group, that might feel left out."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So a rain check is when you can't attend something, or you have to decline an invitation, but you want to ask if you can do that later."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "So would you say New York or Seoul, like living there can be a rat race?",
+      "So maybe when I was younger, my dad would say, all right, I'm going to work.",
+      "This one is, I would say, an older expression.",
+      "Yeah, it's something like my dad would say, maybe.",
+      "If you said this to my dad, I think he'd crack up."
+    ]
+  }
+]

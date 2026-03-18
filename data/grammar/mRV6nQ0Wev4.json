@@ -1,0 +1,123 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today I am with my husband who is Korean and he's going to complete some missions here in Ite1 to see if he can practice his English without ever leaving the country.",
+      "I'm going to stay at the table while Hong goes up to order by himself and asks his three questions.",
+      "We are going to Cali Kitchen, which is a popular American bar and restaurant here.",
+      "I'm scared to see what condition you're going to be in.",
+      "I'm going to pick you up."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Maybe by the end of the day, you'll get more confident.",
+      "Okay, maybe I'll choose one and can you choose one for me then?",
+      "Yeah, I'll choose the blueberry almond crumble.",
+      "I will recommend anything with carnitas because most carnitas are good.",
+      "I'll have that."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "Maybe a tip will be trying to find their interest."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "How can I improve my English speaking?",
+      "So you can come here and practice your English speaking.",
+      "Today I am with my husband who is Korean and he's going to complete some missions here in Ite1 to see if he can practice his English without ever leaving the country.",
+      "Can I order?",
+      "Okay, maybe I'll choose one and can you choose one for me then?"
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Eventually, at the bar, I made good friends, so I might go back to bar."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Luckily, you don't have to go to the US or the UK to practice your English speaking.",
+      "First mission is to order coffee and you must ask three questions while ordering.",
+      "You have to just approach some other customers and make a friend.",
+      "You have to see.",
+      "Yeah, I don't think I have to ask that question."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "You should drink it without thinking.",
+      "I should do you have any like, Instagram or something then?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I would like to have a pumpkin spice latte.",
+      "And I would like to have a teaser.",
+      "I would have a lot of tips with macaramoli.",
+      "Would you mind if we get a box or they take out or something?",
+      "What would you recommend out of this?"
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "Can I order?",
+      "Would you mind if we get a box or they take out or something?",
+      "Always can you recommend?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Would you mind if we get a box or they take out or something?"
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "A lot of people here are open to make a new friend.",
+      "So for example, Ryan was interested in UFC and then a cooking show."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "We just got a table at Plant Cafe.",
+      "I've got a good restaurant."
+    ]
+  }
+]

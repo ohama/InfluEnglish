@@ -1,0 +1,79 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I was like, you know what, I'm going to challenge myself to do a 5K for the monthly march.",
+      "And if you say you're going to do something enough times and you don't do it, your body's like, you want to actually do it this time.",
+      "But if your body knows that no matter how hard it is, your body's not going to give up on you.",
+      "I'm going to run Soul to Boost on."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "And so your body will give out on me.",
+      "Then you'll surprise yourself what doing one day more will do for you.",
+      "Thank you, and I will see you next time."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "As you can see, we are already enjoying some Korean barbecue and it is fantastic.",
+      "Say can you introduce yourself a little bit?",
+      "Can you talk about that?",
+      "I feel like I could do more.",
+      "And I'm looking around, trying to find something I can put my feet up on because the socks I was wearing at the time weren't compression socks so they weren't really circulating the blood on my feet well."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "And they might catch you on the bike, they can catch me."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "And I say that because no matter how hard yesterday was, no matter how much you did, no matter how hard you were, or how successful you were in that, you have to do things that intrinsically move you, give you passion, they give you life, they give you energy that helped move you forward.",
+      "You have to train yourself up pushing to that limit and going a little bit further and seeing what you can do."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "And my grandma would bring like galbi and stuff and they'd like mix it up.",
+      "Even though I accomplished the goal, I said, if I stopped now, I feel like I would be limiting myself.",
+      "Yeah, mentally, mentally, I would have lost because you put your hand back and you feel like hand full of them in your hands.",
+      "Honestly, I wouldn't much prefer if they were like the skew."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "Honestly, I wouldn't much prefer if they were like the skew."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "People don't realize that goals and excuses can be just as limiting, because I think a lot of times, goals are often made based in your realm of comfort."
+    ]
+  }
+]

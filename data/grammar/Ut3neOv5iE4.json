@@ -1,0 +1,71 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Tonight I am going to show you my night routine.",
+      "I've already got my PJs on and now I'm going to wash my face and take all of my makeup off.",
+      "I've finished with my oil cleanser and I'm going to rinse it off with warm water.",
+      "Now I'm going to go in with my foam cleanser.",
+      "My skin is dry and now I'm going to use a toner and I just rub it again all over my face to make sure that there is no makeup at all."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I think later I'll be very happy that I'm taking care of my skin now.",
+      "I put a bag of peppermint tea in my mug and now I'll pour the water into the mug.",
+      "I'll take my hair out and on the bonnet."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I just filled the electric kettle with water so that we can boil water for my tea.",
+      "As you can see I've got a stack of books over here.",
+      "Maybe you can let me know in the comments what it means to you.",
+      "I think my tea is finally cool enough that I can take my first sip.",
+      "You can still see steam coming up from it though."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "Two things I must have when I sleep are my bonnet."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "First I have to remove my eyeliner and mascara so I use some remover with a cotton pad.",
+      "So I have to do it.",
+      "I have to force myself to do it.",
+      "First I have to think and reflect a little bit because this is not an easy question."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "After I remove my eye makeup it's time to cleanse my skin."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Today was a really great but long day so I hope I get a good night's sleep and I hope I don't dream too much."
+    ]
+  }
+]

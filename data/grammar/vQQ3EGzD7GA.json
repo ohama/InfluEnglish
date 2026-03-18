@@ -1,0 +1,45 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We have to make sure it's just right, not too cold, not too hot. Meanwhile, I'm going to go get his towel and washcloth."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "My nephew Wes is the cutest baby ever. In this series, my sister will show her daily routine with Wes.",
+      "Tonight is bath night, so we will get our sink tub. We put it in and we like to use a scrubber for his scalp to help get the shampoo in."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Wanna teach your kids English? Here's the best way. I don't have a child, but I do have a baby nephew and my sister Amanda said that she'd be more than happy to teach you English expressions that you can use with your child.",
+      "Since Wes is just starting to learn English too, maybe you can learn together.",
+      "We pour just a tad. As you can hear, he's getting a little fuzzy waiting for his bath. We add the soap and then we add a little bit of water to make it fuzzy."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "We have to make sure it's just right, not too cold, not too hot. Meanwhile, I'm going to go get his towel and washcloth."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Wanna teach your kids English? Here's the best way. I don't have a child, but I do have a baby nephew and my sister Amanda said that she'd be more than happy to teach you English expressions that you can use with your child."
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "We'll try it all the way throughout the venue.",
+      "Let's do a bud light and I'll get a pretzel as well.",
+      "Calle will call your name by the TV when you're full."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Kale, you can't do this.",
+      "Can we do one big papa and one blue moon?",
+      "We can hold the glass in the show.",
+      "That's exactly what you can do.",
+      "We couldn't leave early on that."
+    ]
+  },
+  {
+    "unit": 27,
+    "title": "could have (done)",
+    "desc": "과거 가능했지만 하지 않은 일",
+    "examples": [
+      "You couldn't have picked a better game to go see."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "You gotta have to do anything in life, just the ability to hang in there, grind it out until you reach your goal."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "We should just wait over here."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Like you would find other specialty beers.",
+      "You'd walk down the aisle and everyone would be giving you high fives."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "It was tied with seconds left in the game and they kicked the field goal to win the game."
+    ]
+  }
+]

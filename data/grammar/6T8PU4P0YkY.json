@@ -1,0 +1,47 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Good morning everybody, I just woke up so I'm going to show you my daily morning routine.",
+      "So I'm going to open the bottle and take a sip.",
+      "Now I'm going to go brush my teeth, let's go.",
+      "So I've got my toothbrush and my toothpaste and I am going to squeeze the toothpaste onto my toothbrush and now I'll brush my teeth.",
+      "Now I am wiping my mouth with a towel and I'm all done, my teeth are squeaky clean, now I'm going to do a little bit of stretching and meditation."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "So I've got my toothbrush and my toothpaste and I am going to squeeze the toothpaste onto my toothbrush and now I'll brush my teeth."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "After I meditate, it's time to make my bed.",
+      "I got dressed and now it's time for my favorite part of my morning routine, eating breakfast and drinking coffee."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The bed is made, I'm going to go take a shower now."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "I got dressed and now it's time for my favorite part of my morning routine, eating breakfast and drinking coffee."
+    ]
+  }
+]

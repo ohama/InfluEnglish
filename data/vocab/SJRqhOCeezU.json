@@ -1,0 +1,76 @@
+[
+  {
+    "word": "authentic",
+    "meaning": "정통의, 진짜의",
+    "examples": [
+      "This restaurant serves authentic Italian food.",
+      "Is this an authentic designer bag?",
+      "I want to try authentic Korean kimchi."
+    ],
+    "context": [
+      "I can tell it's very authentic."
+    ]
+  },
+  {
+    "word": "definitely",
+    "meaning": "확실히, 분명히",
+    "examples": [
+      "I'm definitely coming to the party.",
+      "This is definitely the best pizza I've ever had.",
+      "You should definitely try the cheesecake."
+    ],
+    "context": [
+      "The subway is definitely the easiest and most convenient way to get around the city.",
+      "I think it's definitely worth the wait when you're in New York City, because it's such an iconic spot."
+    ]
+  },
+  {
+    "word": "insane",
+    "meaning": "미친, 엄청난 (구어)",
+    "examples": [
+      "The traffic was insane today.",
+      "This rollercoaster is insane!",
+      "The prices here are absolutely insane."
+    ],
+    "context": [
+      "This one looks insane."
+    ]
+  },
+  {
+    "word": "massive",
+    "meaning": "거대한, 엄청난",
+    "examples": [
+      "There was a massive crowd at the concert.",
+      "That's a massive improvement!",
+      "He lives in a massive house."
+    ],
+    "context": [
+      "This is a massive amount of food."
+    ]
+  },
+  {
+    "word": "reservation",
+    "meaning": "예약",
+    "examples": [
+      "I made a reservation for 7 pm.",
+      "Do you have a reservation?",
+      "You need a reservation at that restaurant."
+    ],
+    "context": [
+      "I'm walking faster than a New Yorker trying to make this reservation.",
+      "We made it on the dot for our 1130 reservation."
+    ]
+  },
+  {
+    "word": "spicy",
+    "meaning": "매운, 양념이 센",
+    "examples": [
+      "Korean food can be very spicy.",
+      "I can't handle spicy food well.",
+      "Would you like it mild or spicy?"
+    ],
+    "context": [
+      "The meat is super tender and with the spicy mustard, it's perfect."
+    ]
+  }
+]

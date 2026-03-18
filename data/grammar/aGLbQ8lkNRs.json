@@ -1,0 +1,81 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today, I'm going to show you my daily routine.",
+      "So I came to this stream and I'm going to warm up with some stretching first.",
+      "I'm going to walk for a minute to catch my breath.",
+      "I'm going to turn around and go back to our starting point.",
+      "I've always heard of runners high, but I just feel like I'm going to die."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll finish off with a few lunges.",
+      "I was going, if I see another runner, I'll usually nod my head or just raise my hand like that to say hello and kind of encourage each other.",
+      "Now I'm just cooling down and then I'll head home to make some breakfast.",
+      "Today I'm making breakfast tacos and I'll start by frying up some bacon.",
+      "I also had some nutritional yeast on hand, so I'll add that into."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "In the US, when we go to a bar, we're there to drink."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Whew, you can do it, Kelly.",
+      "I've got it on medium-high heat and I'm just going to drizzle a little bit of olive oil so that I can coat the bottom of it.",
+      "We ordered a lot of food because we couldn't make up our minds.",
+      "I can't choose a favor.",
+      "I can tell this place is going to be great."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "This might be a stupid question."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "But first things first, I have to take a drink of my coffee.",
+      "If I must choose, maybe I'll say the chimney cake actually.",
+      "You can, but you don't have to."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Yeah, you should stir it because it's combination of jam, syrup, coffee, and heavy cream."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "It's time to add in the liquid egg whites.",
+      "It's time to assemble the tacos."
+    ]
+  }
+]

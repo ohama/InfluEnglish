@@ -1,0 +1,105 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to show you my routine while doing this challenge and along the way, you'll learn some new English vocabulary and expressions.",
+      "So, I'm going to head out for a walk.",
+      "Today I'm going to show you how I make my healthy and delicious smoothie.",
+      "But since it's almost gone, I'm going to dump it all.",
+      "I'm going to enjoy a big bowl of sujebi. Let's go."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'm going to show you my routine while doing this challenge and along the way, you'll learn some new English vocabulary and expressions.",
+      "I think it'll be a good opportunity to build some healthy habits and get into better routines.",
+      "Sometimes, instead of going for a walk, I'll go for a run.",
+      "I'll make sure to share it with you guys.",
+      "On days where I have more energy, I'll grab my dumbbells and do some strength training."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I always bring my headphones with me so I can listen to music or talk to my family on the phone.",
+      "Well, I'm out of breath and my heart is pounding, but I can't give up.",
+      "I can feel the burn.",
+      "Let's see how many pushups I can do.",
+      "You can choose whatever diet you want to do, but you can't have any cheat days for 75 days."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "And one of the workouts must be outside.",
+      "One rule of 75 hard is that one of my 45 minute workouts must be outside.",
+      "For 75 days I'm not eating gluten, I'm not eating sugar, and all of my meals must be cooked at home."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Walking may sound easy but when you're getting a minimum of 10k steps every single day, it's still pretty exhausting.",
+      "I might be a little bit rusty."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "This challenge is called 75 hard and there are five rules that I must follow for 75 days straight.",
+      "Number two, I must work out every single day twice a day for 45 minutes each.",
+      "Rule number three, I must drink one gallon of water a day.",
+      "Rule number four, I must read 10 pages of non-fiction every single day.",
+      "The one bad thing about this part of the challenge is that you must work outside no matter what the weather is."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "So being sober for 75 days shouldn't be too much of a challenge, but I had a few events the past few weeks, like birthday parties, wedding parties, and that was really difficult."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "This challenge is called 75 hard and there are five rules that I must follow for 75 days straight.",
+      "Also, this challenge is known as a mental toughness challenge.",
+      "I really love being out in nature and getting some fresh air.",
+      "For 75 days I'm not eating gluten, I'm not eating sugar, and all of my meals must be cooked at home.",
+      "I read The Cold Start Problem, Nonviolent Communication, Hood Feminism, Always Running, and my favorite book that I've read so far throughout this challenge is called Quiet by Susan Kane."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "For 75 days I'm not eating gluten, I'm not eating sugar, and all of my meals must be cooked at home."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I've already got my blender out."
+    ]
+  }
+]

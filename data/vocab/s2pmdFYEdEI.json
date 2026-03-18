@@ -1,0 +1,51 @@
+[
+  {
+    "word": "affordable",
+    "meaning": "가격이 적당한, 알맞은",
+    "examples": [
+      "This restaurant is affordable and delicious.",
+      "We're looking for affordable housing.",
+      "The new phone is surprisingly affordable."
+    ],
+    "context": [
+      "And I'm wondering if there's like a generic brand for it or something similar at a little bit of a more affordable price."
+    ]
+  },
+  {
+    "word": "chill",
+    "meaning": "느긋한, 편안한; 쉬다 (슬랭)",
+    "examples": [
+      "Let's just chill at home tonight.",
+      "He's a really chill person.",
+      "We spent the weekend chilling by the pool."
+    ],
+    "context": [
+      "No cough, fever, chill, body, you know."
+    ]
+  },
+  {
+    "word": "definitely",
+    "meaning": "확실히, 분명히",
+    "examples": [
+      "I'm definitely coming to the party.",
+      "This is definitely the best pizza I've ever had.",
+      "You should definitely try the cheesecake."
+    ],
+    "context": [
+      "Definitely.",
+      "We definitely had a few hiccups today."
+    ]
+  },
+  {
+    "word": "pricey",
+    "meaning": "비싼 (구어)",
+    "examples": [
+      "The food here is a bit pricey.",
+      "Organic vegetables can be pricey.",
+      "New York is known for being pricey."
+    ],
+    "context": [
+      "So still pricey, but not terrible."
+    ]
+  }
+]

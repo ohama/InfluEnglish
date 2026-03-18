@@ -1,0 +1,89 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Now I'm going to show you how it works in real life.",
+      "I'm going to pour chewing and wine.",
+      "I'm going to take a bite."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll take still water, please.",
+      "If you need a reference, If you contact Kakao link below, I will explain it carefully.",
+      "I will make more good contents and services."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "When you go to the restaurant, when you actually use these expressions, and if you think about the situation, you can go to the US or overseas, right away."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Stephen Crashing says the effective language teacher is someone who can provide input and help make it comprehensible in a low anxiety situation.",
+      "I can use this phrase a lot in Korea while eating sundubu, 떡볶이, 김치찌개.",
+      "I want to sit outside or you can sit.",
+      "Can I please get one banana flower chicken salad and one grilled chicken, please?",
+      "Oh, can I please get water?"
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "He must be watching my videos a lot in studying hard because he even remembered what kind of coffee I like."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "KELRI-SAM It has to be fun and not stressful.",
+      "I have to be careful and watch out for motorbikes.",
+      "Yeah, you must still ask for really water.",
+      "It's not that we have to be 직접."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "If you've been studying for a long time, I think it would be great if you could buy an updated version and study it.",
+      "If you're a doctor, If you're a little difficult to work in the US, I think it would be great if you study the whole book.",
+      "Until March 1st, I think it would be great if you don't go up the price.",
+      "I think it would be great if you could read the book in the comments."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you've been studying for a long time, I think it would be great if you could buy an updated version and study it.",
+      "I think it would be great if you could read the book in the comments."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "But I was especially shocked when one woman told me that after studying with my materials, she got a promotion at her job."
+    ]
+  }
+]

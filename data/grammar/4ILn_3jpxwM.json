@@ -1,0 +1,40 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Once you figure out what's going on and stuff, you'll just melt into the show and the songs.",
+      "And I will see you in the next one.",
+      "I'll be an idol."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I've never got the chance to but I obviously need to get a translator because I can't speak Korean at all."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "My favorite song would probably have to be soda pop."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "And would you ever like to visit Korea?",
+      "My favorite song would probably have to be soda pop.",
+      "I would love to visit Korea. I think it's a pretty cool place.",
+      "Would you like to visit?",
+      "Would you ever like to visit Korea?"
+    ]
+  }
+]

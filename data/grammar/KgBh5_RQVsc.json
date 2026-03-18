@@ -1,0 +1,86 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Most people are going to sleep at this time. We woke up early because we are heading to the Grand Canyon today. We have a very thrilling day ahead of us because we are going on a helicopter ride to the bottom of the Grand Canyon. So I'm a little bit nervous but very excited. But surprise, surprise we are running a little bit late to catch our bus. So let's hope we get there on time. We'll try our best. We can't miss this one this time. Okay thank you so much. We were late but somehow the bus is late too. So I think it's our lucky day. You excited for the Grand Canyon? Yeah.",
+      "The bus is packed. I was worried there weren't going to be any seats for us. I thought my uncle booked us a private tour but the first stop on the tour is breakfast. We're going to a restaurant to eat something before we head to the Grand Canyon. They gave us these cards to fill out and it's just the menu. I chose some scrambled eggs and some coffee because I think I need a boost of energy since we were up so early. You got to bring those into the restaurant.",
+      "So you should ride in the back with us. We're going to be making the comedian laugh. Tell him I got the health nut breakfast. It's scrambled eggs with veggies and cheese and some potatoes. I don't know if it's actually healthy but it sounded good. Of course I have to put a splash of hot sauce on it."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Most people are going to sleep at this time. We woke up early because we are heading to the Grand Canyon today. We have a very thrilling day ahead of us because we are going on a helicopter ride to the bottom of the Grand Canyon. So I'm a little bit nervous but very excited. But surprise, surprise we are running a little bit late to catch our bus. So let's hope we get there on time. We'll try our best. We can't miss this one this time. Okay thank you so much. We were late but somehow the bus is late too. So I think it's our lucky day. You excited for the Grand Canyon? Yeah.",
+      "Now we're on our way back to the bus and we will be heading to the Grand Canyon. I'm so excited although now the helicopter ride is getting a bit more real. I'm getting more nervous as it gets closer. Oh kimchi in the middle of the desert even definitely I'm shocked.",
+      "We take a penny and we press it so you can choose what design you want and it turns your penny into that. You insert your coins and it will flatten the penny. I gotta put some muscle into it. Here we go."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "Now we're on our way back to the bus and we will be heading to the Grand Canyon. I'm so excited although now the helicopter ride is getting a bit more real. I'm getting more nervous as it gets closer. Oh kimchi in the middle of the desert even definitely I'm shocked."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Most people are going to sleep at this time. We woke up early because we are heading to the Grand Canyon today. We have a very thrilling day ahead of us because we are going on a helicopter ride to the bottom of the Grand Canyon. So I'm a little bit nervous but very excited. But surprise, surprise we are running a little bit late to catch our bus. So let's hope we get there on time. We'll try our best. We can't miss this one this time. Okay thank you so much. We were late but somehow the bus is late too. So I think it's our lucky day. You excited for the Grand Canyon? Yeah.",
+      "I could kiss the ground right now. We survived.",
+      "We take a penny and we press it so you can choose what design you want and it turns your penny into that. You insert your coins and it will flatten the penny. I gotta put some muscle into it. Here we go.",
+      "Can we check in as well?"
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So you should ride in the back with us. We're going to be making the comedian laugh. Tell him I got the health nut breakfast. It's scrambled eggs with veggies and cheese and some potatoes. I don't know if it's actually healthy but it sounded good. Of course I have to put a splash of hot sauce on it.",
+      "Obviously, we probably have to be the helicopter ride going down to bottom of the canyon.",
+      "And actually, I have to say, I really liked the comedian."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "So you should ride in the back with us. We're going to be making the comedian laugh. Tell him I got the health nut breakfast. It's scrambled eggs with veggies and cheese and some potatoes. I don't know if it's actually healthy but it sounded good. Of course I have to put a splash of hot sauce on it.",
+      "When you're done this round piece needs to be centered on your stomach to allow your belly button. After that grab these two shoulder straps you should put them in the top of the round piece."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "It's time for the helicopter ride. Ready or not? Here we go."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The Hoover Dam was built in the 1930s and at the time it was the tallest dam in the world.",
+      "When you're done this round piece needs to be centered on your stomach to allow your belly button. After that grab these two shoulder straps you should put them in the top of the round piece."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "So you should ride in the back with us. We're going to be making the comedian laugh. Tell him I got the health nut breakfast. It's scrambled eggs with veggies and cheese and some potatoes. I don't know if it's actually healthy but it sounded good. Of course I have to put a splash of hot sauce on it.",
+      "Thank you. Have a good night."
+    ]
+  }
+]

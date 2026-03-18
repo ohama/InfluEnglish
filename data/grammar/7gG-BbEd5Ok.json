@@ -1,0 +1,28 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today is Sunday, so I'm going to reflect on my week.",
+      "I'm going to be real here and say I'm already off to a bad start because I'm filming this late at night."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Even though I'll still be working hard, I want to try my best to take care of my health as well.",
+      "So I'm already failing one of my goals, but I'll make up for it tomorrow."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I do have to give myself a little bit of credit, though."
+    ]
+  }
+]

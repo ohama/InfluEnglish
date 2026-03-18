@@ -1,0 +1,74 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I think this is going to pair perfectly with our mokkeolli.",
+      "I'm going to try it with some sauce because he said all the sauces are house made.",
+      "It's going to be our condiments.",
+      "This is going to be our raw sabi and our sambi.",
+      "So I'm going to boil it and gochujang."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I think here the food will be amazing but probably a bit more pricey than it is in Seoul.",
+      "We'll go again one two.",
+      "OK, we'll get one of those, please.",
+      "I'll take 100 of these.",
+      "It will be in just like a few minutes."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "I think here the food will be amazing but probably a bit more pricey than it is in Seoul."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "We can go each.",
+      "Can we get the bill, please?",
+      "I can see it.",
+      "Can't go wrong with this combo.",
+      "Can't go wrong."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "It can't be done in one bite."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Also, I had to laugh.",
+      "I just had to take my jacket off."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I think the best option would be to get to come and then one tail and one bulgogi.",
+      "But I think I would choose bulgogi over tail.",
+      "Knowing how much I'd pay for this in Seoul, it's about three times more expensive, at least.",
+      "I would say general."
+    ]
+  }
+]

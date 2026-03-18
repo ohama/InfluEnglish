@@ -1,0 +1,78 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "No taxis in the middle of Gangnam. We're going to be late.",
+      "We're going to get a coffee and head down to the platform right away because we don't want to miss this train too.",
+      "Today, I'm going to learn how to cook doenjangjige or soybean paste stew.",
+      "So we are going to eat breakfast soon and fill our tummies and then rest a bit.",
+      "And then I'm so excited because my mother-in-law is going to teach me how to cook Korean food."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "And then we will fry them.",
+      "I'm always so well fed when I visit my in-laws.",
+      "And then we will fry them.",
+      "I'm always so well fed when I visit my in-laws.",
+      "Now we are going to batter these thin slices of meat and then we will fry them."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "It's 5.45 am because everything was fully booked and the only departure time we could get was super early.",
+      "You can fact check me on that dredging.",
+      "I can learn how to cook from your mom.",
+      "We can put a call this a heaping spoon if it's over.",
+      "I can't wait to dig in."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "You should learn how to clean from your dad.",
+      "Wow, I should have cropped my nose.",
+      "You should learn how to clean from your day.",
+      "Wow, I should cook my nails.",
+      "You should learn how to clean from your dad."
+    ]
+  },
+  {
+    "unit": 34,
+    "title": "should have (done)",
+    "desc": "과거 후회 (했어야/하지 말았어야)",
+    "examples": [
+      "Wow, I should have cropped my nose.",
+      "Wow, I should have cooked my nails."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "And now it's time to eat again.",
+      "And now it's time to eat again.",
+      "And now it's time to eat again."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "I didn't know you'd get married.",
+      "When I first heard it, I didn't know you'd get married."
+    ]
+  }
+]

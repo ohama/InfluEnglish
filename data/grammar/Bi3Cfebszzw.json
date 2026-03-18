@@ -1,0 +1,75 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We're going to see what kind of goodies we can find here and enjoy the Christmas lights.",
+      "I definitely am going to have to get a hot cocoa to stay warm."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "My sister is driving us right now so we should be there shortly and we will wait for my mom.",
+      "Um, I will do an all-in-milk lunch.",
+      "But we'll see how long we can last here because it is freezing cold.",
+      "We're in our PJs and we'll probably pour a glass of wine, play some games and watch a movie.",
+      "We had two generations on this trip but I hope next trip will have my grandma with us so we'll have three generations all together."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "We just checked into our hotel and unpacked our bags and now we are just chilling until we go out to eat for dinner and my mom got us Christmas presents because this is kind of like our Christmas trip."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "So currently I am with my sister and we are on our way to a dog-friendly tea house because as you can see, we've got our little furry friend in the back here ready to go on an outing.",
+      "We can match!",
+      "We're going to see what kind of goodies we can find here and enjoy the Christmas lights.",
+      "But we'll see how long we can last here because it is freezing cold.",
+      "So we left early, went to the grocery store and got some snacks so that we can just chill in our hotel room."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I definitely am going to have to get a hot cocoa to stay warm."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "My sister is driving us right now so we should be there shortly and we will wait for my mom."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "What would you think, Amanda?"
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "They were announcing it but they kept delaying it and we got a little bit impatient because we were so cold."
+    ]
+  }
+]

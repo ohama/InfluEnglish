@@ -1,0 +1,97 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "It's not even been one week in the US and I'm going to the hospital.",
+      "So I'm going to an urgent care which is open even though it's Sunday.",
+      "I'm going to tend to do the infection or just overgrow the bacteria.",
+      "So you're probably not going to want to just want to look out insurance."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Especially on a Sunday, jeez. I'll do a card.",
+      "And then an eye drop which I'll send as well with just like an antibiotic eye drop.",
+      "I'll live, right?",
+      "I think you'll probably see another day.",
+      "So I will survive."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "So we will be going to the pharmacy to pick up some medication.",
+      "I will be making a lot more videos of natural everyday English that I use here in the US."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "So when you go to a pharmacy, it's very common to say I'm here to pick up my prescription."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "This is my sacrifice. I got a swollen eye so that I can teach you guys hospital English.",
+      "I can feel some pain and it's only getting bigger and bigger as time goes on.",
+      "So hopefully a doctor can see me right away, examine my eye and give me some ointment or medication to help the swelling go down and relieve a bit of the pain.",
+      "Any redness to the white part of the eye that you can notice?",
+      "Also when I look blank I can just feel a little irritation."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I felt like I had to jump through a lot of hoops just to get my prescription."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "They should have done that the first thing."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "So what I would recommend is a steroid orally which I can send in for you.",
+      "It would have been five minutes in and out and yeah, less than ten bucks for everything.",
+      "I wanted to see how long it would be when I could pick it up."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "In the US, sometimes pharmacies are even in the grocery store.",
+      "Send I was just in there to pick up a prescription."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I didn't get my eyedrops but my provider just called in a new prescription for eyedrops."
+    ]
+  }
+]

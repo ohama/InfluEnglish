@@ -1,0 +1,28 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "If you liked Sherlock, you'll probably love this one too."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I could barely open it.",
+      "I can't wait to meet him in person one day.",
+      "I've been resting a lot and just taking it easy so that I can get better and start filming more videos soon."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Since pink eye is very contagious, I had to cancel all of my plans, which was kind of a bummer, so I've been a big homebody lately."
+    ]
+  }
+]

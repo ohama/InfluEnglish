@@ -1,0 +1,69 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I just checked in to my hotel in Seoul and I'm pretty hungry so I'm going to go out and see what restaurants are nearby.",
+      "I got a huge bowl of foe and a nice cold beer. I know this is going to hit the spot.",
+      "I had an amazing first day in Seoul but man, I'm exhausted so I'm going to cut into this gorgeous cake that one of the students' moms made for me.",
+      "It just seems wrong to cut into my own face. I'm going to change into my PJs and go to sleep early tonight.",
+      "We're going to be a lucky winner today."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "20 lucky people will win books or free drinks or free snacks.",
+      "I'll do lemon tea.",
+      "I'll do.",
+      "I keep telling myself to take deep breaths and it'll all be okay."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I set up a small market for the kids so they could practice using English naturally while buying toys and snacks.",
+      "So good. You can never go wrong with foe.",
+      "I couldn't have done it without them and I'm so grateful for their hard work and generosity.",
+      "I really can't thank you enough for that.",
+      "You can do it."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So I had to make a quick pit stop at all of young after dinner."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "It's time for the awards ceremony."
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you have some kind of event, I really recommend working with red hyphen. They're awesome."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Almost every pocha was packed and had a line but luckily we found an open seat at a Vietnamese restaurant."
+    ]
+  }
+]

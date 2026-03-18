@@ -1,0 +1,125 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "So today, I'm going to show you my winter routine.",
+      "I'm going to get the snow blower.",
+      "I'm going to use a measuring cup to measure out 24 ounces of chicken broth.",
+      "So we're going to head home and get nice and warm so we don't catch a cold.",
+      "I'm going to make a snow angel and build a snowman."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I usually dress in layers, so I'll have two pairs of pants on three shirts.",
+      "Let it cook all day and at night, you'll have a meal ready to eat.",
+      "We have all of the ingredients here and we will just throw it in the crock pot and let it cook all day.",
+      "And now I am covering it and we will cook it on high for three to four hours.",
+      "That will be perfect because when we come back in after sledding, it'll be all ready to eat."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "Usually, when we get snow like this, I check the news right away to see how the road conditions are.",
+      "Before I go outside, I have to bundle up in winter.",
+      "That will be perfect because when we come back in after sledding, it'll be all ready to eat."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "So you can make it in the morning.",
+      "You can tell me it's okay.",
+      "A can of corn.",
+      "I don't know if you can see what's behind me here, but we're actually going sledding.",
+      "You can see the wings."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "You can't have hot chocolate without some marshmallows."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "So this might be a little bit of a struggle.",
+      "Now I'm freezing cold and I feel like I might have frostbite."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "But I have to stick to some kind of a routine.",
+      "Before I go outside, I have to bundle up in winter.",
+      "I think I have to throw my clothes in the dryer.",
+      "Even Willie had to put his sweater on.",
+      "But still, you have to be very careful, drive slow, and look out for black ice."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "I should be wearing snow pants for this but I'm going to make a snow angel."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "And when I was younger, I would always check to see if there were any school closings.",
+      "On a day like today, most people would not leave the house because the road conditions are not the greatest.",
+      "I wouldn't say like one better than the other because they are so different.",
+      "It's not as spicy as I thought it would be, but it's got some good flavor to it."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The very first thing I do every single morning in winter is put on my slippers because my feet are always freezing cold in winter.",
+      "Luckily, my mom is very experienced when it comes to winter driving because she was born and raised in Michigan."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "That will be perfect because when we come back in after sledding, it'll be all ready to eat."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "We have a curing at my mom's house, so I just take one pot of coffee, put it in the machine.",
+      "I guess my mom is telling me to get my butt out there in shovel.",
+      "We've got a classic sled here, which is similar to a toboggan and my favorite, a saucer.",
+      "I even got a real carrot for the nose.",
+      "We've got a raspberry flavored one and a salted caramel flavored one."
+    ]
+  }
+]

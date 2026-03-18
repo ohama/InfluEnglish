@@ -1,0 +1,39 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today, I'm going to show you my exercise routine, so let's hit the gym for a full body workout.",
+      "So first, I'm going to do some cardio on the treadmill.",
+      "I'm a little bit better at dead lifts, so I'm going to add some plates.",
+      "I'm so sweaty now. I'm going to chug some water.",
+      "Next, I'm going to work out my chest, so I'm going to do a bench press."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "First, I'll lay down on the bench.",
+      "I'll start by stretching my arms."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I always have to end my workout sessions with a gym selfie."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "It's time to train our arms."
+    ]
+  }
+]

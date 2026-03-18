@@ -1,0 +1,115 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to spend the entire day going through drive-throughs. Is it good for my diet? Absolutely not. But I hope by the end of watching this video, you are much more comfortable and confident going through a drive-through in the US. So wish my stomach luck.",
+      "Come on, I'm going to be zero left. No, I will not be. Okay, I'll do a sausage egg McMuffin meal with orange juice, please.",
+      "No, but Monday, Friday, the weekday is going to be 10, 30. It stops and the weekend is 11.",
+      "Pro tip. Always ask for sauces. You can't assume they're going to put them in your bag.",
+      "Haven't been here for a hot minute though, so I'm going to need a minute to look over the menu."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Come on, I'm going to be zero left. No, I will not be. Okay, I'll do a sausage egg McMuffin meal with orange juice, please.",
+      "Sometimes I don't catch what they say and I just ask them to repeat themselves when that happens. Usually I'll say, I'm sorry, I didn't catch that. Or I'm sorry, what was that?",
+      "Impeccable service. Fast with a smile, well done McDonald's. I hope they threw some ketchup in the bag.",
+      "And I'll do an order of the egg white bites.",
+      "And I will also do an iced matcha latte."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "And sausage egg and cheese McGrittle meal also with orange juice, please. And can I just ask how long do you serve breakfast?",
+      "I just ordered through, drive-through. Can I have some ketchup to go?",
+      "Pro tip. Always ask for sauces. You can't assume they're going to put them in your bag.",
+      "Could I please get a minute?",
+      "What can I get for you today?"
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "I must have eaten at least 5,000 calories today."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "No, but I think that should be it.",
+      "Maybe I should have kept the classic syrup.",
+      "That should tell you how broke we were.",
+      "No one should eat this much fast food in a day.",
+      "Yep, and I think that should be it."
+    ]
+  },
+  {
+    "unit": 34,
+    "title": "should have (done)",
+    "desc": "과거 후회 (했어야/하지 말았어야)",
+    "examples": [
+      "Maybe I should have kept the classic syrup."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Would you like to keep the classic or no?",
+      "I thought that at a franchise like Starbucks, it would be the same.",
+      "After a night at the club, we would hit up Taco Bell.",
+      "But if we were feeling like splurging a little bit, we would go to Taco Bell.",
+      "Would you like to try your orange chicken today?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you get McDonald's breakfast, this is the only order you need to know.",
+      "But if we were feeling like splurging a little bit, we would go to Taco Bell."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Okay, wow. So we made it just in time, huh? Yeah. Okay, perfect. I think that'll be it for us today. We almost didn't make it in time.",
+      "Ordering at Starbucks is not for the week.",
+      "And I think that'll be it for today."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "No, but I think that should be it.",
+      "Yep, and I think that should be it."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I almost want to get a orange just to see how big it is.",
+      "Have a good night."
+    ]
+  }
+]

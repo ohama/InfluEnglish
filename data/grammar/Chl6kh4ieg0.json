@@ -1,0 +1,123 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today, I'm going to show you guys how to order at these restaurants with confidence.",
+      "I'm going to add the queso sauce.",
+      "That's what I'm going to get to.",
+      "He's going to get it, I think.",
+      "I've got two drinks in mind that I'm going to order today."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "After watching this video, you'll be able to order Starbucks like a Pro.",
+      "I'll have the brown rice.",
+      "I'll do a bowl with chicken for here.",
+      "I'll do the white rice.",
+      "I will do the green salsa."
+    ]
+  },
+  {
+    "unit": 22,
+    "title": "will / won't",
+    "desc": "거부, 불가, 확신 표현",
+    "examples": [
+      "No, I won't do queso."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "So maybe you can research ahead of time and see what the menu is before you go to the restaurant."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "After watching this video, you'll be able to order Starbucks like a Pro.",
+      "In the US, there are many fast food restaurants where you can customize your order, which is really great because then you can get it tailored exactly to your tastes.",
+      "This is my mom's first time ever to Chipotle so you can see a total newbie ordering.",
+      "You can do it.",
+      "I can do it."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "It may be a carrier.",
+      "I never order Frappuccinos at Starbucks, but I might start after trying this."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I do, but sometimes I avoid them, because you get nervous, you don't know what they have to offer and everything.",
+      "They just cut them up in strips that you have to do the breast."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "And that should be good.",
+      "Just a tall, should be okay.",
+      "And that should do it.",
+      "A 20 should be okay."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Would you like to add the garlic?",
+      "I would like a drink.",
+      "Would you want a tray for that?",
+      "And for my other drink, I would like a Grande iced matcha with two pumps of pistachio and chocolate cold foam.",
+      "The first thing would you like tonight?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "I don't know if they have this in Korea, but this thing is huge."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "The reason why they call this the Squid Games Frappuccino is because the color of it is supposed to look like the color of the uniforms that they wear.",
+      "Don't be embarrassed to ask for help."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Can I have a little bit of a lettuce, please?",
+      "I have a little bit of a complicated order today.",
+      "I'll also do a six-inch, you have the chicken breast.",
+      "No, thank you, but I'll have the chicken heated as well."
+    ]
+  }
+]

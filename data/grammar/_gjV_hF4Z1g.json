@@ -1,0 +1,80 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "Today, we're going to learn Korean in a couple of years."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Well, there's definitely some cultural differences, I'll say.",
+      "Next time, I'll be able to learn a really good English language.",
+      "I'll be able to learn a really good English language language."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "When you go to the US, I don't have anything like that.",
+      "But when you go to the gathering, how old are you?",
+      "Until you get to know them better."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "So if you're actually concerned about the person, you can say, is everything okay?",
+      "So regardless of your size, you know, all sizes and shapes and all different kinds of people can be beautiful.",
+      "Thirdly, you can think that this is really weird, but it's a compliment to the Korean people.",
+      "You can use three rotations like this.",
+      "Next time, I'll be able to learn a really good English language."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "You don't have to do makeup, you don't have to do anything.",
+      "You don't have to do anything like that.",
+      "You don't have to do anything like that."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Today, I think it would be nice to tell you that we're different from other Korean people.",
+      "If you're trying to give a compliment about somebody's face, I would just say you look beautiful or you look very handsome.",
+      "My face is small, but I don't think it would be good to comment on the appearance.",
+      "What would you say?"
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "What would you say?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "If you go to the US, it becomes much easier to take care of your body.",
+      "I was like, okay, because I didn't know if it was good or bad."
+    ]
+  }
+]

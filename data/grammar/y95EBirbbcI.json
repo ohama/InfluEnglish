@@ -1,0 +1,67 @@
+[
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "But if I'm hosting a dinner setting out the plate, I'll say dig in everyone.",
+      "I spoke so fast recording these files so I think it'll be a great challenge for you guys."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "But I have this image in my head and that can help you remember some of these phrases.",
+      "That's very common to say I can ring you up over here.",
+      "I can't wait to dig in.",
+      "You say a lot of times, I can't wait to dig in.",
+      "I can't wait to sleep in."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "People usually might know some of the words, but when you put these words together, it has a whole different meaning.",
+      "I know that might sound like bad manners but it's just not inner culture."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "What would you guess that it means if you didn't know?",
+      "If you're picturing like very polite, dainty, fine dining, I probably wouldn't say dig in.",
+      "I never ever thought I would get any button."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "I realized that a lot of American dramas, although they're entertaining, they were lacking in the sense that not all situations can be applied to real life."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "I realized that a lot of American dramas, although they're entertaining, they were lacking in the sense that not all situations can be applied to real life."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "People usually might know some of the words, but when you put these words together, it has a whole different meaning.",
+      "I slept in, but now I'm ready to get my day started."
+    ]
+  }
+]

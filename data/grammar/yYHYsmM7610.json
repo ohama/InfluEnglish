@@ -1,0 +1,97 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "You can say it a couple of ways, so you could say I'm going to meet up with my friend on Sunday, so meet up with, or I have plans with my friend on Sunday, or you could be more specific, I'm going to dinner with my friend on Sunday."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "so instead of saying my body condition is not good, I would just say I don't feel well or how's your condition today?",
+      "but when I go back to the US, I will never use that word.",
+      "but if you use it a little bit more, you'll be able to see it.",
+      "we'll be back with more contents like this."
+    ]
+  },
+  {
+    "unit": 25,
+    "title": "When I do / When I've done",
+    "desc": "시간/조건절에서 현재시제 사용",
+    "examples": [
+      "but when I go back to the US, I will never use that word."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "You can say it a couple of ways, so you could say I'm going to meet up with my friend on Sunday, so meet up with, or I have plans with my friend on Sunday, or you could be more specific, I'm going to dinner with my friend on Sunday.",
+      "If you want to meet up with my friend, you can say it like you want to meet up with him.",
+      "so you can't just assume somebody is a foreigner based on how they look.",
+      "we would never say, oh, can I have a cola?",
+      "can I have a coke?"
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "they just might sound a little bit more unnatural in the US and we might say it a little bit differently in the US."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "because the US is so diverse, I also don't think there's many situations where I've ever had to emphasize this point."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "so instead of saying my body condition is not good, I would just say I don't feel well or how's your condition today?",
+      "I would say How do you feel today?",
+      "if I'm trying to ask somebody where they're from, I would say, were you born and raised in New York?",
+      "so in the US, we would never order a cola.",
+      "we would never say, oh, can I have a cola?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "because appointment is a promise, so if I have a appointment with my friend, I have an appointment."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "according to the definition, condition is being used correctly, but it just sounds a little bit unnatural in English."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "I have a dentist appointment.",
+      "I have a hair appointment at the salon or a nail appointment.",
+      "yes, I hear so many Koreans say, we have a shooting at 11 o'clock.",
+      "if somebody said we had a shooting at the beach yesterday, I think most people would think there was gun violence.",
+      "I had a photo shoot I filmed, something like that."
+    ]
+  }
+]

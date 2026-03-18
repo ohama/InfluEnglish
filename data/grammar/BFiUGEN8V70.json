@@ -1,0 +1,79 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "You can paint whatever you want. Do you have any ideas what you're going to paint? No.",
+      "I'm going to draw a mermaid. A style. What's your favorite season? Winter. I don't like summer not much but it's too hot. Oh, that's true. What do you like to do in winter? Play with snow, snow ball fights. Those are fun. I love Christmas but I can't stand the cold. I'd rather be hot than cold. Yeah, I like hot more than cold but it's just like the winter view is so pretty.",
+      "I think number two is way more better than the one. So Estelle votes for the mermaid. But I'm going to vote for this one. I like all the colors and patterns. So let us know in the comments if you vote for number one or number two. How was painting today? Yeah, good. Thank you so much for watching and check out our pins comment. And see you next time. Thank you Estelle."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "Okay, we'll give you some more time. I messed mine up. I think my mermaid has like an extra arm or something. So how did you first learn English? Do you speak English with your mom?",
+      "Do you want to add a few more things quick and then we'll switch?",
+      "Yes. Well it can be. You can change it. It doesn't have to be a mermaid.",
+      "There's no such thing as a bad art. Let's show where we're at. She looks good. I like the blonde hair. No, it looks like she'll hurt. Put a shark in there or something.",
+      "Will you add it a lot more than me? You were doing harder work than I did. Mine was very simple."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Hello everybody! I've got a super special guest with me today. Her name is Estelle. So can you introduce yourself Estelle?",
+      "What did you do this year for your birthday? We had team Ariel but it wasn't so much fun. What's how come? Because my mommy was sick. She was like sleeping the whole entire party. So I brought us some stuff to paint today because I know how creative you are. So I thought we could play a game where we paint a little bit maybe for five minutes and then we switch paintings and then we add something to each others and then switch. How's that sound? Okay. I need you to save my paintings because I'm not good at painting. That's why I'm switching you. Okay. Are you ready to get started?",
+      "You can paint whatever you want. Do you have any ideas what you're going to paint? No.",
+      "You can think about it for a little bit. Let the inspiration come. You ready?",
+      "You gave me some inspiration with what we were talking about earlier. Maybe you can guess mine."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "Okay, go for it. So your friends must be pretty creative too if you guys are like scrapbooking together. We usually make big board games. We make characters. So I'm a style and Emily and Celine, Ian and Diana. They are their characters. It's based on our names. So draw the characters and stick them. Whoa! So you create yourself like as a character. That's really cool. That sounds like hard work. It's not not my heart. Should we show the camera? Round one?"
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Yes. Well it can be. You can change it. It doesn't have to be a mermaid.",
+      "T castle. Yeah, it's a T castle. I just kind of went crazy with the colors. Abstract art. You did good. High five. It's our first masterpiece. And in the beginning, Estelle had a really good setting with the sun and the rainbow. And I added the grass and flowers. I just colored it in at first because I didn't want it to be too messy. And then I just threw a castle, but then it went funky. So I just stick with a funky style. So I had to call it a water power or a maid. That's smart."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "Okay, go for it. So your friends must be pretty creative too if you guys are like scrapbooking together. We usually make big board games. We make characters. So I'm a style and Emily and Celine, Ian and Diana. They are their characters. It's based on our names. So draw the characters and stick them. Whoa! So you create yourself like as a character. That's really cool. That sounds like hard work. It's not not my heart. Should we show the camera? Round one?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I'm going to draw a mermaid. A style. What's your favorite season? Winter. I don't like summer not much but it's too hot. Oh, that's true. What do you like to do in winter? Play with snow, snow ball fights. Those are fun. I love Christmas but I can't stand the cold. I'd rather be hot than cold. Yeah, I like hot more than cold but it's just like the winter view is so pretty.",
+      "Do you play with them a lot? We do, but not when I'm in school. And there's no pet thing. You can't bring your pet to school? I wish we had a pet thing. Right, that would be so fun. Did you have had dog? I did. Actually, I had cats too. So I'm just a little bit allergic. Like if I pet them and then get close to my face, then I sneeze a lot. But I love cats, so I always want to pet them."
+    ]
+  },
+  {
+    "unit": 39,
+    "title": "I wish I knew",
+    "desc": "현재 반대 소망",
+    "examples": [
+      "Do you play with them a lot? We do, but not when I'm in school. And there's no pet thing. You can't bring your pet to school? I wish we had a pet thing. Right, that would be so fun. Did you have had dog? I did. Actually, I had cats too. So I'm just a little bit allergic. Like if I pet them and then get close to my face, then I sneeze a lot. But I love cats, so I always want to pet them.",
+      "I'm a little bit scared now because what if a bird comes by and poops them? No. I keep popping the thought because a bird just passed by. Has it ever happened to you before? No. It's happened to me before. I'm not joking. I wish I was. I was in New York having a picnic and a bird flew overhead and pooped right on my head. You were with somebody? I was with Hong. He was so cranky that day. But then when I got pooped on, suddenly he started laughing. What? Yeah, I was like, why are you smiling now?"
+    ]
+  }
+]

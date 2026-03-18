@@ -1,0 +1,123 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "We've got our bags packed, so we're going to load them into the trunk and hit the road.",
+      "I am at the gas pump, and I'm going to use the novel to fill up the tank.",
+      "I'm going to stay in the fast lane for a little while."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I've got our GPS set, but the first stop will be a gas station, because I want to fill my tank.",
+      "No, we'll be all right.",
+      "I'll do Coke Zero, please.",
+      "I will also do hot black coffee.",
+      "I'll go for a medium."
+    ]
+  },
+  {
+    "unit": 24,
+    "title": "will be doing / will have done",
+    "desc": "미래진행 / 미래완료",
+    "examples": [
+      "I will be giving a tour of the cabin soon, and we will be making lots of videos here."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "We can't leave without getting a road trip snack.",
+      "I'm sorry, could you see?",
+      "Not everybody loves twizzlers, but I think they're great for road trips, because I can eat them mindlessly.",
+      "Can I do a number three meal, please?",
+      "So it's easy to hit a deer and you can completely wreck your car if you do."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Sometimes on big highways, especially during rush hour, you might encounter some people with road rage.",
+      "Usually when somebody gets angry when they're driving, they might lay on the horn or maybe give the middle finger to other drivers, but today is an open road, so I don't have to deal with road rage today."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "I have to select which type of gas I want, and I want regular gas.",
+      "The speed limit is a lot higher here, so I have to give it some gas.",
+      "Usually when somebody gets angry when they're driving, they might lay on the horn or maybe give the middle finger to other drivers, but today is an open road, so I don't have to deal with road rage today.",
+      "You have to pay a toll."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "OK, should I park over here?"
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "Would you like a bag?"
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "I'm sorry, could you see?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "So it's easy to hit a deer and you can completely wreck your car if you do."
+    ]
+  },
+  {
+    "unit": 39,
+    "title": "I wish I knew",
+    "desc": "현재 반대 소망",
+    "examples": [
+      "I wish they had this on the menu in Korea."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "Nope, I think that will be it.",
+      "But fun fact, my husband has been pulled over while driving in the US."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "We've got our bags packed, so we're going to load them into the trunk and hit the road.",
+      "I've got our GPS set, but the first stop will be a gas station, because I want to fill my tank.",
+      "I got my license when I was 16 years old, so I've got a lot of experience driving, but when it comes to going off road on these small dirt paths or trails, I get a little bit nervous because I don't have as much experience."
+    ]
+  }
+]

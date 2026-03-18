@@ -1,0 +1,90 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "But today we are going to tell the story and have a conversation about how we met.",
+      "She's not going to have a day with me.",
+      "Like, that's the way that this is going to work.",
+      "Basically, she was saying, I'm going to break up with you if you're not taking the show.",
+      "My family and friends thought I was a little bit crazy and not going to lie."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "And you're like, oh, I'll bring you one.",
+      "We'll save New York and living together for next episode because I think we have some interesting stories about that as well.",
+      "Leave a comment with any questions you have and we will try to answer it in future episodes.",
+      "We will be back with more fun stories."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "I just think it's romantic to say, oh, can I take you out on a date?",
+      "Can I take you out for dinner?",
+      "I think it's super cute when you can tell the guy is trying really hard, and then everything goes horribly.",
+      "You couldn't see the view at all.",
+      "And then when you asked me, I can't do too much in the public."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "That must be Callie's boyfriend.",
+      "I think there was something must have been pulling us."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "And then we had to stay at his house."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "So my husband and I decided that we would show you what a normal everyday conversation looks like.",
+      "And even one-on-one, I would message each other.",
+      "And actually one of my favorite memories of you when we first started hanging out is I felt like you would always make excuses to come see me.",
+      "It would be the silliest thing.",
+      "Like, I'd be like, oh, my pencil broke."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Was it in that voice, too?"
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "Yeah, Hong Kong got lost."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "But today we are going to tell the story and have a conversation about how we met."
+    ]
+  }
+]

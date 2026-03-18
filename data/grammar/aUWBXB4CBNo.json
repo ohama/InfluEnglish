@@ -1,0 +1,63 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "While Korean malls are so fancy, there's so many designer stores. There's even a robot that roams the mall here, but I'm not really sure what it does. To be honest, it just looks like it's going to hit me. We're going to a pop-up store on the fourth floor, so let's take the escalator.",
+      "This floor has a lot of furniture, home decor, and interior design stuff. Actually the pop-up we're going to is about interior design and home decor.",
+      "We made our first purchase of the day. We bought one of the cool soaps as a gift and she also gave us a scrunchie as a gift for free, which was so generous of her. So we're going to check out the rest of the mall and do some window shopping. On the third floor is a peril. So they have men's fashion and women's fashion, but I don't really need anything, so I'm just kind of browsing.",
+      "This store caught my eye. I was walking by and I saw their hats. I really like these hats. It says hello sunrise. They have a lot of retro band teas. I love doing yoga and I really like Lulu lemons, yoga pants and sports bras. So I'm going to see what they have in stock today.",
+      "I really like the flared yoga pants, but they look a little bit too long. So I'm going to try them on in the fitting room to make sure that they fit me okay. I tried these on in the fitting room, but they were a bit too long. So I'm going to put them back. Not going to buy them this time."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "I'll add all this stuff to my wish list for our future home.",
+      "So I ended up getting a Coco oats macha latte, and I'm going to be honest. It's not what I expected. It said COCO, so I thought I was getting a coconut macha latte, but it's chocolate. I kind of tend to stress out in situations where there's a lot of people waiting, so my mistake. But maybe I'll like it. Maybe it will be a good surprise. Not too bad. I'm going to finish my drink and then go home. Thank you so much for watching everybody, and if you liked this video, make sure to subscribe to our channel, like the video, and comment below what you'd like me to do next. Goodbye everybody! See you next time!"
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "What can we do? We have a black one. Oh, thank you."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "Maybe they don't have it on the map because I think it also might be temporary, like a pop-up."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "We're on our way to get an Asahi bowl, but I got distracted by all of the beauty and makeup shops here. It looks like they're selling perfume and body wash. So all kinds of good stuff that all girls would love. At first I didn't think that the mall was packed, but now that we're in the food court, it is so crowded down here. I'm really scared to see the line for the Asahi bowl. Maybe around here, right? Do you think this would be the pop-up? Oh, pro tip. Always check Instagram's first because apparently this pop-up ended a whole month ago and no one told me no Asahi bowl for us."
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "What can we do? We have a black one. Oh, thank you."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "This mall is huge and it's so easy to get lost. So I'm going to use the map to find an Asahi bowl place that I really want to go to here. Lovely. That was not helpful at all."
+    ]
+  }
+]

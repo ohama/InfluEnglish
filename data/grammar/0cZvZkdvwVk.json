@@ -1,0 +1,111 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "If you're going to hit on someone at the bar, you see someone very attractive sitting at the bar.",
+      "I think if you go with specific lines, then you know, it's not going to work too well for you.",
+      "I'm going to be like, hey, what's your DJ?",
+      "But if they ask me, I'm going to be like, I have things to do.",
+      "It's going to be like, keep being awkward."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "If you're starting a fight with someone, or someone comes up to you and insults you, like what will you say in a fight?",
+      "I think if you go with specific lines, then you know, it's not going to work too well for you.",
+      "I would say like, I appreciate the invite, but I don't think I'll be able to make it.",
+      "I'll easily just make up an excuse.",
+      "I'll make something up for sure."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Could I give you a very short interview, like five questions?",
+      "So first, can you tell me your name, where you're from?",
+      "Can you tell me your name, where you're from, and what you do in the city?",
+      "It could be just being nice to somebody on the street, you know, we try to be nice to people to here in New York.",
+      "I don't usually keep a lot of silence, so I mean, you can just ask a question."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "Because in New York, you have to really aggressive, because people sometimes that approach you aggressively, and you just, you just, I need to show them like, you're not easy target.",
+      "Or like, oh, I have to wash my hair.",
+      "That's literally all I have to say.",
+      "I would just say thank you for the invitation but I'll have to pass.",
+      "I'll have to pass."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "No, okay, okay. Would you mind answering like five questions for me?",
+      "What kind of pickup line would you use, or how would you hit on them?",
+      "What would you say for trying to decline an invitation?",
+      "We would ask you to your face.",
+      "You'd say, I'd wear something similar."
+    ]
+  },
+  {
+    "unit": 37,
+    "title": "Can/Could/Would you...?",
+    "desc": "요청, 제안, 허락",
+    "examples": [
+      "No, okay, okay. Would you mind answering like five questions for me?",
+      "If you want to like say something mean to somebody, what would you say?",
+      "Like if you want to compliment someone on their outfit, what would you say?",
+      "So if someone invited you to a party and you didn't want to go, what would you say?",
+      "What would you say?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "I think if you go with specific lines, then you know, it's not going to work too well for you.",
+      "What would you say if you were trying to hit on somebody at the bar?",
+      "Or like, I ask if they have pets or a dog person.",
+      "I would say if I was trying to mean soft.",
+      "So, if you were getting in a fight with someone, if someone instigated a fight with you, what would you say to them?"
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "Where is it from?"
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "It could be just being nice to somebody on the street, you know, we try to be nice to people to here in New York."
+    ]
+  },
+  {
+    "unit": 46,
+    "title": "have something done",
+    "desc": "사역 수동 (시키다/당하다)",
+    "examples": [
+      "Oh, have you tried this thing before, right, so just posing a question to just get the conversation started again?",
+      "Introduce, get the general gest."
+    ]
+  }
+]

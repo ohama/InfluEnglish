@@ -1,0 +1,120 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "And if he does, most likely, I'm going to work with him in the restaurant.",
+      "And maybe we are going to open also a cafe."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "So in the morning I'm like, oh yeah, today I will probably do this and this.",
+      "And they're like, oh yeah, yeah, yeah, we'll send it to you.",
+      "Will you serve ice americano at your cafe?",
+      "We will see you next time."
+    ]
+  },
+  {
+    "unit": 22,
+    "title": "will / won't",
+    "desc": "거부, 불가, 확신 표현",
+    "examples": [
+      "Then we won't drink the ice americano."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "We are at the office today and on our lunch break as you can see.",
+      "Can you tell us about your work?",
+      "The best part of these companies that you can choose when you want to start, you can choose when you want to stop.",
+      "but most of the time can be also 8, 9.",
+      "We can also work from home."
+    ]
+  },
+  {
+    "unit": 28,
+    "title": "must / can't (deduction)",
+    "desc": "추론 (확실/불가능)",
+    "examples": [
+      "The feature must be out in one month."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "And if there is a problem with a creator or our app at like 11 p.m., then sometimes you have to take care of that too.",
+      "And then I have to ask the translation team to translate everything in all the languages.",
+      "You have to be very flexible.",
+      "We have to do better.",
+      "But then you have to go again."
+    ]
+  },
+  {
+    "unit": 33,
+    "title": "should (advice)",
+    "desc": "조언, 의견, 당연한 상태",
+    "examples": [
+      "We should end at around 7 p.m.",
+      "We should add a new feature."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "We would do kweshik almost every day, really?",
+      "And I would work on weekends.",
+      "I would do a lot of extra hours.",
+      "That would take one year and a half, one year later.",
+      "So if the company right now isn't a crisis, if I were in Italy, I would be like, that's easier, your problem, not mine, right?"
+    ]
+  },
+  {
+    "unit": 38,
+    "title": "If I do / If I did",
+    "desc": "1형/2형 조건문",
+    "examples": [
+      "When I first got into this company, they were like, asking me if I were okay.",
+      "So if the company right now isn't a crisis, if I were in Italy, I would be like, that's easier, your problem, not mine, right?",
+      "If I had a dream, maybe I would have worked hard for that dream, right?",
+      "And if he does, most likely, I'm going to work with him in the restaurant."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "So I'm taking care of everything that is connected to the live part.",
+      "The feature must be out in one month."
+    ]
+  },
+  {
+    "unit": 43,
+    "title": "Passive (been done / being done)",
+    "desc": "수동태 진행/완료",
+    "examples": [
+      "The feature must be out in one month."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "But I have heard some people complain that the culture difference is just too big for them to get used to.",
+      "I get paid for it."
+    ]
+  }
+]

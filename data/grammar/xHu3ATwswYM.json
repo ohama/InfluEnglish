@@ -1,0 +1,97 @@
+[
+  {
+    "unit": 20,
+    "title": "be going to (do)",
+    "desc": "계획된 의도 또는 근거 있는 예측",
+    "examples": [
+      "I'm going to practice English, but I'm going to ask you a question and I'm going to answer it.",
+      "We're going to use a service called TLGB and record a live.",
+      "We're going to do it.",
+      "So if you're going to organize it, you can upload a video of what you want to do with your members.",
+      "Secondly, we're going to give you a promise that you can do better."
+    ]
+  },
+  {
+    "unit": 21,
+    "title": "will / shall",
+    "desc": "예측, 즉석 결정, 약속/제안",
+    "examples": [
+      "But I will always say a show is still a show.",
+      "So these are worksheets that I created that will help you practice what you learn in the video.",
+      "If you sign up for our membership, whenever we do a live, you will have access to the full video.",
+      "When we do, our members will get exclusive benefits and discounts to those services.",
+      "So I think you're curious about how it will be."
+    ]
+  },
+  {
+    "unit": 26,
+    "title": "can / could / be able to",
+    "desc": "능력과 가능성",
+    "examples": [
+      "Those are bigger numbers than I ever could have imagined.",
+      "I do think that there are better ways to learn natural English that you can use in your everyday life.",
+      "Learning some kind of English that they could use at their job or in their daily life.",
+      "But with our vlogs, I'm trying to create content that can apply to large groups of people, no matter who you are, having a morning routine, cooking a meal, exercising.",
+      "These are simple everyday things that everybody can probably relate to."
+    ]
+  },
+  {
+    "unit": 27,
+    "title": "could have (done)",
+    "desc": "과거 가능했지만 하지 않은 일",
+    "examples": [
+      "Those are bigger numbers than I ever could have imagined."
+    ]
+  },
+  {
+    "unit": 29,
+    "title": "may / might (possibility)",
+    "desc": "현재 가능성 (~일 수도 있다)",
+    "examples": [
+      "It might not apply to your everyday life."
+    ]
+  },
+  {
+    "unit": 31,
+    "title": "have to / must",
+    "desc": "의무 (외부/내부)",
+    "examples": [
+      "So I think that's one advantage we have to our content is, you know, we're always filming something new, using new language and slang."
+    ]
+  },
+  {
+    "unit": 35,
+    "title": "had better / it's time",
+    "desc": "강한 조언 / 때가 되었다",
+    "examples": [
+      "Now, it's time to practice your speaking."
+    ]
+  },
+  {
+    "unit": 36,
+    "title": "would (habit/conditional)",
+    "desc": "과거 습관, 가정법, 정중한 표현",
+    "examples": [
+      "I really thought almost everyone would be in Korea, but we got some comments coming from California, and different states in the US, Canada, Australia.",
+      "No idea when we made this, that it would go over so well.",
+      "I go to the gym part and if I apply it more clearly, I think it would be better."
+    ]
+  },
+  {
+    "unit": 42,
+    "title": "Passive (is done / was done)",
+    "desc": "수동태 기본",
+    "examples": [
+      "So the goal of this step is just to understand what's happening in the video and increase your comprehension.",
+      "Then, re-watch the video with English subtitles to see how the vocabulary is used in context."
+    ]
+  },
+  {
+    "unit": 44,
+    "title": "Passive (special: get + p.p.)",
+    "desc": "get 수동태, 전치사 수동태",
+    "examples": [
+      "Well, I normally get up, have a cup of coffee, watch the news, and then showered first, get dressed, and go to work."
+    ]
+  }
+]
