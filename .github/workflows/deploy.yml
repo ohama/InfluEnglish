@@ -28,12 +28,12 @@ jobs:
           python-version: "3.12"
 
       - name: Generate HTML from CSV
-        run: python generate_html.py
+        run: python tools/generate_html.py
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: docs
 
       - name: Deploy to GitHub Pages
         id: deployment

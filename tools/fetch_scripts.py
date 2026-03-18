@@ -4,12 +4,12 @@ import os
 import time
 from youtube_transcript_api import YouTubeTranscriptApi
 
-SCRIPTS_DIR = "scripts"
+SCRIPTS_DIR = "data/scripts"
 os.makedirs(SCRIPTS_DIR, exist_ok=True)
 
 api = YouTubeTranscriptApi()
 
-with open("youtube_videos.csv", "r", encoding="utf-8-sig") as f:
+with open("data/youtube_videos.csv", "r", encoding="utf-8-sig") as f:
     videos = list(csv.DictReader(f))
 
 print(f"총 {len(videos)}개 영상에서 자막 수집 시작\n")

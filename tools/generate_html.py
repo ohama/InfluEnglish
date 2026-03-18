@@ -4,11 +4,11 @@ import json
 import os
 from datetime import datetime
 
-SCRIPTS_DIR = "scripts"
-PAGES_DIR = "pages"
+SCRIPTS_DIR = "data/scripts"
+PAGES_DIR = "docs/pages"
 os.makedirs(PAGES_DIR, exist_ok=True)
 
-with open("youtube_videos.csv", "r", encoding="utf-8-sig") as f:
+with open("data/youtube_videos.csv", "r", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
     videos = list(reader)
 
@@ -199,7 +199,7 @@ index_page = f"""<!DOCTYPE html>
 </body>
 </html>"""
 
-with open("index.html", "w", encoding="utf-8") as f:
+with open("docs/index.html", "w", encoding="utf-8") as f:
     f.write(index_page)
 
 print(f"완료: index.html + {len(videos)}개 상세 페이지 ({detail_count}개 스크립트 포함)")

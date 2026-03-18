@@ -34,7 +34,7 @@ for line in result.stdout.strip().split("\n"):
     print(f"[{len(rows)}] {detail.get('title', '')}")
 
 # CSV 저장
-with open("youtube_videos.csv", "w", newline="", encoding="utf-8-sig") as f:
+with open("data/youtube_videos.csv", "w", newline="", encoding="utf-8-sig") as f:
     writer = csv.DictWriter(
         f,
         fieldnames=["title", "url", "upload_date", "duration", "view_count", "channel"]
