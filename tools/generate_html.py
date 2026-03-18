@@ -6,6 +6,7 @@ from datetime import datetime
 
 SCRIPTS_DIR = "data/scripts"
 GRAMMAR_DIR = "data/grammar"
+VOCAB_DIR = "data/vocab"
 PAGES_DIR = "docs/pages"
 os.makedirs(PAGES_DIR, exist_ok=True)
 
@@ -39,6 +40,7 @@ TABLE_STYLE = """
   .badge.yt { background: #ff0000; color: #fff; }
   .badge.detail { background: #3498db; color: #fff; }
   .badge.script { background: #2ecc71; color: #fff; }
+  .badge.vocab { background: #e67e22; color: #fff; }
   .badge.grammar { background: #9b59b6; color: #fff; }
   td:first-child, th:first-child { text-align: center; width: 40px; }
   td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(6) { white-space: nowrap; text-align: center; }
@@ -61,6 +63,16 @@ DETAIL_STYLE = """
   .transcript h2 { margin-bottom: 16px; font-size: 1.2em; }
   .sentence { margin: 0 0 12px 0; line-height: 1.8; font-size: 1.05em; }
   .no-script { color: #999; font-style: italic; }
+  .vocab { background: #fff; border-radius: 8px; padding: 20px; margin-top: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+  .vocab h2 { margin-bottom: 16px; font-size: 1.2em; }
+  .vocab-card { margin-bottom: 16px; border: 1px solid #eee; border-radius: 8px; padding: 16px; }
+  .vocab-card:hover { border-color: #e67e22; }
+  .vocab-word { font-size: 1.15em; font-weight: 700; color: #e67e22; }
+  .vocab-meaning { color: #555; margin: 4px 0 8px 0; font-size: 0.95em; }
+  .vocab-context { background: #fff8f0; border-left: 3px solid #e67e22; padding: 6px 12px; margin: 4px 0; font-size: 0.9em; line-height: 1.6; }
+  .vocab-examples { margin-top: 8px; }
+  .vocab-examples summary { cursor: pointer; color: #888; font-size: 0.85em; }
+  .vocab-ex { padding: 4px 0; font-size: 0.9em; color: #666; line-height: 1.5; }
   .grammar { background: #fff; border-radius: 8px; padding: 20px; margin-top: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
   .grammar h2 { margin-bottom: 16px; font-size: 1.2em; }
   .grammar-unit { margin-bottom: 20px; border-left: 4px solid #3498db; padding-left: 16px; }
@@ -117,6 +129,39 @@ for i, v in enumerate(videos, 1):
     else:
         lines_html = '<p class="no-script">자막을 가져올 수 없는 영상입니다.</p>'
 
+    # Vocabulary section
+    vocab_html = ""
+    vocab_path = os.path.join(VOCAB_DIR, f"{video_id}.json")
+    if os.path.exists(vocab_path):
+        with open(vocab_path, "r", encoding="utf-8") as vf:
+            vocab_data = json.load(vf)
+        if vocab_data:
+            vocab_cards = ""
+            for entry in vocab_data:
+                word = html.escape(entry["word"])
+                meaning = html.escape(entry["meaning"])
+                # Context from actual script
+                ctx_html = ""
+                for c in entry.get("context", []):
+                    ctx_html += f'<div class="vocab-context">{html.escape(c)}</div>\n'
+                # Example sentences
+                ex_html = ""
+                for ex in entry.get("examples", []):
+                    ex_html += f'<div class="vocab-ex">- {html.escape(ex)}</div>\n'
+                vocab_cards += f"""<div class="vocab-card">
+  <span class="vocab-word">{word}</span>
+  <div class="vocab-meaning">{meaning}</div>
+  {ctx_html}
+  <details class="vocab-examples"><summary>More examples</summary>
+  {ex_html}
+  </details>
+</div>\n"""
+            vocab_html = f"""
+  <div class="vocab" id="vocab">
+    <h2>Vocabulary</h2>
+    {vocab_cards}
+  </div>"""
+
     # Grammar section
     grammar_html = ""
     grammar_path = os.path.join(GRAMMAR_DIR, f"{video_id}.json")
@@ -167,6 +212,7 @@ for i, v in enumerate(videos, 1):
     <h2>Script</h2>
     {lines_html}
   </div>
+  {vocab_html}
   {grammar_html}
 </div>
 </body>
@@ -189,8 +235,10 @@ for i, v in enumerate(videos, 1):
     thumb = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg" if video_id else ""
 
     has_script = os.path.exists(os.path.join(SCRIPTS_DIR, f"{video_id}.json"))
+    has_vocab = os.path.exists(os.path.join(VOCAB_DIR, f"{video_id}.json"))
     has_grammar = os.path.exists(os.path.join(GRAMMAR_DIR, f"{video_id}.json"))
     script_badge = f'<a href="pages/{video_id}.html#script" class="badge script">Script</a>' if has_script else ""
+    vocab_badge = f'<a href="pages/{video_id}.html#vocab" class="badge vocab">Vocab</a>' if has_vocab else ""
     grammar_badge = f'<a href="pages/{video_id}.html#grammar" class="badge grammar">Grammar</a>' if has_grammar else ""
 
     rows_html += f"""
@@ -207,6 +255,7 @@ for i, v in enumerate(videos, 1):
               <a href="{url}" target="_blank" class="badge yt">YouTube</a>
               <a href="pages/{video_id}.html" class="badge detail">상세</a>
               {script_badge}
+              {vocab_badge}
               {grammar_badge}
             </div>
           </div>
