@@ -1,0 +1,474 @@
+[
+  {
+    "start": 0.16,
+    "text": "Hi. What can I get for you? I'll do a"
+  },
+  {
+    "start": 3.2,
+    "text": "latte."
+  },
+  {
+    "start": 5.759,
+    "text": "I'll do a latte."
+  },
+  {
+    "start": 8.4,
+    "text": "I'll do a latte."
+  },
+  {
+    "start": 10.96,
+    "text": "Can I get an iced vanilla latte?"
+  },
+  {
+    "start": 17.76,
+    "text": "Can I get an iced vanilla latte?"
+  },
+  {
+    "start": 22.8,
+    "text": "Can I get an iced vanilla latte?"
+  },
+  {
+    "start": 26.48,
+    "text": "Could I please have a small iced vanilla"
+  },
+  {
+    "start": 30.16,
+    "text": "latte?"
+  },
+  {
+    "start": 35.52,
+    "text": "Could I please have a small iced vanilla"
+  },
+  {
+    "start": 37.76,
+    "text": "latte?"
+  },
+  {
+    "start": 41.28,
+    "text": "Could I please have a small iced vanilla"
+  },
+  {
+    "start": 42.96,
+    "text": "latte?"
+  },
+  {
+    "start": 46.0,
+    "text": "Just regular milk is fine."
+  },
+  {
+    "start": 50.48,
+    "text": "Just regular milk is fine."
+  },
+  {
+    "start": 53.84,
+    "text": "Just regular milk is fine."
+  },
+  {
+    "start": 56.96,
+    "text": "I'll have a mocha with soy milk."
+  },
+  {
+    "start": 63.199,
+    "text": "I'll have a mocha with soy milk."
+  },
+  {
+    "start": 67.439,
+    "text": "I'll have a mocha with soy milk."
+  },
+  {
+    "start": 71.04,
+    "text": "What kinds of nondairy milk do you have?"
+  },
+  {
+    "start": 78.64,
+    "text": "What kinds of nondairy milk do you have?"
+  },
+  {
+    "start": 84.159,
+    "text": "What kinds of non-dairy milk do you"
+  },
+  {
+    "start": 85.759,
+    "text": "have?"
+  },
+  {
+    "start": 87.92,
+    "text": "Do you have decaf?"
+  },
+  {
+    "start": 91.84,
+    "text": "Do you have decaf?"
+  },
+  {
+    "start": 94.32,
+    "text": "Do you have decaf?"
+  },
+  {
+    "start": 96.56,
+    "text": "Can I get an extra shot in that?"
+  },
+  {
+    "start": 102.479,
+    "text": "Can I get an extra shot in that?"
+  },
+  {
+    "start": 106.72,
+    "text": "Can I get an extra shot in that?"
+  },
+  {
+    "start": 109.92,
+    "text": "I'll do an iced americano with three"
+  },
+  {
+    "start": 113.28,
+    "text": "shots."
+  },
+  {
+    "start": 117.92,
+    "text": "I'll do an iced americano with three"
+  },
+  {
+    "start": 120.32,
+    "text": "shots."
+  },
+  {
+    "start": 123.68,
+    "text": "I'll do an iced americano with three"
+  },
+  {
+    "start": 125.439,
+    "text": "shots."
+  },
+  {
+    "start": 128.08,
+    "text": "Can I get whipped cream on top?"
+  },
+  {
+    "start": 133.599,
+    "text": "Can I get whipped cream on top?"
+  },
+  {
+    "start": 137.2,
+    "text": "Can I get whipped cream on top?"
+  },
+  {
+    "start": 140.239,
+    "text": "I'll do a matcha latte with two pumps of"
+  },
+  {
+    "start": 144.0,
+    "text": "vanilla."
+  },
+  {
+    "start": 149.12,
+    "text": "I'll do a matcha latte with two pumps of"
+  },
+  {
+    "start": 151.76,
+    "text": "vanilla."
+  },
+  {
+    "start": 155.28,
+    "text": "I'll do a matcha latte with two pumps of"
+  },
+  {
+    "start": 157.2,
+    "text": "vanilla."
+  },
+  {
+    "start": 160.4,
+    "text": "Could you add two pumps of caramel and"
+  },
+  {
+    "start": 164.0,
+    "text": "extra chocolate drizzle to that?"
+  },
+  {
+    "start": 172.319,
+    "text": "Could you add two pumps of caramel and"
+  },
+  {
+    "start": 174.56,
+    "text": "extra chocolate drizzle to that?"
+  },
+  {
+    "start": 179.92,
+    "text": "Could you add two pumps of caramel and"
+  },
+  {
+    "start": 181.599,
+    "text": "extra chocolate drizzle to that?"
+  },
+  {
+    "start": 186.239,
+    "text": "Do you have any sugarfree syrups?"
+  },
+  {
+    "start": 192.72,
+    "text": "Do you have any sugar-free syrups?"
+  },
+  {
+    "start": 197.2,
+    "text": "Do you have any sugar-free syrups?"
+  },
+  {
+    "start": 200.879,
+    "text": "I'll take the tea unsweetened, please."
+  },
+  {
+    "start": 207.44,
+    "text": "I'll take the tea unsweetened, please."
+  },
+  {
+    "start": 211.599,
+    "text": "I'll take the tea unsweetened, please."
+  },
+  {
+    "start": 215.44,
+    "text": "Is there any way you can make the mocha"
+  },
+  {
+    "start": 219.12,
+    "text": "a little less sweet?"
+  },
+  {
+    "start": 226.08,
+    "text": "Is there any way you can make the mocha"
+  },
+  {
+    "start": 228.239,
+    "text": "a little less sweet?"
+  },
+  {
+    "start": 233.04,
+    "text": "Is there any way you can make the mocha"
+  },
+  {
+    "start": 234.64,
+    "text": "a little less sweet?"
+  },
+  {
+    "start": 238.4,
+    "text": "Can you put it in my tumbler?"
+  },
+  {
+    "start": 243.28,
+    "text": "Can you put it in my Tumblr?"
+  },
+  {
+    "start": 246.64,
+    "text": "Can you put it in my Tumblr?"
+  },
+  {
+    "start": 249.36,
+    "text": "Could I get stoppers and a carrier for"
+  },
+  {
+    "start": 252.56,
+    "text": "these?"
+  },
+  {
+    "start": 257.04,
+    "text": "Could I get stoppers in a carrier for"
+  },
+  {
+    "start": 259.199,
+    "text": "these?"
+  },
+  {
+    "start": 262.479,
+    "text": "Could I get stoppers in a carrier for"
+  },
+  {
+    "start": 264.24,
+    "text": "these?"
+  },
+  {
+    "start": 267.04,
+    "text": "Excuse me. Is it possible to get a straw"
+  },
+  {
+    "start": 270.8,
+    "text": "in a sleeve?"
+  },
+  {
+    "start": 277.28,
+    "text": "Excuse me. Is it possible to get a straw"
+  },
+  {
+    "start": 279.759,
+    "text": "in a sleeve?"
+  },
+  {
+    "start": 284.08,
+    "text": "Excuse me. Is it possible to get a straw"
+  },
+  {
+    "start": 286.0,
+    "text": "in a sleeve?"
+  },
+  {
+    "start": 289.6,
+    "text": "Can you cut it in half?"
+  },
+  {
+    "start": 293.52,
+    "text": "Can you cut it in half?"
+  },
+  {
+    "start": 296.479,
+    "text": "Can you cut it in half?"
+  },
+  {
+    "start": 298.96,
+    "text": "Could I get the croissant warmed up?"
+  },
+  {
+    "start": 304.88,
+    "text": "Could I get the croissant warmed up?"
+  },
+  {
+    "start": 308.56,
+    "text": "Could I get the croissant warmed up?"
+  },
+  {
+    "start": 311.84,
+    "text": "I'd like a blueberry bagel with cream"
+  },
+  {
+    "start": 314.96,
+    "text": "cheese on the side."
+  },
+  {
+    "start": 321.52,
+    "text": "I'd like a blueberry bagel with cream"
+  },
+  {
+    "start": 323.84,
+    "text": "cheese on the side."
+  },
+  {
+    "start": 328.24,
+    "text": "I'd like a blueberry bagel with cream"
+  },
+  {
+    "start": 329.919,
+    "text": "cheese on the side."
+  },
+  {
+    "start": 333.199,
+    "text": "Anything else for you today? That's it."
+  },
+  {
+    "start": 336.08,
+    "text": "Thanks."
+  },
+  {
+    "start": 338.4,
+    "text": "That's it. Thanks."
+  },
+  {
+    "start": 341.36,
+    "text": "That's it. Thanks."
+  },
+  {
+    "start": 344.0,
+    "text": "Nope. That'll be it today."
+  },
+  {
+    "start": 349.199,
+    "text": "Nope, that'll be it today."
+  },
+  {
+    "start": 352.56,
+    "text": "Nope, that'll be it today."
+  },
+  {
+    "start": 355.44,
+    "text": "Actually, could I add a banana muffin to"
+  },
+  {
+    "start": 359.44,
+    "text": "my order?"
+  },
+  {
+    "start": 365.52,
+    "text": "Actually, could I add a banana muffin to"
+  },
+  {
+    "start": 368.08,
+    "text": "my order?"
+  },
+  {
+    "start": 372.16,
+    "text": "Actually, could I add a banana muffin to"
+  },
+  {
+    "start": 374.08,
+    "text": "my order?"
+  },
+  {
+    "start": 376.96,
+    "text": "For here to go for here, please."
+  },
+  {
+    "start": 381.84,
+    "text": "For here, please."
+  },
+  {
+    "start": 384.24,
+    "text": "for here, please. I'll take it to go."
+  },
+  {
+    "start": 390.0,
+    "text": "I'll take it to go. I'll take it to go."
+  },
+  {
+    "start": 394.479,
+    "text": "Can I get the rest of this to go?"
+  },
+  {
+    "start": 400.96,
+    "text": "Can I get the rest of this to go?"
+  },
+  {
+    "start": 405.039,
+    "text": "Can I get the rest of this to go?"
+  },
+  {
+    "start": 408.479,
+    "text": "No receipt. Thanks."
+  },
+  {
+    "start": 413.919,
+    "text": "No receipt. Thanks."
+  },
+  {
+    "start": 417.68,
+    "text": "No receipt. Thanks."
+  },
+  {
+    "start": 420.319,
+    "text": "I have a gift card."
+  },
+  {
+    "start": 424.319,
+    "text": "I have a gift card."
+  },
+  {
+    "start": 426.72,
+    "text": "I have a gift card."
+  },
+  {
+    "start": 429.039,
+    "text": "Do you take cash or is it card only?"
+  },
+  {
+    "start": 438.0,
+    "text": "Do you take cash or is it card only?"
+  },
+  {
+    "start": 443.759,
+    "text": "Do you take cash or is it card only?"
+  }
+]
