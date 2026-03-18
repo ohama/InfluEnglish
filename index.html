@@ -19,9 +19,15 @@
   tr:hover { background: #fafafa; }
   .video-cell { display: flex; align-items: center; gap: 12px; }
   .video-cell img { width: 120px; border-radius: 4px; flex-shrink: 0; }
+  .video-info { display: flex; flex-direction: column; gap: 6px; }
   .video-title { color: #333; text-decoration: none; font-weight: 500; }
   .video-title:hover { color: #e74c3c; text-decoration: underline; }
-  .script-link { font-size: 0.8em; margin-left: 8px; }
+  .video-links { display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75em; font-weight: 600; text-decoration: none; }
+  .badge:hover { opacity: 0.8; text-decoration: none; }
+  .badge.yt { background: #ff0000; color: #fff; }
+  .badge.detail { background: #3498db; color: #fff; }
+  .badge.script { background: #2ecc71; color: #fff; cursor: default; }
   td:first-child, th:first-child { text-align: center; width: 40px; }
   td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(6) { white-space: nowrap; text-align: center; }
   th:nth-child(3), th:nth-child(4), th:nth-child(5), th:nth-child(6) { text-align: center; }
@@ -34,7 +40,7 @@
 <body>
 <div class="container">
   <h1>Influenglish YouTube Videos</h1>
-  <p class="meta">147개 영상 (23개 스크립트) | 업데이트: 2026-03-18 13:36</p>
+  <p class="meta">147개 영상 (23개 스크립트) | 업데이트: 2026-03-18 13:42</p>
   <table>
     <thead>
       <tr><th>#</th><th>제목</th><th>업로드일</th><th>길이</th><th>조회수</th></tr>
@@ -47,10 +53,14 @@
           <a href="https://www.youtube.com/watch?v=xRg5KMfDp7c" target="_blank">
             <img src="https://img.youtube.com/vi/xRg5KMfDp7c/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/xRg5KMfDp7c.html" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 미국인의 찜질방 탐방 브이로그 ♨️</a>
-            <a href="pages/xRg5KMfDp7c.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=xRg5KMfDp7c" target="_blank" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 미국인의 찜질방 탐방 브이로그 ♨️</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=xRg5KMfDp7c" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/xRg5KMfDp7c.html" class="badge detail">상세</a>
+              <a href="pages/xRg5KMfDp7c.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-03-15</td>
@@ -64,10 +74,14 @@
           <a href="https://www.youtube.com/watch?v=5PWV2x03hWI" target="_blank">
             <img src="https://img.youtube.com/vi/5PWV2x03hWI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/5PWV2x03hWI.html" class="video-title">미국 직장인이 매일쓰는 회사 필수 영어표현! 영어 이메일, 회의가 너무 쉬워져요! | 비즈니스 영어 필수 패턴 모음</a>
-            <a href="pages/5PWV2x03hWI.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=5PWV2x03hWI" target="_blank" class="video-title">미국 직장인이 매일쓰는 회사 필수 영어표현! 영어 이메일, 회의가 너무 쉬워져요! | 비즈니스 영어 필수 패턴 모음</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=5PWV2x03hWI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/5PWV2x03hWI.html" class="badge detail">상세</a>
+              <a href="pages/5PWV2x03hWI.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-03-08</td>
@@ -81,10 +95,14 @@
           <a href="https://www.youtube.com/watch?v=oMvROjeGDEA" target="_blank">
             <img src="https://img.youtube.com/vi/oMvROjeGDEA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/oMvROjeGDEA.html" class="video-title">해외여행 영어 회화 이 영상 하나로 끝내세요! | 푸꾸옥 역대급 뉴월드 풀빌라 리조트 (스타벅스 주문 영어, 여행 필수 영어표현)</a>
-            <a href="pages/oMvROjeGDEA.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=oMvROjeGDEA" target="_blank" class="video-title">해외여행 영어 회화 이 영상 하나로 끝내세요! | 푸꾸옥 역대급 뉴월드 풀빌라 리조트 (스타벅스 주문 영어, 여행 필수 영어표현)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=oMvROjeGDEA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/oMvROjeGDEA.html" class="badge detail">상세</a>
+              <a href="pages/oMvROjeGDEA.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-03-02</td>
@@ -98,10 +116,14 @@
           <a href="https://www.youtube.com/watch?v=LlDev_XadU4" target="_blank">
             <img src="https://img.youtube.com/vi/LlDev_XadU4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/LlDev_XadU4.html" class="video-title">충격적인 베트남 물가 🇻🇳 미국인이 밥먹듯이 쓰는 여행영어(주문/계산/흥정) | 영어 잘 못해도 원어민처럼 말할 수 있어요! 듣기만 하면 영어가 술술!</a>
-            <a href="pages/LlDev_XadU4.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=LlDev_XadU4" target="_blank" class="video-title">충격적인 베트남 물가 🇻🇳 미국인이 밥먹듯이 쓰는 여행영어(주문/계산/흥정) | 영어 잘 못해도 원어민처럼 말할 수 있어요! 듣기만 하면 영어가 술술!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=LlDev_XadU4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/LlDev_XadU4.html" class="badge detail">상세</a>
+              <a href="pages/LlDev_XadU4.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-02-22</td>
@@ -115,10 +137,14 @@
           <a href="https://www.youtube.com/watch?v=h9zUyJG-YHs" target="_blank">
             <img src="https://img.youtube.com/vi/h9zUyJG-YHs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/h9zUyJG-YHs.html" class="video-title">영어 왕초보도 미친 속도로 느는 스피킹 공부법! 무료학습자료 드려요🎁 미국에서 바로 통하는 영어회화 공부법!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=h9zUyJG-YHs" target="_blank" class="video-title">영어 왕초보도 미친 속도로 느는 스피킹 공부법! 무료학습자료 드려요🎁 미국에서 바로 통하는 영어회화 공부법!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=h9zUyJG-YHs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/h9zUyJG-YHs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-02-18</td>
@@ -132,10 +158,14 @@
           <a href="https://www.youtube.com/watch?v=WfViFxbsLBc" target="_blank">
             <img src="https://img.youtube.com/vi/WfViFxbsLBc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/WfViFxbsLBc.html" class="video-title">썸 탈때 쓰는 데이트 영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            <a href="pages/WfViFxbsLBc.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=WfViFxbsLBc" target="_blank" class="video-title">썸 탈때 쓰는 데이트 영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=WfViFxbsLBc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/WfViFxbsLBc.html" class="badge detail">상세</a>
+              <a href="pages/WfViFxbsLBc.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-02-15</td>
@@ -149,10 +179,14 @@
           <a href="https://www.youtube.com/watch?v=5fALPO_ufdk" target="_blank">
             <img src="https://img.youtube.com/vi/5fALPO_ufdk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/5fALPO_ufdk.html" class="video-title">7분 만에 끝내는 미국 카페 영어! 미국인이 가장 많이 쓰는 실전 영어표현 | 도움 많이 된다~!</a>
-            <a href="pages/5fALPO_ufdk.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=5fALPO_ufdk" target="_blank" class="video-title">7분 만에 끝내는 미국 카페 영어! 미국인이 가장 많이 쓰는 실전 영어표현 | 도움 많이 된다~!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=5fALPO_ufdk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/5fALPO_ufdk.html" class="badge detail">상세</a>
+              <a href="pages/5fALPO_ufdk.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-02-01</td>
@@ -166,10 +200,14 @@
           <a href="https://www.youtube.com/watch?v=UN6GZ4e3AY4" target="_blank">
             <img src="https://img.youtube.com/vi/UN6GZ4e3AY4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/UN6GZ4e3AY4.html" class="video-title">이것만 죽어라 외우세요! 반복하면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
-            <a href="pages/UN6GZ4e3AY4.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=UN6GZ4e3AY4" target="_blank" class="video-title">이것만 죽어라 외우세요! 반복하면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=UN6GZ4e3AY4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/UN6GZ4e3AY4.html" class="badge detail">상세</a>
+              <a href="pages/UN6GZ4e3AY4.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-01-25</td>
@@ -183,10 +221,14 @@
           <a href="https://www.youtube.com/watch?v=CmVfFZ9r1Pk" target="_blank">
             <img src="https://img.youtube.com/vi/CmVfFZ9r1Pk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/CmVfFZ9r1Pk.html" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 미국인의 이케아 탐방 브이로그 🏠</a>
-            <a href="pages/CmVfFZ9r1Pk.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=CmVfFZ9r1Pk" target="_blank" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 미국인의 이케아 탐방 브이로그 🏠</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=CmVfFZ9r1Pk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/CmVfFZ9r1Pk.html" class="badge detail">상세</a>
+              <a href="pages/CmVfFZ9r1Pk.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-01-18</td>
@@ -200,10 +242,14 @@
           <a href="https://www.youtube.com/watch?v=KXc_bp8R0YA" target="_blank">
             <img src="https://img.youtube.com/vi/KXc_bp8R0YA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/KXc_bp8R0YA.html" class="video-title">원어민이 쓰는 영어문장 100개 | 영어가 한국어처럼 들려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=KXc_bp8R0YA" target="_blank" class="video-title">원어민이 쓰는 영어문장 100개 | 영어가 한국어처럼 들려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=KXc_bp8R0YA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/KXc_bp8R0YA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2026-01-11</td>
@@ -217,10 +263,14 @@
           <a href="https://www.youtube.com/watch?v=QaK_GKJLKb8" target="_blank">
             <img src="https://img.youtube.com/vi/QaK_GKJLKb8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/QaK_GKJLKb8.html" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 영어가 술술 나옵니다!</a>
-            <a href="pages/QaK_GKJLKb8.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=QaK_GKJLKb8" target="_blank" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 영어가 술술 나옵니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=QaK_GKJLKb8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/QaK_GKJLKb8.html" class="badge detail">상세</a>
+              <a href="pages/QaK_GKJLKb8.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-28</td>
@@ -234,10 +284,14 @@
           <a href="https://www.youtube.com/watch?v=6pBkxgMqUFQ" target="_blank">
             <img src="https://img.youtube.com/vi/6pBkxgMqUFQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/6pBkxgMqUFQ.html" class="video-title">제가 딱 정해드릴게요. 이렇게 두 달만 해보세요 정말</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=6pBkxgMqUFQ" target="_blank" class="video-title">제가 딱 정해드릴게요. 이렇게 두 달만 해보세요 정말</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=6pBkxgMqUFQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/6pBkxgMqUFQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-24</td>
@@ -251,10 +305,14 @@
           <a href="https://www.youtube.com/watch?v=Vvqrb-SGrQk" target="_blank">
             <img src="https://img.youtube.com/vi/Vvqrb-SGrQk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Vvqrb-SGrQk.html" class="video-title">[미국인 Vlog] 비싼 수업 받아도 안 알려줘요. 영어 회화가 어렵다면 이 영상 10번만 보세요! | 크리스마스편</a>
-            <a href="pages/Vvqrb-SGrQk.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Vvqrb-SGrQk" target="_blank" class="video-title">[미국인 Vlog] 비싼 수업 받아도 안 알려줘요. 영어 회화가 어렵다면 이 영상 10번만 보세요! | 크리스마스편</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Vvqrb-SGrQk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Vvqrb-SGrQk.html" class="badge detail">상세</a>
+              <a href="pages/Vvqrb-SGrQk.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-21</td>
@@ -268,10 +326,14 @@
           <a href="https://www.youtube.com/watch?v=HGLbGms9_iY" target="_blank">
             <img src="https://img.youtube.com/vi/HGLbGms9_iY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/HGLbGms9_iY.html" class="video-title">매일 이것만 하세요! 10분만에 챗GPT로 역대급 과외선생님 만들기(무료 프롬프트 선물!🎁)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=HGLbGms9_iY" target="_blank" class="video-title">매일 이것만 하세요! 10분만에 챗GPT로 역대급 과외선생님 만들기(무료 프롬프트 선물!🎁)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=HGLbGms9_iY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/HGLbGms9_iY.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-18</td>
@@ -285,10 +347,14 @@
           <a href="https://www.youtube.com/watch?v=r-m4J3n_po8" target="_blank">
             <img src="https://img.youtube.com/vi/r-m4J3n_po8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/r-m4J3n_po8.html" class="video-title">[미국인 Vlog]비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요! | 부산 불꽃축제 편</a>
-            <a href="pages/r-m4J3n_po8.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=r-m4J3n_po8" target="_blank" class="video-title">[미국인 Vlog]비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요! | 부산 불꽃축제 편</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=r-m4J3n_po8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/r-m4J3n_po8.html" class="badge detail">상세</a>
+              <a href="pages/r-m4J3n_po8.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-14</td>
@@ -302,10 +368,14 @@
           <a href="https://www.youtube.com/watch?v=g5cz8s1akfY" target="_blank">
             <img src="https://img.youtube.com/vi/g5cz8s1akfY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/g5cz8s1akfY.html" class="video-title">원어민도 놀라게 한 영어 공부법! 영어에 미쳤더니 인생이 바뀌었어요!</a>
-            <a href="pages/g5cz8s1akfY.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=g5cz8s1akfY" target="_blank" class="video-title">원어민도 놀라게 한 영어 공부법! 영어에 미쳤더니 인생이 바뀌었어요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=g5cz8s1akfY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/g5cz8s1akfY.html" class="badge detail">상세</a>
+              <a href="pages/g5cz8s1akfY.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-13</td>
@@ -319,10 +389,14 @@
           <a href="https://www.youtube.com/watch?v=dYShUdBXA8Q" target="_blank">
             <img src="https://img.youtube.com/vi/dYShUdBXA8Q/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/dYShUdBXA8Q.html" class="video-title">99%가 모르는 영어 회화 비법, 이대로만 따라하세요. 비싼 해외유학 안가도 영어가 유창해집니다(🎁책출간 기념 이벤트!)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=dYShUdBXA8Q" target="_blank" class="video-title">99%가 모르는 영어 회화 비법, 이대로만 따라하세요. 비싼 해외유학 안가도 영어가 유창해집니다(🎁책출간 기념 이벤트!)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=dYShUdBXA8Q" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/dYShUdBXA8Q.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-09</td>
@@ -336,10 +410,14 @@
           <a href="https://www.youtube.com/watch?v=W_IzxOyPrS4" target="_blank">
             <img src="https://img.youtube.com/vi/W_IzxOyPrS4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/W_IzxOyPrS4.html" class="video-title">미국인들이 밥 먹듯이 쓰는 마법의 패턴 10개, 딱 이것만 외우세요! | 저녁에 쓰는 필수 영어표현 | 이것만 달달 외워도 왕초보 탈출합니다!</a>
-            <a href="pages/W_IzxOyPrS4.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=W_IzxOyPrS4" target="_blank" class="video-title">미국인들이 밥 먹듯이 쓰는 마법의 패턴 10개, 딱 이것만 외우세요! | 저녁에 쓰는 필수 영어표현 | 이것만 달달 외워도 왕초보 탈출합니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=W_IzxOyPrS4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/W_IzxOyPrS4.html" class="badge detail">상세</a>
+              <a href="pages/W_IzxOyPrS4.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-12-07</td>
@@ -353,10 +431,14 @@
           <a href="https://www.youtube.com/watch?v=K2lb2g9Ul90" target="_blank">
             <img src="https://img.youtube.com/vi/K2lb2g9Ul90/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/K2lb2g9Ul90.html" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인의 등산 브이로그 | 영어회화가 어렵다면 딱 10번만 보세요!</a>
-            <a href="pages/K2lb2g9Ul90.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=K2lb2g9Ul90" target="_blank" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인의 등산 브이로그 | 영어회화가 어렵다면 딱 10번만 보세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=K2lb2g9Ul90" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/K2lb2g9Ul90.html" class="badge detail">상세</a>
+              <a href="pages/K2lb2g9Ul90.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-30</td>
@@ -370,10 +452,14 @@
           <a href="https://www.youtube.com/watch?v=FSrOb9BdpHo" target="_blank">
             <img src="https://img.youtube.com/vi/FSrOb9BdpHo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/FSrOb9BdpHo.html" class="video-title">미드 백날 들어도 영어 리스닝 안늘어요! 이 3가지 방법이면 영어 고민 끝!</a>
-            <a href="pages/FSrOb9BdpHo.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=FSrOb9BdpHo" target="_blank" class="video-title">미드 백날 들어도 영어 리스닝 안늘어요! 이 3가지 방법이면 영어 고민 끝!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=FSrOb9BdpHo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/FSrOb9BdpHo.html" class="badge detail">상세</a>
+              <a href="pages/FSrOb9BdpHo.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-29</td>
@@ -387,10 +473,14 @@
           <a href="https://www.youtube.com/watch?v=QJlqPoUbhAM" target="_blank">
             <img src="https://img.youtube.com/vi/QJlqPoUbhAM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/QJlqPoUbhAM.html" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 미국 정부 폐쇄 진짜 이유 🇺🇸</a>
-            <a href="pages/QJlqPoUbhAM.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=QJlqPoUbhAM" target="_blank" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 미국 정부 폐쇄 진짜 이유 🇺🇸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=QJlqPoUbhAM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/QJlqPoUbhAM.html" class="badge detail">상세</a>
+              <a href="pages/QJlqPoUbhAM.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-18</td>
@@ -404,10 +494,14 @@
           <a href="https://www.youtube.com/watch?v=YrB250Mm32o" target="_blank">
             <img src="https://img.youtube.com/vi/YrB250Mm32o/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/YrB250Mm32o.html" class="video-title">원어민이 밥 먹듯이 쓰는 영어 그대로 배우세요! 이것만 죽어라 따라하면 됩니다!</a>
-            <a href="pages/YrB250Mm32o.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=YrB250Mm32o" target="_blank" class="video-title">원어민이 밥 먹듯이 쓰는 영어 그대로 배우세요! 이것만 죽어라 따라하면 됩니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=YrB250Mm32o" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/YrB250Mm32o.html" class="badge detail">상세</a>
+              <a href="pages/YrB250Mm32o.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-16</td>
@@ -421,10 +515,14 @@
           <a href="https://www.youtube.com/watch?v=Yp6Cm-w-Mlo" target="_blank">
             <img src="https://img.youtube.com/vi/Yp6Cm-w-Mlo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Yp6Cm-w-Mlo.html" class="video-title">원어민도 놀라게 한 영어 공부법! 영어에 미쳤더니 인생이 바뀌었어요!</a>
-            <a href="pages/Yp6Cm-w-Mlo.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Yp6Cm-w-Mlo" target="_blank" class="video-title">원어민도 놀라게 한 영어 공부법! 영어에 미쳤더니 인생이 바뀌었어요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Yp6Cm-w-Mlo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Yp6Cm-w-Mlo.html" class="badge detail">상세</a>
+              <a href="pages/Yp6Cm-w-Mlo.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-12</td>
@@ -438,10 +536,14 @@
           <a href="https://www.youtube.com/watch?v=Mv66mTPQbMc" target="_blank">
             <img src="https://img.youtube.com/vi/Mv66mTPQbMc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Mv66mTPQbMc.html" class="video-title">실제 미국 엄마가 아기에게 말하는 영어표현! 우리 아이 귀가 트이는 영어[미국 할로윈편]</a>
-            <a href="pages/Mv66mTPQbMc.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Mv66mTPQbMc" target="_blank" class="video-title">실제 미국 엄마가 아기에게 말하는 영어표현! 우리 아이 귀가 트이는 영어[미국 할로윈편]</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Mv66mTPQbMc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Mv66mTPQbMc.html" class="badge detail">상세</a>
+              <a href="pages/Mv66mTPQbMc.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-11</td>
@@ -455,10 +557,14 @@
           <a href="https://www.youtube.com/watch?v=Y_AYhbf1yhE" target="_blank">
             <img src="https://img.youtube.com/vi/Y_AYhbf1yhE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Y_AYhbf1yhE.html" class="video-title">미국인이 연애할 때 쓰는 영어표현 ❤️ 환승연애로 영어 배우세요!</a>
-            <a href="pages/Y_AYhbf1yhE.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Y_AYhbf1yhE" target="_blank" class="video-title">미국인이 연애할 때 쓰는 영어표현 ❤️ 환승연애로 영어 배우세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Y_AYhbf1yhE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Y_AYhbf1yhE.html" class="badge detail">상세</a>
+              <a href="pages/Y_AYhbf1yhE.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-10</td>
@@ -472,10 +578,14 @@
           <a href="https://www.youtube.com/watch?v=b2XwfGUFQUM" target="_blank">
             <img src="https://img.youtube.com/vi/b2XwfGUFQUM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/b2XwfGUFQUM.html" class="video-title">이것만 달달 외워도 영어 초보 무조건 탈출! 미국인의 다이소 쇼핑 영어회화| 반복해서 들으면 영어가 입에서 술술 나와요!</a>
-            <a href="pages/b2XwfGUFQUM.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=b2XwfGUFQUM" target="_blank" class="video-title">이것만 달달 외워도 영어 초보 무조건 탈출! 미국인의 다이소 쇼핑 영어회화| 반복해서 들으면 영어가 입에서 술술 나와요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=b2XwfGUFQUM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/b2XwfGUFQUM.html" class="badge detail">상세</a>
+              <a href="pages/b2XwfGUFQUM.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-09</td>
@@ -489,10 +599,14 @@
           <a href="https://www.youtube.com/watch?v=-0YznWNDIc8" target="_blank">
             <img src="https://img.youtube.com/vi/-0YznWNDIc8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/-0YznWNDIc8.html" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 역대 최악으로 공부 못한다는 요즘 미국 고등학생들</a>
-            <a href="pages/-0YznWNDIc8.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=-0YznWNDIc8" target="_blank" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 역대 최악으로 공부 못한다는 요즘 미국 고등학생들</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=-0YznWNDIc8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/-0YznWNDIc8.html" class="badge detail">상세</a>
+              <a href="pages/-0YznWNDIc8.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-04</td>
@@ -506,10 +620,14 @@
           <a href="https://www.youtube.com/watch?v=Zxzjo_ocDwA" target="_blank">
             <img src="https://img.youtube.com/vi/Zxzjo_ocDwA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Zxzjo_ocDwA.html" class="video-title">비싼 수업 들어도 이런 건 안 알려줘요! 진짜 무서운 부산 롯데월드 할로윈 좀비 | 미드보다 효과적인 원어민 브이로그</a>
-            <a href="pages/Zxzjo_ocDwA.html" class="script-link">[Script]</a>
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Zxzjo_ocDwA" target="_blank" class="video-title">비싼 수업 들어도 이런 건 안 알려줘요! 진짜 무서운 부산 롯데월드 할로윈 좀비 | 미드보다 효과적인 원어민 브이로그</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Zxzjo_ocDwA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Zxzjo_ocDwA.html" class="badge detail">상세</a>
+              <a href="pages/Zxzjo_ocDwA.html#script" class="badge script">Script</a>
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-11-03</td>
@@ -523,10 +641,14 @@
           <a href="https://www.youtube.com/watch?v=JAcliCm2NVg" target="_blank">
             <img src="https://img.youtube.com/vi/JAcliCm2NVg/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/JAcliCm2NVg.html" class="video-title">실제 미국엄마가 아기에게 말하는 영어표현 | 미국 가정집의 하루일상 영어회화 | 영어초보도 쉽게 따라할 수 있어요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=JAcliCm2NVg" target="_blank" class="video-title">실제 미국엄마가 아기에게 말하는 영어표현 | 미국 가정집의 하루일상 영어회화 | 영어초보도 쉽게 따라할 수 있어요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=JAcliCm2NVg" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/JAcliCm2NVg.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-29</td>
@@ -540,10 +662,14 @@
           <a href="https://www.youtube.com/watch?v=qrCVO7-ptz4" target="_blank">
             <img src="https://img.youtube.com/vi/qrCVO7-ptz4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/qrCVO7-ptz4.html" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 🇺🇸 해외 여행에서 영어가 술술 나옵니다! 부산 여행 꼭 가야 할 곳</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=qrCVO7-ptz4" target="_blank" class="video-title">영어가 어려우면 이것만 달달 외우세요!! 🇺🇸 해외 여행에서 영어가 술술 나옵니다! 부산 여행 꼭 가야 할 곳</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=qrCVO7-ptz4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/qrCVO7-ptz4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-26</td>
@@ -557,10 +683,14 @@
           <a href="https://www.youtube.com/watch?v=_8ybSv6_yXk" target="_blank">
             <img src="https://img.youtube.com/vi/_8ybSv6_yXk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/_8ybSv6_yXk.html" class="video-title">비싼 수업 들어도 안 알려줘요! 한국인들이 영어를 못하는 이유 | 매일 딱 10분으로 원어민처럼 말하는 방법</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=_8ybSv6_yXk" target="_blank" class="video-title">비싼 수업 들어도 안 알려줘요! 한국인들이 영어를 못하는 이유 | 매일 딱 10분으로 원어민처럼 말하는 방법</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=_8ybSv6_yXk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/_8ybSv6_yXk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-21</td>
@@ -574,10 +704,14 @@
           <a href="https://www.youtube.com/watch?v=YNkcUFTstgM" target="_blank">
             <img src="https://img.youtube.com/vi/YNkcUFTstgM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/YNkcUFTstgM.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 영어공부용 무료 사이트, 공부 노하우 공유드려요! | 미드보다 효과적인 브이로그 영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=YNkcUFTstgM" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 영어공부용 무료 사이트, 공부 노하우 공유드려요! | 미드보다 효과적인 브이로그 영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=YNkcUFTstgM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/YNkcUFTstgM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-19</td>
@@ -591,10 +725,14 @@
           <a href="https://www.youtube.com/watch?v=1JfvQxBIilg" target="_blank">
             <img src="https://img.youtube.com/vi/1JfvQxBIilg/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/1JfvQxBIilg.html" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=1JfvQxBIilg" target="_blank" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=1JfvQxBIilg" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/1JfvQxBIilg.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-13</td>
@@ -608,10 +746,14 @@
           <a href="https://www.youtube.com/watch?v=Qi0okYnSY-4" target="_blank">
             <img src="https://img.youtube.com/vi/Qi0okYnSY-4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Qi0okYnSY-4.html" class="video-title">원어민들이 밥먹듯이 쓰는 매직패턴 10개, 이것만 죽어라 외우세요! | 초/중/고급 영어문장 30개 원어민 실제속도 쉐도잉 | 이것만 달달 외워도 왕초보 탈출합니다!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Qi0okYnSY-4" target="_blank" class="video-title">원어민들이 밥먹듯이 쓰는 매직패턴 10개, 이것만 죽어라 외우세요! | 초/중/고급 영어문장 30개 원어민 실제속도 쉐도잉 | 이것만 달달 외워도 왕초보 탈출합니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Qi0okYnSY-4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Qi0okYnSY-4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-12</td>
@@ -625,10 +767,14 @@
           <a href="https://www.youtube.com/watch?v=jVd0mnPDO-4" target="_blank">
             <img src="https://img.youtube.com/vi/jVd0mnPDO-4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/jVd0mnPDO-4.html" class="video-title">한국에 온 외국인이 깜짝 놀란 추석 문화 |12년차 국제커플의 자연스러운 영어회화 | 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=jVd0mnPDO-4" target="_blank" class="video-title">한국에 온 외국인이 깜짝 놀란 추석 문화 |12년차 국제커플의 자연스러운 영어회화 | 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=jVd0mnPDO-4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/jVd0mnPDO-4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-09</td>
@@ -642,10 +788,14 @@
           <a href="https://www.youtube.com/watch?v=bkqMcfO4s2s" target="_blank">
             <img src="https://img.youtube.com/vi/bkqMcfO4s2s/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/bkqMcfO4s2s.html" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요! [추석 특집 완전판]</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=bkqMcfO4s2s" target="_blank" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요! [추석 특집 완전판]</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=bkqMcfO4s2s" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/bkqMcfO4s2s.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-06</td>
@@ -659,10 +809,14 @@
           <a href="https://www.youtube.com/watch?v=KYUc7t8G81I" target="_blank">
             <img src="https://img.youtube.com/vi/KYUc7t8G81I/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/KYUc7t8G81I.html" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 미국인이 밥 먹듯이 쓰는 영어표현 | 미드보다 10배 효과적인 브이로그 영어 | 입에서 영어가 술술 나와요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=KYUc7t8G81I" target="_blank" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 미국인이 밥 먹듯이 쓰는 영어표현 | 미드보다 10배 효과적인 브이로그 영어 | 입에서 영어가 술술 나와요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=KYUc7t8G81I" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/KYUc7t8G81I.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-05</td>
@@ -676,10 +830,14 @@
           <a href="https://www.youtube.com/watch?v=4ILn_3jpxwM" target="_blank">
             <img src="https://img.youtube.com/vi/4ILn_3jpxwM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/4ILn_3jpxwM.html" class="video-title">미국 아이들이 밥먹듯이 쓰는 쉬운 영어 | 미국이 ‘케이팝 데몬 헌터스’에 열광하는 이유 | BTS, 블랙핑크도 안다고??</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=4ILn_3jpxwM" target="_blank" class="video-title">미국 아이들이 밥먹듯이 쓰는 쉬운 영어 | 미국이 ‘케이팝 데몬 헌터스’에 열광하는 이유 | BTS, 블랙핑크도 안다고??</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=4ILn_3jpxwM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/4ILn_3jpxwM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-10-03</td>
@@ -693,10 +851,14 @@
           <a href="https://www.youtube.com/watch?v=ygcThChYt_w" target="_blank">
             <img src="https://img.youtube.com/vi/ygcThChYt_w/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/ygcThChYt_w.html" class="video-title">이것만 달달 외워도 영어초보 탈출! | 초보자도 영어를 길게 말할 수 있어요! 말하는 영어 일기(부산 일상, 홍대 쇼핑, 맛집, 이상준 메기스터기 출연!)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=ygcThChYt_w" target="_blank" class="video-title">이것만 달달 외워도 영어초보 탈출! | 초보자도 영어를 길게 말할 수 있어요! 말하는 영어 일기(부산 일상, 홍대 쇼핑, 맛집, 이상준 메기스터기 출연!)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=ygcThChYt_w" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/ygcThChYt_w.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-29</td>
@@ -710,10 +872,14 @@
           <a href="https://www.youtube.com/watch?v=Uy764USY5Fk" target="_blank">
             <img src="https://img.youtube.com/vi/Uy764USY5Fk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Uy764USY5Fk.html" class="video-title">비싼 수업들어도 안 알려주는 진짜 원어민 영어! 미국인 친구가 깜짝 놀라요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Uy764USY5Fk" target="_blank" class="video-title">비싼 수업들어도 안 알려주는 진짜 원어민 영어! 미국인 친구가 깜짝 놀라요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Uy764USY5Fk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Uy764USY5Fk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-25</td>
@@ -727,10 +893,14 @@
           <a href="https://www.youtube.com/watch?v=vQQ3EGzD7GA" target="_blank">
             <img src="https://img.youtube.com/vi/vQQ3EGzD7GA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/vQQ3EGzD7GA.html" class="video-title">실제 미국 엄마가 아이에게 매일쓰는 일상 영어표현 | 영어 유치원 대신 엄마 영어로 공부하세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=vQQ3EGzD7GA" target="_blank" class="video-title">실제 미국 엄마가 아이에게 매일쓰는 일상 영어표현 | 영어 유치원 대신 엄마 영어로 공부하세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=vQQ3EGzD7GA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/vQQ3EGzD7GA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-23</td>
@@ -744,10 +914,14 @@
           <a href="https://www.youtube.com/watch?v=e0ugSxP4beE" target="_blank">
             <img src="https://img.youtube.com/vi/e0ugSxP4beE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/e0ugSxP4beE.html" class="video-title">하루종일 영어로 말하게 됩니다! 켈리쌤 생일 브이로그(모닝루틴, 식당, 쇼핑 영어표현)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=e0ugSxP4beE" target="_blank" class="video-title">하루종일 영어로 말하게 됩니다! 켈리쌤 생일 브이로그(모닝루틴, 식당, 쇼핑 영어표현)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=e0ugSxP4beE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/e0ugSxP4beE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-22</td>
@@ -761,10 +935,14 @@
           <a href="https://www.youtube.com/watch?v=3bQ9NE31H5Q" target="_blank">
             <img src="https://img.youtube.com/vi/3bQ9NE31H5Q/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/3bQ9NE31H5Q.html" class="video-title">가장 빠르게 영어 귀 뚫는 방법! CNN 뉴스 들리게 해드려요!  미국에 소포 못보내는 이유 🇺🇸💸</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=3bQ9NE31H5Q" target="_blank" class="video-title">가장 빠르게 영어 귀 뚫는 방법! CNN 뉴스 들리게 해드려요!  미국에 소포 못보내는 이유 🇺🇸💸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=3bQ9NE31H5Q" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/3bQ9NE31H5Q.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-18</td>
@@ -778,10 +956,14 @@
           <a href="https://www.youtube.com/watch?v=VxeHfel7hgw" target="_blank">
             <img src="https://img.youtube.com/vi/VxeHfel7hgw/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/VxeHfel7hgw.html" class="video-title">이것만 달달 외워도 무조건 영어 초보 탈출! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=VxeHfel7hgw" target="_blank" class="video-title">이것만 달달 외워도 무조건 영어 초보 탈출! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 3만명 받아간 학습자료 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=VxeHfel7hgw" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/VxeHfel7hgw.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-14</td>
@@ -795,10 +977,14 @@
           <a href="https://www.youtube.com/watch?v=yeFmYEso4iM" target="_blank">
             <img src="https://img.youtube.com/vi/yeFmYEso4iM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/yeFmYEso4iM.html" class="video-title">미국 현대공장 체포현장(+트럼프 인터뷰) 미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=yeFmYEso4iM" target="_blank" class="video-title">미국 현대공장 체포현장(+트럼프 인터뷰) 미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=yeFmYEso4iM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/yeFmYEso4iM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-09</td>
@@ -812,10 +998,14 @@
           <a href="https://www.youtube.com/watch?v=EzYzMssOkG8" target="_blank">
             <img src="https://img.youtube.com/vi/EzYzMssOkG8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/EzYzMssOkG8.html" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인의 저녁일상 영어회화 | 영어말하기 어렵다면 딱 10번만 보세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=EzYzMssOkG8" target="_blank" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인의 저녁일상 영어회화 | 영어말하기 어렵다면 딱 10번만 보세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=EzYzMssOkG8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/EzYzMssOkG8.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-07</td>
@@ -829,10 +1019,14 @@
           <a href="https://www.youtube.com/watch?v=M_BxpOqtYQs" target="_blank">
             <img src="https://img.youtube.com/vi/M_BxpOqtYQs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/M_BxpOqtYQs.html" class="video-title">미국에서 와장창 깨지고 알게 된 영어 잘하는 법! 어학연수 안가도 영어가 유창해집니다(무료 학습자료 드려요!🎁)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=M_BxpOqtYQs" target="_blank" class="video-title">미국에서 와장창 깨지고 알게 된 영어 잘하는 법! 어학연수 안가도 영어가 유창해집니다(무료 학습자료 드려요!🎁)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=M_BxpOqtYQs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/M_BxpOqtYQs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-09-02</td>
@@ -846,10 +1040,14 @@
           <a href="https://www.youtube.com/watch?v=NdeVyuAkGt8" target="_blank">
             <img src="https://img.youtube.com/vi/NdeVyuAkGt8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/NdeVyuAkGt8.html" class="video-title">비싼 어학연수 가도 안 알려줘요. 미국인이 매일쓰는 회사 필수 영어표현! 영어 이메일, 회의가 너무 쉬워져요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=NdeVyuAkGt8" target="_blank" class="video-title">비싼 어학연수 가도 안 알려줘요. 미국인이 매일쓰는 회사 필수 영어표현! 영어 이메일, 회의가 너무 쉬워져요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=NdeVyuAkGt8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/NdeVyuAkGt8.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-31</td>
@@ -863,10 +1061,14 @@
           <a href="https://www.youtube.com/watch?v=ClTjZh6tzdA" target="_blank">
             <img src="https://img.youtube.com/vi/ClTjZh6tzdA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/ClTjZh6tzdA.html" class="video-title">한국인들이 자주 쓰는 영어이름 미국인 반응?! 영어이름 달면 피드백 드려요! (🎁미국에서 유행하는 영어이름 추천 20개!!)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=ClTjZh6tzdA" target="_blank" class="video-title">한국인들이 자주 쓰는 영어이름 미국인 반응?! 영어이름 달면 피드백 드려요! (🎁미국에서 유행하는 영어이름 추천 20개!!)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=ClTjZh6tzdA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/ClTjZh6tzdA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-27</td>
@@ -880,10 +1082,14 @@
           <a href="https://www.youtube.com/watch?v=MtZQslgFIB4" target="_blank">
             <img src="https://img.youtube.com/vi/MtZQslgFIB4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/MtZQslgFIB4.html" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 술을 안마시는 미국 젊은층 ‘알콜의 몰락’</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=MtZQslgFIB4" target="_blank" class="video-title">미국 뉴스보다 훨씬 쉬운 영어! CNN 뉴스 들리게 해드려요! 술을 안마시는 미국 젊은층 ‘알콜의 몰락’</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=MtZQslgFIB4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/MtZQslgFIB4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-25</td>
@@ -897,10 +1103,14 @@
           <a href="https://www.youtube.com/watch?v=urqeaGWwUzA" target="_blank">
             <img src="https://img.youtube.com/vi/urqeaGWwUzA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/urqeaGWwUzA.html" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드보다 10배 효과적인 브이로그 영어 | 입에서 영어가 술술 나와요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=urqeaGWwUzA" target="_blank" class="video-title">이것만 달달 외워도 무조건 영어초보 탈출! 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드보다 10배 효과적인 브이로그 영어 | 입에서 영어가 술술 나와요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=urqeaGWwUzA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/urqeaGWwUzA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-24</td>
@@ -914,10 +1124,14 @@
           <a href="https://www.youtube.com/watch?v=z12PA0vYzlY" target="_blank">
             <img src="https://img.youtube.com/vi/z12PA0vYzlY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/z12PA0vYzlY.html" class="video-title">미국 실제 회사에서 밥 먹듯이 쓰는 필수 영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=z12PA0vYzlY" target="_blank" class="video-title">미국 실제 회사에서 밥 먹듯이 쓰는 필수 영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=z12PA0vYzlY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/z12PA0vYzlY.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-22</td>
@@ -931,10 +1145,14 @@
           <a href="https://www.youtube.com/watch?v=nY5YOAWe4yQ" target="_blank">
             <img src="https://img.youtube.com/vi/nY5YOAWe4yQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/nY5YOAWe4yQ.html" class="video-title">원어민도 놀라게 한 영어 공부법! 딱 1년 영어에 미쳤더니 인생이 바뀌었어요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=nY5YOAWe4yQ" target="_blank" class="video-title">원어민도 놀라게 한 영어 공부법! 딱 1년 영어에 미쳤더니 인생이 바뀌었어요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=nY5YOAWe4yQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/nY5YOAWe4yQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-18</td>
@@ -948,10 +1166,14 @@
           <a href="https://www.youtube.com/watch?v=6A53NxpOcIs" target="_blank">
             <img src="https://img.youtube.com/vi/6A53NxpOcIs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/6A53NxpOcIs.html" class="video-title">영어 스피킹 정말 늘고 싶으면 이 영상 보세요! | 미국인이 숨쉬듯이 쓰는 생활영어표현 [🎁무료학습자료 드려요]</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=6A53NxpOcIs" target="_blank" class="video-title">영어 스피킹 정말 늘고 싶으면 이 영상 보세요! | 미국인이 숨쉬듯이 쓰는 생활영어표현 [🎁무료학습자료 드려요]</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=6A53NxpOcIs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/6A53NxpOcIs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-17</td>
@@ -965,10 +1187,14 @@
           <a href="https://www.youtube.com/watch?v=vsDeQrgC4FM" target="_blank">
             <img src="https://img.youtube.com/vi/vsDeQrgC4FM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/vsDeQrgC4FM.html" class="video-title">[선물이벤트!] 미국을 횡단한 국제커플의 생존 영어표현 | 미국여행 중 위급한 상황 대처하는 원어민 영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=vsDeQrgC4FM" target="_blank" class="video-title">[선물이벤트!] 미국을 횡단한 국제커플의 생존 영어표현 | 미국여행 중 위급한 상황 대처하는 원어민 영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=vsDeQrgC4FM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/vsDeQrgC4FM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-14</td>
@@ -982,10 +1208,14 @@
           <a href="https://www.youtube.com/watch?v=CaibAz0nQR0" target="_blank">
             <img src="https://img.youtube.com/vi/CaibAz0nQR0/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/CaibAz0nQR0.html" class="video-title">비싼 수업 안들어도 원어민처럼 영어 할 수 있어요! 미국인이 밥먹듯이 쓰는 생활영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요(부산 이사 브이로그)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=CaibAz0nQR0" target="_blank" class="video-title">비싼 수업 안들어도 원어민처럼 영어 할 수 있어요! 미국인이 밥먹듯이 쓰는 생활영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요(부산 이사 브이로그)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=CaibAz0nQR0" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/CaibAz0nQR0.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-10</td>
@@ -999,10 +1229,14 @@
           <a href="https://www.youtube.com/watch?v=6zoudz7z1CA" target="_blank">
             <img src="https://img.youtube.com/vi/6zoudz7z1CA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/6zoudz7z1CA.html" class="video-title">영어 귀 뚫기, 리스닝 실력 폭발적으로 늘어요 | 한국인도 모르는 북한 이야기</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=6zoudz7z1CA" target="_blank" class="video-title">영어 귀 뚫기, 리스닝 실력 폭발적으로 늘어요 | 한국인도 모르는 북한 이야기</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=6zoudz7z1CA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/6zoudz7z1CA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-06</td>
@@ -1016,10 +1250,14 @@
           <a href="https://www.youtube.com/watch?v=begX4vSZoJk" target="_blank">
             <img src="https://img.youtube.com/vi/begX4vSZoJk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/begX4vSZoJk.html" class="video-title">영어회화가 어렵다면 이 영상 열번만 보세요! 단어 잘몰라도 영어가 술술나옵니다 (무료 학습지 선물 🎁)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=begX4vSZoJk" target="_blank" class="video-title">영어회화가 어렵다면 이 영상 열번만 보세요! 단어 잘몰라도 영어가 술술나옵니다 (무료 학습지 선물 🎁)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=begX4vSZoJk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/begX4vSZoJk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-08-03</td>
@@ -1033,10 +1271,14 @@
           <a href="https://www.youtube.com/watch?v=4cQtvsxyEmM" target="_blank">
             <img src="https://img.youtube.com/vi/4cQtvsxyEmM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/4cQtvsxyEmM.html" class="video-title">서울대생들은 영어를 얼마나 잘할까? 대학교에서 쓰는 영어표현(벼락치기, 족보, 교양 등) | 미국vs한국 대학 차이점 인터뷰(+무료 학습자료드려요!)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=4cQtvsxyEmM" target="_blank" class="video-title">서울대생들은 영어를 얼마나 잘할까? 대학교에서 쓰는 영어표현(벼락치기, 족보, 교양 등) | 미국vs한국 대학 차이점 인터뷰(+무료 학습자료드려요!)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=4cQtvsxyEmM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/4cQtvsxyEmM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-27</td>
@@ -1050,10 +1292,14 @@
           <a href="https://www.youtube.com/watch?v=aGLbQ8lkNRs" target="_blank">
             <img src="https://img.youtube.com/vi/aGLbQ8lkNRs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/aGLbQ8lkNRs.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드보다 효과적인 브이로그 영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요(모닝루틴, 요리, 연남동카페, 종로포차, 볼링)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=aGLbQ8lkNRs" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드보다 효과적인 브이로그 영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요(모닝루틴, 요리, 연남동카페, 종로포차, 볼링)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=aGLbQ8lkNRs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/aGLbQ8lkNRs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-20</td>
@@ -1067,10 +1313,14 @@
           <a href="https://www.youtube.com/watch?v=LlYG1PqwEDQ" target="_blank">
             <img src="https://img.youtube.com/vi/LlYG1PqwEDQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/LlYG1PqwEDQ.html" class="video-title">95%가 모르는 영어 말하기 비법, 이대로만 따라하세요. 비싼 해외유학 없이도 영어가 유창해집니다(말이 터지는 영어 무료 학습자료 선물🎁)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=LlYG1PqwEDQ" target="_blank" class="video-title">95%가 모르는 영어 말하기 비법, 이대로만 따라하세요. 비싼 해외유학 없이도 영어가 유창해집니다(말이 터지는 영어 무료 학습자료 선물🎁)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=LlYG1PqwEDQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/LlYG1PqwEDQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-18</td>
@@ -1084,10 +1334,14 @@
           <a href="https://www.youtube.com/watch?v=y9mNrwmLJfs" target="_blank">
             <img src="https://img.youtube.com/vi/y9mNrwmLJfs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/y9mNrwmLJfs.html" class="video-title">영어가 정말 늘고 싶으면 이 영상 보세요 | 필수 영어문장 300개_듣다보면 외워집니다!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=y9mNrwmLJfs" target="_blank" class="video-title">영어가 정말 늘고 싶으면 이 영상 보세요 | 필수 영어문장 300개_듣다보면 외워집니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=y9mNrwmLJfs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/y9mNrwmLJfs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-13</td>
@@ -1101,10 +1355,14 @@
           <a href="https://www.youtube.com/watch?v=N0hKq7utbYQ" target="_blank">
             <img src="https://img.youtube.com/vi/N0hKq7utbYQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/N0hKq7utbYQ.html" class="video-title">미국 스타벅스 영어로 주문하기! 이것만 죽어라 외우세요. 영어가 술술 나옵니다!(한/영/무자막 리스닝 마라맛훈련!)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=N0hKq7utbYQ" target="_blank" class="video-title">미국 스타벅스 영어로 주문하기! 이것만 죽어라 외우세요. 영어가 술술 나옵니다!(한/영/무자막 리스닝 마라맛훈련!)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=N0hKq7utbYQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/N0hKq7utbYQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-10</td>
@@ -1118,10 +1376,14 @@
           <a href="https://www.youtube.com/watch?v=Oy-xZnd2rTc" target="_blank">
             <img src="https://img.youtube.com/vi/Oy-xZnd2rTc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Oy-xZnd2rTc.html" class="video-title">미국에서 제일 유명한 다이어트 챌린지!! 75 hard | 미국인이 밥먹듯이 쓰는 생활영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Oy-xZnd2rTc" target="_blank" class="video-title">미국에서 제일 유명한 다이어트 챌린지!! 75 hard | 미국인이 밥먹듯이 쓰는 생활영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Oy-xZnd2rTc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Oy-xZnd2rTc.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-07-02</td>
@@ -1135,10 +1397,14 @@
           <a href="https://www.youtube.com/watch?v=y8ps5yQLIxI" target="_blank">
             <img src="https://img.youtube.com/vi/y8ps5yQLIxI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/y8ps5yQLIxI.html" class="video-title">영어 귀 뚫기, 리스닝 실력 폭발적으로 늘어요 | 미국인이 밥 먹듯이 쓰는 생활 영어 표현 | 자기 전 틀어 놓으면 입에서 영어가 술술</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=y8ps5yQLIxI" target="_blank" class="video-title">영어 귀 뚫기, 리스닝 실력 폭발적으로 늘어요 | 미국인이 밥 먹듯이 쓰는 생활 영어 표현 | 자기 전 틀어 놓으면 입에서 영어가 술술</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=y8ps5yQLIxI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/y8ps5yQLIxI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-25</td>
@@ -1152,10 +1418,14 @@
           <a href="https://www.youtube.com/watch?v=8UHAJrKjK5w" target="_blank">
             <img src="https://img.youtube.com/vi/8UHAJrKjK5w/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/8UHAJrKjK5w.html" class="video-title">영어가 한국어처럼 쉽게 나와요! 안외워도 술술술 말하는 방법!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=8UHAJrKjK5w" target="_blank" class="video-title">영어가 한국어처럼 쉽게 나와요! 안외워도 술술술 말하는 방법!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=8UHAJrKjK5w" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/8UHAJrKjK5w.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-22</td>
@@ -1169,10 +1439,14 @@
           <a href="https://www.youtube.com/watch?v=JZLC0A3lBoQ" target="_blank">
             <img src="https://img.youtube.com/vi/JZLC0A3lBoQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/JZLC0A3lBoQ.html" class="video-title">버클리 출신의 언어천재가 외국어를 빠르게 익히는 방법 알려드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=JZLC0A3lBoQ" target="_blank" class="video-title">버클리 출신의 언어천재가 외국어를 빠르게 익히는 방법 알려드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=JZLC0A3lBoQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/JZLC0A3lBoQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-19</td>
@@ -1186,10 +1460,14 @@
           <a href="https://www.youtube.com/watch?v=R4dVjHpKCgs" target="_blank">
             <img src="https://img.youtube.com/vi/R4dVjHpKCgs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/R4dVjHpKCgs.html" class="video-title">미국인이 밥먹듯이 쓰는 생활영어표현 100문장 | 원어민의 하루를 반복해서 들으면 영어가 바로 나와요! | 미드보다 효과 좋은 원어민 브이로그(무료자료 드림)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=R4dVjHpKCgs" target="_blank" class="video-title">미국인이 밥먹듯이 쓰는 생활영어표현 100문장 | 원어민의 하루를 반복해서 들으면 영어가 바로 나와요! | 미드보다 효과 좋은 원어민 브이로그(무료자료 드림)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=R4dVjHpKCgs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/R4dVjHpKCgs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-15</td>
@@ -1203,10 +1481,14 @@
           <a href="https://www.youtube.com/watch?v=QzhAnx1odzs" target="_blank">
             <img src="https://img.youtube.com/vi/QzhAnx1odzs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/QzhAnx1odzs.html" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 2만명 받아간 학습자료 드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=QzhAnx1odzs" target="_blank" class="video-title">비싼 수업 안 들어도 원어민처럼 영어 할 수 있어요! 반복해서 들으면 영어가 입에서 자연스레 나와요. | 2만명 받아간 학습자료 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=QzhAnx1odzs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/QzhAnx1odzs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-08</td>
@@ -1220,10 +1502,14 @@
           <a href="https://www.youtube.com/watch?v=LbpCdULcLGA" target="_blank">
             <img src="https://img.youtube.com/vi/LbpCdULcLGA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/LbpCdULcLGA.html" class="video-title">차에서 살며 미국을 횡단한 부부의 생존 영어표현 | 12년차 국제커플의 자연스러운 영어회화</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=LbpCdULcLGA" target="_blank" class="video-title">차에서 살며 미국을 횡단한 부부의 생존 영어표현 | 12년차 국제커플의 자연스러운 영어회화</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=LbpCdULcLGA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/LbpCdULcLGA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-07</td>
@@ -1237,10 +1523,14 @@
           <a href="https://www.youtube.com/watch?v=KgBh5_RQVsc" target="_blank">
             <img src="https://img.youtube.com/vi/KgBh5_RQVsc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/KgBh5_RQVsc.html" class="video-title">못 알아들으면 죽는 영어 | 꼭 가봐야할 그랜드캐니언 헬기투어! 이 영상 하나면 여행영어 끝! 리스닝 실력이 폭발합니다</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=KgBh5_RQVsc" target="_blank" class="video-title">못 알아들으면 죽는 영어 | 꼭 가봐야할 그랜드캐니언 헬기투어! 이 영상 하나면 여행영어 끝! 리스닝 실력이 폭발합니다</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=KgBh5_RQVsc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/KgBh5_RQVsc.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-06-01</td>
@@ -1254,10 +1544,14 @@
           <a href="https://www.youtube.com/watch?v=dByntFS9phw" target="_blank">
             <img src="https://img.youtube.com/vi/dByntFS9phw/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/dByntFS9phw.html" class="video-title">90년 살고 알게 된 행복해지는 법 | 영어가 한국어처럼 들려요 🇺🇸 미국인의 영어 패턴! 무조건 외우세요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=dByntFS9phw" target="_blank" class="video-title">90년 살고 알게 된 행복해지는 법 | 영어가 한국어처럼 들려요 🇺🇸 미국인의 영어 패턴! 무조건 외우세요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=dByntFS9phw" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/dByntFS9phw.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-28</td>
@@ -1271,10 +1565,14 @@
           <a href="https://www.youtube.com/watch?v=C8ahkfztR5k" target="_blank">
             <img src="https://img.youtube.com/vi/C8ahkfztR5k/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/C8ahkfztR5k.html" class="video-title">미국에서 유행하는 완벽 라스베가스 여행코스! 미국여행 중 꼭 알아할 영어표현(호텔, 카지노, 식당) 미국물가가 미쳤어요 💸</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=C8ahkfztR5k" target="_blank" class="video-title">미국에서 유행하는 완벽 라스베가스 여행코스! 미국여행 중 꼭 알아할 영어표현(호텔, 카지노, 식당) 미국물가가 미쳤어요 💸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=C8ahkfztR5k" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/C8ahkfztR5k.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-25</td>
@@ -1288,10 +1586,14 @@
           <a href="https://www.youtube.com/watch?v=0PdgiFkKecg" target="_blank">
             <img src="https://img.youtube.com/vi/0PdgiFkKecg/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/0PdgiFkKecg.html" class="video-title">집에서 쓰는 원어민 필수 영어표현! 영어가 귀에 팍팍 꽂힙니다! 외딴 숲속 통나무로 집 지어 사는 80대 사냥꾼</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=0PdgiFkKecg" target="_blank" class="video-title">집에서 쓰는 원어민 필수 영어표현! 영어가 귀에 팍팍 꽂힙니다! 외딴 숲속 통나무로 집 지어 사는 80대 사냥꾼</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=0PdgiFkKecg" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/0PdgiFkKecg.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-18</td>
@@ -1305,10 +1607,14 @@
           <a href="https://www.youtube.com/watch?v=aKxnjVCbuEo" target="_blank">
             <img src="https://img.youtube.com/vi/aKxnjVCbuEo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/aKxnjVCbuEo.html" class="video-title">수백명을 인터뷰한 50만 유튜버와 영어리스닝(+박재범 인터뷰 썰) | 🇺🇸미국인이 밥먹듯이 쓰는 생활영어표현 | 반복하면 리스닝 실력이 폭발합니다!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=aKxnjVCbuEo" target="_blank" class="video-title">수백명을 인터뷰한 50만 유튜버와 영어리스닝(+박재범 인터뷰 썰) | 🇺🇸미국인이 밥먹듯이 쓰는 생활영어표현 | 반복하면 리스닝 실력이 폭발합니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=aKxnjVCbuEo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/aKxnjVCbuEo.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-14</td>
@@ -1322,10 +1628,14 @@
           <a href="https://www.youtube.com/watch?v=zvKYDbGVz8Q" target="_blank">
             <img src="https://img.youtube.com/vi/zvKYDbGVz8Q/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/zvKYDbGVz8Q.html" class="video-title">영어가 한국어처럼 쉬워집니다! 초보자도 영어를 길~게 말할 수 있어요 | 원어민이 매일쓰는 생활영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=zvKYDbGVz8Q" target="_blank" class="video-title">영어가 한국어처럼 쉬워집니다! 초보자도 영어를 길~게 말할 수 있어요 | 원어민이 매일쓰는 생활영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=zvKYDbGVz8Q" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/zvKYDbGVz8Q.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-11</td>
@@ -1339,10 +1649,14 @@
           <a href="https://www.youtube.com/watch?v=Ib3LEgXY0FI" target="_blank">
             <img src="https://img.youtube.com/vi/Ib3LEgXY0FI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Ib3LEgXY0FI.html" class="video-title">비싼 수업 안 들어도 &#x27;혼자서&#x27; 영어 공부 성공합니다! 6개월만에 원어민을 놀라게 한 영어 공부법! 🎁 모두 알려드려요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Ib3LEgXY0FI" target="_blank" class="video-title">비싼 수업 안 들어도 &#x27;혼자서&#x27; 영어 공부 성공합니다! 6개월만에 원어민을 놀라게 한 영어 공부법! 🎁 모두 알려드려요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Ib3LEgXY0FI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Ib3LEgXY0FI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-08</td>
@@ -1356,10 +1670,14 @@
           <a href="https://www.youtube.com/watch?v=qMo-6PgsDUQ" target="_blank">
             <img src="https://img.youtube.com/vi/qMo-6PgsDUQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/qMo-6PgsDUQ.html" class="video-title">60대 유창한 영어회화의 비밀! 비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요! | 원어민이 밥먹듯이 쓰는 생활영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=qMo-6PgsDUQ" target="_blank" class="video-title">60대 유창한 영어회화의 비밀! 비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요! | 원어민이 밥먹듯이 쓰는 생활영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=qMo-6PgsDUQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/qMo-6PgsDUQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-04</td>
@@ -1373,10 +1691,14 @@
           <a href="https://www.youtube.com/watch?v=BFiUGEN8V70" target="_blank">
             <img src="https://img.youtube.com/vi/BFiUGEN8V70/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/BFiUGEN8V70.html" class="video-title">미국 한 번도 안 간 8살의 영어 실력! 원어민 쌤과 매일 쓰는 표현 (+엄마표 영어 무료학습자료🎁)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=BFiUGEN8V70" target="_blank" class="video-title">미국 한 번도 안 간 8살의 영어 실력! 원어민 쌤과 매일 쓰는 표현 (+엄마표 영어 무료학습자료🎁)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=BFiUGEN8V70" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/BFiUGEN8V70.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-05-03</td>
@@ -1390,10 +1712,14 @@
           <a href="https://www.youtube.com/watch?v=hMvza-sk_MM" target="_blank">
             <img src="https://img.youtube.com/vi/hMvza-sk_MM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/hMvza-sk_MM.html" class="video-title">원어민 실제속도) 미국 경기장 주문 영어! 아빠에게 미식축구 티켓 선물한 날(찐 리액션) | NFL 리얼 체험기💪</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=hMvza-sk_MM" target="_blank" class="video-title">원어민 실제속도) 미국 경기장 주문 영어! 아빠에게 미식축구 티켓 선물한 날(찐 리액션) | NFL 리얼 체험기💪</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=hMvza-sk_MM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/hMvza-sk_MM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-27</td>
@@ -1407,10 +1733,14 @@
           <a href="https://www.youtube.com/watch?v=Qj_KBSmgQfI" target="_blank">
             <img src="https://img.youtube.com/vi/Qj_KBSmgQfI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Qj_KBSmgQfI.html" class="video-title">🇰🇷한국 vs 🇮🇹외국회사 차이점 |  원어민 필수 영어표현</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Qj_KBSmgQfI" target="_blank" class="video-title">🇰🇷한국 vs 🇮🇹외국회사 차이점 |  원어민 필수 영어표현</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Qj_KBSmgQfI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Qj_KBSmgQfI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-25</td>
@@ -1424,10 +1754,14 @@
           <a href="https://www.youtube.com/watch?v=bfq5jSzWtdA" target="_blank">
             <img src="https://img.youtube.com/vi/bfq5jSzWtdA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/bfq5jSzWtdA.html" class="video-title">🇰🇷7첩 반상에 감동한 미국인 반응 |  실제 미국인 식당 영어(예약,주문,계산) | 한식당에서도 팁을 줄까?💰</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=bfq5jSzWtdA" target="_blank" class="video-title">🇰🇷7첩 반상에 감동한 미국인 반응 |  실제 미국인 식당 영어(예약,주문,계산) | 한식당에서도 팁을 줄까?💰</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=bfq5jSzWtdA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/bfq5jSzWtdA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-20</td>
@@ -1441,10 +1775,14 @@
           <a href="https://www.youtube.com/watch?v=jkV5GTtdPLs" target="_blank">
             <img src="https://img.youtube.com/vi/jkV5GTtdPLs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/jkV5GTtdPLs.html" class="video-title">미쳐버린 물가의 미국에서 살아남는 영어표현 | 12년차 국제커플의 자연스러운 영어회화 | 대기업 때려치고 뉴욕에서 동거하게 된 장거리 커플 | 뉴욕에 살면 안좋은 점</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=jkV5GTtdPLs" target="_blank" class="video-title">미쳐버린 물가의 미국에서 살아남는 영어표현 | 12년차 국제커플의 자연스러운 영어회화 | 대기업 때려치고 뉴욕에서 동거하게 된 장거리 커플 | 뉴욕에 살면 안좋은 점</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=jkV5GTtdPLs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/jkV5GTtdPLs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-16</td>
@@ -1458,10 +1796,14 @@
           <a href="https://www.youtube.com/watch?v=SJRqhOCeezU" target="_blank">
             <img src="https://img.youtube.com/vi/SJRqhOCeezU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/SJRqhOCeezU.html" class="video-title">미국에서 사기 안 당하는 영어표현! | 뉴욕 여행 Top10 맛집,명소 추천 | 미국인이 밥먹듯이 쓰는 필수영어표현, 이것만 달달 외우세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=SJRqhOCeezU" target="_blank" class="video-title">미국에서 사기 안 당하는 영어표현! | 뉴욕 여행 Top10 맛집,명소 추천 | 미국인이 밥먹듯이 쓰는 필수영어표현, 이것만 달달 외우세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=SJRqhOCeezU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/SJRqhOCeezU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-13</td>
@@ -1475,10 +1817,14 @@
           <a href="https://www.youtube.com/watch?v=nthmR9eRMJU" target="_blank">
             <img src="https://img.youtube.com/vi/nthmR9eRMJU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/nthmR9eRMJU.html" class="video-title">10년 경력 원어민쌤이 매일쓰는 생활영어표현 | (2시간 연속 재생)미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 리스닝실력 폭발! 2만명 받아간 무료학습자료 받아가세요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=nthmR9eRMJU" target="_blank" class="video-title">10년 경력 원어민쌤이 매일쓰는 생활영어표현 | (2시간 연속 재생)미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 리스닝실력 폭발! 2만명 받아간 무료학습자료 받아가세요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=nthmR9eRMJU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/nthmR9eRMJU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-09</td>
@@ -1492,10 +1838,14 @@
           <a href="https://www.youtube.com/watch?v=nGjw1QCI01s" target="_blank">
             <img src="https://img.youtube.com/vi/nGjw1QCI01s/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/nGjw1QCI01s.html" class="video-title">미국 스타벅스, 맥도날드 주문하기! 이 영상 하나로 끝내세요! | 원어민처럼 듣고 말하세요 🇺🇸</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=nGjw1QCI01s" target="_blank" class="video-title">미국 스타벅스, 맥도날드 주문하기! 이 영상 하나로 끝내세요! | 원어민처럼 듣고 말하세요 🇺🇸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=nGjw1QCI01s" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/nGjw1QCI01s.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-06</td>
@@ -1509,10 +1859,14 @@
           <a href="https://www.youtube.com/watch?v=_e4KoDEN_is" target="_blank">
             <img src="https://img.youtube.com/vi/_e4KoDEN_is/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/_e4KoDEN_is.html" class="video-title">(원어민 실제 속도)1500일 달린 비결, 영어로 배워보세요 | 친구들끼리 매일 사용하는 생활영어표현(텍사스 출신)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=_e4KoDEN_is" target="_blank" class="video-title">(원어민 실제 속도)1500일 달린 비결, 영어로 배워보세요 | 친구들끼리 매일 사용하는 생활영어표현(텍사스 출신)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=_e4KoDEN_is" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/_e4KoDEN_is.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-04-02</td>
@@ -1526,10 +1880,14 @@
           <a href="https://www.youtube.com/watch?v=4O4osf5c8Fc" target="_blank">
             <img src="https://img.youtube.com/vi/4O4osf5c8Fc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/4O4osf5c8Fc.html" class="video-title">미국인에게 영어로 주문하기! 10번 보고 자신있게 주문하세요! 🇺🇸 🌭핫도그 주문하기, 물건사기, 얼음물 점프, 스노모빌 경주, 푸드코트 |  원어민 영어의 핵심을 알려드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=4O4osf5c8Fc" target="_blank" class="video-title">미국인에게 영어로 주문하기! 10번 보고 자신있게 주문하세요! 🇺🇸 🌭핫도그 주문하기, 물건사기, 얼음물 점프, 스노모빌 경주, 푸드코트 |  원어민 영어의 핵심을 알려드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=4O4osf5c8Fc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/4O4osf5c8Fc.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-30</td>
@@ -1543,10 +1901,14 @@
           <a href="https://www.youtube.com/watch?v=y95EBirbbcI" target="_blank">
             <img src="https://img.youtube.com/vi/y95EBirbbcI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/y95EBirbbcI.html" class="video-title">비싼 수업 들어도 안 알려줘요. 미국에서 와장창 깨지고 영어 회화 극복한 방법 (+10만 기념 구독자 선물!) 원어민이 하는 말 알아듣기, 이게 핵심입니다!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=y95EBirbbcI" target="_blank" class="video-title">비싼 수업 들어도 안 알려줘요. 미국에서 와장창 깨지고 영어 회화 극복한 방법 (+10만 기념 구독자 선물!) 원어민이 하는 말 알아듣기, 이게 핵심입니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=y95EBirbbcI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/y95EBirbbcI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-27</td>
@@ -1560,10 +1922,14 @@
           <a href="https://www.youtube.com/watch?v=1UuhXBm7zoE" target="_blank">
             <img src="https://img.youtube.com/vi/1UuhXBm7zoE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/1UuhXBm7zoE.html" class="video-title">원어민이 겨울에 매일 쓰는 표현만 모음! 하루 10분으로 집에서 어학연수 하세요 | 이것만 죽어라 외우세요. 원어민 영어가 이제 들립니다 🇺🇸</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=1UuhXBm7zoE" target="_blank" class="video-title">원어민이 겨울에 매일 쓰는 표현만 모음! 하루 10분으로 집에서 어학연수 하세요 | 이것만 죽어라 외우세요. 원어민 영어가 이제 들립니다 🇺🇸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=1UuhXBm7zoE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/1UuhXBm7zoE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-23</td>
@@ -1577,10 +1943,14 @@
           <a href="https://www.youtube.com/watch?v=Fk2wngkIWA4" target="_blank">
             <img src="https://img.youtube.com/vi/Fk2wngkIWA4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Fk2wngkIWA4.html" class="video-title">(10살 수준 영어) 학부모님 필수 시청! 아이와 놀면서 영어실력 쑥쑥! 집에서도 가능한 영어 공부방법</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Fk2wngkIWA4" target="_blank" class="video-title">(10살 수준 영어) 학부모님 필수 시청! 아이와 놀면서 영어실력 쑥쑥! 집에서도 가능한 영어 공부방법</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Fk2wngkIWA4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Fk2wngkIWA4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-21</td>
@@ -1594,10 +1964,14 @@
           <a href="https://www.youtube.com/watch?v=Chl6kh4ieg0" target="_blank">
             <img src="https://img.youtube.com/vi/Chl6kh4ieg0/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Chl6kh4ieg0.html" class="video-title">미국 스타벅스, 서브웨이, 치폴레 주문하기! 이 영상 하나로 끝내세요! 스타벅스 시크릿메뉴 주문하는 법 | 이것만 죽어라 외우세요. 원어민 영어가 이제 들립니다 🇺🇸</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Chl6kh4ieg0" target="_blank" class="video-title">미국 스타벅스, 서브웨이, 치폴레 주문하기! 이 영상 하나로 끝내세요! 스타벅스 시크릿메뉴 주문하는 법 | 이것만 죽어라 외우세요. 원어민 영어가 이제 들립니다 🇺🇸</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Chl6kh4ieg0" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Chl6kh4ieg0.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-16</td>
@@ -1611,10 +1985,14 @@
           <a href="https://www.youtube.com/watch?v=qL_ag0trbvE" target="_blank">
             <img src="https://img.youtube.com/vi/qL_ag0trbvE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/qL_ag0trbvE.html" class="video-title">미국인이 밥먹듯이 쓰는 생활영어 표현 | 미국 시골에서 맞는 새해 🇺🇸 미드보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=qL_ag0trbvE" target="_blank" class="video-title">미국인이 밥먹듯이 쓰는 생활영어 표현 | 미국 시골에서 맞는 새해 🇺🇸 미드보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=qL_ag0trbvE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/qL_ag0trbvE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-09</td>
@@ -1628,10 +2006,14 @@
           <a href="https://www.youtube.com/watch?v=LVl2RUZq6zA" target="_blank">
             <img src="https://img.youtube.com/vi/LVl2RUZq6zA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/LVl2RUZq6zA.html" class="video-title">원어민 실제 영어속도 | 자막없이 들리면 영어고수 | 반복해서 들으면 영어가 입에서 자연스레 나와요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=LVl2RUZq6zA" target="_blank" class="video-title">원어민 실제 영어속도 | 자막없이 들리면 영어고수 | 반복해서 들으면 영어가 입에서 자연스레 나와요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=LVl2RUZq6zA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/LVl2RUZq6zA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-06</td>
@@ -1645,10 +2027,14 @@
           <a href="https://www.youtube.com/watch?v=IPSbx8p70ZU" target="_blank">
             <img src="https://img.youtube.com/vi/IPSbx8p70ZU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/IPSbx8p70ZU.html" class="video-title">비싼 수업 들어도 안 알려줘요. 영어회화가 어렵다면 이 영상 딱 10번만 보세요. | 원어민 가족 브이로그로 영어회화 배우기</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=IPSbx8p70ZU" target="_blank" class="video-title">비싼 수업 들어도 안 알려줘요. 영어회화가 어렵다면 이 영상 딱 10번만 보세요. | 원어민 가족 브이로그로 영어회화 배우기</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=IPSbx8p70ZU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/IPSbx8p70ZU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-03-02</td>
@@ -1662,10 +2048,14 @@
           <a href="https://www.youtube.com/watch?v=0cZvZkdvwVk" target="_blank">
             <img src="https://img.youtube.com/vi/0cZvZkdvwVk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/0cZvZkdvwVk.html" class="video-title">뉴요커들은 어떻게 영어로 욕할까? 무례하기로 소문난 뉴욕 실제 영어 표현 | 리스닝 실력이 폭발합니다! 원어민 실제 영어속도 | 자막없이 들리면 영어고수</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=0cZvZkdvwVk" target="_blank" class="video-title">뉴요커들은 어떻게 영어로 욕할까? 무례하기로 소문난 뉴욕 실제 영어 표현 | 리스닝 실력이 폭발합니다! 원어민 실제 영어속도 | 자막없이 들리면 영어고수</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=0cZvZkdvwVk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/0cZvZkdvwVk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-27</td>
@@ -1679,10 +2069,14 @@
           <a href="https://www.youtube.com/watch?v=fhTfNb4gk5g" target="_blank">
             <img src="https://img.youtube.com/vi/fhTfNb4gk5g/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/fhTfNb4gk5g.html" class="video-title">완벽한 뉴욕여행 코스! 미국여행 중 꼭 알아야 할 영어표현(식당, 지하철, 술집) 반복해서 들으면 입에서 영어가 술술 나와요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=fhTfNb4gk5g" target="_blank" class="video-title">완벽한 뉴욕여행 코스! 미국여행 중 꼭 알아야 할 영어표현(식당, 지하철, 술집) 반복해서 들으면 입에서 영어가 술술 나와요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=fhTfNb4gk5g" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/fhTfNb4gk5g.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-23</td>
@@ -1696,10 +2090,14 @@
           <a href="https://www.youtube.com/watch?v=cOx0D66v83M" target="_blank">
             <img src="https://img.youtube.com/vi/cOx0D66v83M/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/cOx0D66v83M.html" class="video-title">미국 입국심사 중 끌려간 남편 | 영어 초보도 쉽게 통과하는 영어표현 &amp; 절대하면 안되는 답변! | 이 영상 하나로 해결!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=cOx0D66v83M" target="_blank" class="video-title">미국 입국심사 중 끌려간 남편 | 영어 초보도 쉽게 통과하는 영어표현 &amp; 절대하면 안되는 답변! | 이 영상 하나로 해결!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=cOx0D66v83M" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/cOx0D66v83M.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-19</td>
@@ -1713,10 +2111,14 @@
           <a href="https://www.youtube.com/watch?v=aMCI73a2IjE" target="_blank">
             <img src="https://img.youtube.com/vi/aMCI73a2IjE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/aMCI73a2IjE.html" class="video-title">미국 마트에서 영어로 장보기! 한국인들은 경악할 미국 음식들</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=aMCI73a2IjE" target="_blank" class="video-title">미국 마트에서 영어로 장보기! 한국인들은 경악할 미국 음식들</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=aMCI73a2IjE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/aMCI73a2IjE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-16</td>
@@ -1730,10 +2132,14 @@
           <a href="https://www.youtube.com/watch?v=jOuy1sdsgIE" target="_blank">
             <img src="https://img.youtube.com/vi/jOuy1sdsgIE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/jOuy1sdsgIE.html" class="video-title">🗽뉴욕에서 영어로 음식 주문하기 | 현지에서 난리난 미국 음식 Top5(미국인 인증)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=jOuy1sdsgIE" target="_blank" class="video-title">🗽뉴욕에서 영어로 음식 주문하기 | 현지에서 난리난 미국 음식 Top5(미국인 인증)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=jOuy1sdsgIE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/jOuy1sdsgIE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-09</td>
@@ -1747,10 +2153,14 @@
           <a href="https://www.youtube.com/watch?v=s2pmdFYEdEI" target="_blank">
             <img src="https://img.youtube.com/vi/s2pmdFYEdEI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/s2pmdFYEdEI.html" class="video-title">병원비 폭탄? 미국 병원 필수 영어 표현 🏥 보험없어도 약값 깎는 방법 | 여행가서 아플때 이렇게 대처하세요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=s2pmdFYEdEI" target="_blank" class="video-title">병원비 폭탄? 미국 병원 필수 영어 표현 🏥 보험없어도 약값 깎는 방법 | 여행가서 아플때 이렇게 대처하세요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=s2pmdFYEdEI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/s2pmdFYEdEI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-02-02</td>
@@ -1764,10 +2174,14 @@
           <a href="https://www.youtube.com/watch?v=iQKeP0k5i8k" target="_blank">
             <img src="https://img.youtube.com/vi/iQKeP0k5i8k/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/iQKeP0k5i8k.html" class="video-title">[국제커플] 어떻게 만났나요? ❤ 한국인 남편과의 첫만남, 첫인상, 첫데이트, 장거리연애 | How we met |  Q&amp;A | 자연스러운 일상 영어 대화</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=iQKeP0k5i8k" target="_blank" class="video-title">[국제커플] 어떻게 만났나요? ❤ 한국인 남편과의 첫만남, 첫인상, 첫데이트, 장거리연애 | How we met |  Q&amp;A | 자연스러운 일상 영어 대화</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=iQKeP0k5i8k" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/iQKeP0k5i8k.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-31</td>
@@ -1781,10 +2195,14 @@
           <a href="https://www.youtube.com/watch?v=Bi3Cfebszzw" target="_blank">
             <img src="https://img.youtube.com/vi/Bi3Cfebszzw/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Bi3Cfebszzw.html" class="video-title">비싼 수업 들어도 안 알려줘요. 외국인과 영어로 대화가 어렵다면 이 영상 10번만 보세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Bi3Cfebszzw" target="_blank" class="video-title">비싼 수업 들어도 안 알려줘요. 외국인과 영어로 대화가 어렵다면 이 영상 10번만 보세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Bi3Cfebszzw" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Bi3Cfebszzw.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-26</td>
@@ -1798,10 +2216,14 @@
           <a href="https://www.youtube.com/watch?v=l96WK3q_ZCY" target="_blank">
             <img src="https://img.youtube.com/vi/l96WK3q_ZCY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/l96WK3q_ZCY.html" class="video-title">원어민이 밥먹듯이 쓰는 기초영어표현 1000문장 | 제발 이것만 외우세요! 왕초보도 하루종일 영어로 말하게 됩니다 | 자기전, 출근전 그냥 틀어 놓으세요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=l96WK3q_ZCY" target="_blank" class="video-title">원어민이 밥먹듯이 쓰는 기초영어표현 1000문장 | 제발 이것만 외우세요! 왕초보도 하루종일 영어로 말하게 됩니다 | 자기전, 출근전 그냥 틀어 놓으세요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=l96WK3q_ZCY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/l96WK3q_ZCY.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-21</td>
@@ -1815,10 +2237,14 @@
           <a href="https://www.youtube.com/watch?v=FUTPe3F3-Ro" target="_blank">
             <img src="https://img.youtube.com/vi/FUTPe3F3-Ro/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/FUTPe3F3-Ro.html" class="video-title">🇺🇸미국에서 운전할 때 필요한 모든 영어표현! | 렌트카, 경찰 단속 썰, 주유소/휴게소/톨비, 사슴 친 썰 | 이제 안심하고 여행하세요 🚓</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=FUTPe3F3-Ro" target="_blank" class="video-title">🇺🇸미국에서 운전할 때 필요한 모든 영어표현! | 렌트카, 경찰 단속 썰, 주유소/휴게소/톨비, 사슴 친 썰 | 이제 안심하고 여행하세요 🚓</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=FUTPe3F3-Ro" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/FUTPe3F3-Ro.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-19</td>
@@ -1832,10 +2258,14 @@
           <a href="https://www.youtube.com/watch?v=Jg_uKxLKZ50" target="_blank">
             <img src="https://img.youtube.com/vi/Jg_uKxLKZ50/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Jg_uKxLKZ50.html" class="video-title">10년차 영어 원장님의 영어마스터 비법공개 | 우리아이 영어 네이티브 만들기 | 원어민 실제속도 팟캐스트 | 자막없이 들리면 영어고수</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Jg_uKxLKZ50" target="_blank" class="video-title">10년차 영어 원장님의 영어마스터 비법공개 | 우리아이 영어 네이티브 만들기 | 원어민 실제속도 팟캐스트 | 자막없이 들리면 영어고수</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Jg_uKxLKZ50" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Jg_uKxLKZ50.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-16</td>
@@ -1849,10 +2279,14 @@
           <a href="https://www.youtube.com/watch?v=w4rKXJ-O9nU" target="_blank">
             <img src="https://img.youtube.com/vi/w4rKXJ-O9nU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/w4rKXJ-O9nU.html" class="video-title">한국에서 온 딸을 위해 모두 모인 미국 가족 | 한국 선물에 감동받은 미국 가족들🎁❤️</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=w4rKXJ-O9nU" target="_blank" class="video-title">한국에서 온 딸을 위해 모두 모인 미국 가족 | 한국 선물에 감동받은 미국 가족들🎁❤️</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=w4rKXJ-O9nU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/w4rKXJ-O9nU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-12</td>
@@ -1866,10 +2300,14 @@
           <a href="https://www.youtube.com/watch?v=_5lsqNPDSLk" target="_blank">
             <img src="https://img.youtube.com/vi/_5lsqNPDSLk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/_5lsqNPDSLk.html" class="video-title">진짜 미국인들이 집에서 크리스마스를 준비하는 밥법 | 보기만하면 입에서 영어가 술술 나와요 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=_5lsqNPDSLk" target="_blank" class="video-title">진짜 미국인들이 집에서 크리스마스를 준비하는 밥법 | 보기만하면 입에서 영어가 술술 나와요 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=_5lsqNPDSLk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/_5lsqNPDSLk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2025-01-05</td>
@@ -1883,10 +2321,14 @@
           <a href="https://www.youtube.com/watch?v=wlLtMIP9jgI" target="_blank">
             <img src="https://img.youtube.com/vi/wlLtMIP9jgI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/wlLtMIP9jgI.html" class="video-title">해외 여행에서 바로 써먹는 공항에서 필수 영어표현 이걸로 종결! (무료 표현 자료집도 드려요)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=wlLtMIP9jgI" target="_blank" class="video-title">해외 여행에서 바로 써먹는 공항에서 필수 영어표현 이걸로 종결! (무료 표현 자료집도 드려요)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=wlLtMIP9jgI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/wlLtMIP9jgI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-29</td>
@@ -1900,10 +2342,14 @@
           <a href="https://www.youtube.com/watch?v=Z_kY336K0GE" target="_blank">
             <img src="https://img.youtube.com/vi/Z_kY336K0GE/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Z_kY336K0GE.html" class="video-title">비싼 수업 안들어도 영어가 한국어처럼 쉬워집니다(+독해력 300% 레벨업 공부법) | 미국인 필독서 선물로 드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Z_kY336K0GE" target="_blank" class="video-title">비싼 수업 안들어도 영어가 한국어처럼 쉬워집니다(+독해력 300% 레벨업 공부법) | 미국인 필독서 선물로 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Z_kY336K0GE" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Z_kY336K0GE.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-25</td>
@@ -1917,10 +2363,14 @@
           <a href="https://www.youtube.com/watch?v=K1qnMuieW_o" target="_blank">
             <img src="https://img.youtube.com/vi/K1qnMuieW_o/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/K1qnMuieW_o.html" class="video-title">영어를 쉽고 길게 말하는 방법! 혼자 영어하신다면 꼭 보세요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=K1qnMuieW_o" target="_blank" class="video-title">영어를 쉽고 길게 말하는 방법! 혼자 영어하신다면 꼭 보세요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=K1qnMuieW_o" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/K1qnMuieW_o.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-22</td>
@@ -1934,10 +2384,14 @@
           <a href="https://www.youtube.com/watch?v=0eMBmQtetYk" target="_blank">
             <img src="https://img.youtube.com/vi/0eMBmQtetYk/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/0eMBmQtetYk.html" class="video-title">미국인이 밥 먹듯 쓰는 진짜 생활영어! 드디어 입에서 영어가 나오기 시작합니다! 아침 나갈준비 브이로그</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=0eMBmQtetYk" target="_blank" class="video-title">미국인이 밥 먹듯 쓰는 진짜 생활영어! 드디어 입에서 영어가 나오기 시작합니다! 아침 나갈준비 브이로그</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=0eMBmQtetYk" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/0eMBmQtetYk.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-16</td>
@@ -1951,10 +2405,14 @@
           <a href="https://www.youtube.com/watch?v=B8SGqlI9x0I" target="_blank">
             <img src="https://img.youtube.com/vi/B8SGqlI9x0I/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/B8SGqlI9x0I.html" class="video-title">영어를 더듬거리지 않고 길게 말할 수 있어요! 한국에 사는 미국인의 하루영어(영어회화 무조건 됩니다)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=B8SGqlI9x0I" target="_blank" class="video-title">영어를 더듬거리지 않고 길게 말할 수 있어요! 한국에 사는 미국인의 하루영어(영어회화 무조건 됩니다)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=B8SGqlI9x0I" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/B8SGqlI9x0I.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-11</td>
@@ -1968,10 +2426,14 @@
           <a href="https://www.youtube.com/watch?v=xHu3ATwswYM" target="_blank">
             <img src="https://img.youtube.com/vi/xHu3ATwswYM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/xHu3ATwswYM.html" class="video-title">비싼 수업 안 들어도 영어를 유창하게 하는 방법, 혼자 영어공부 하신다면 꼭 보세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=xHu3ATwswYM" target="_blank" class="video-title">비싼 수업 안 들어도 영어를 유창하게 하는 방법, 혼자 영어공부 하신다면 꼭 보세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=xHu3ATwswYM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/xHu3ATwswYM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-08</td>
@@ -1985,10 +2447,14 @@
           <a href="https://www.youtube.com/watch?v=MP2RimmYxsQ" target="_blank">
             <img src="https://img.youtube.com/vi/MP2RimmYxsQ/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/MP2RimmYxsQ.html" class="video-title">힘 안 들이고 영어를 술술 말할 수 있게 됩니다! 미드보다 시간 10배 아끼는 영어공부법 | 영어회화 무조건 됩니다</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=MP2RimmYxsQ" target="_blank" class="video-title">힘 안 들이고 영어를 술술 말할 수 있게 됩니다! 미드보다 시간 10배 아끼는 영어공부법 | 영어회화 무조건 됩니다</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=MP2RimmYxsQ" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/MP2RimmYxsQ.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-12-08</td>
@@ -2002,10 +2468,14 @@
           <a href="https://www.youtube.com/watch?v=mRV6nQ0Wev4" target="_blank">
             <img src="https://img.youtube.com/vi/mRV6nQ0Wev4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/mRV6nQ0Wev4.html" class="video-title">공짜로 영어실력을 가장 빠르게 향상시키는 단 1가지 꿀팁! 하면 무조건 늡니다!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=mRV6nQ0Wev4" target="_blank" class="video-title">공짜로 영어실력을 가장 빠르게 향상시키는 단 1가지 꿀팁! 하면 무조건 늡니다!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=mRV6nQ0Wev4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/mRV6nQ0Wev4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-11-29</td>
@@ -2019,10 +2489,14 @@
           <a href="https://www.youtube.com/watch?v=GFRYgb08BME" target="_blank">
             <img src="https://img.youtube.com/vi/GFRYgb08BME/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/GFRYgb08BME.html" class="video-title">수능 영어, 미국 전교1등이 풀면?</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=GFRYgb08BME" target="_blank" class="video-title">수능 영어, 미국 전교1등이 풀면?</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=GFRYgb08BME" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/GFRYgb08BME.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-11-14</td>
@@ -2036,10 +2510,14 @@
           <a href="https://www.youtube.com/watch?v=jNNTY1RzyQc" target="_blank">
             <img src="https://img.youtube.com/vi/jNNTY1RzyQc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/jNNTY1RzyQc.html" class="video-title">(원어민 실제속도)미국인과 영국인의 너무 다른 발음 | 자막없이 들리면 영어 초고수</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=jNNTY1RzyQc" target="_blank" class="video-title">(원어민 실제속도)미국인과 영국인의 너무 다른 발음 | 자막없이 들리면 영어 초고수</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=jNNTY1RzyQc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/jNNTY1RzyQc.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-11-10</td>
@@ -2053,10 +2531,14 @@
           <a href="https://www.youtube.com/watch?v=MpOs1XNW8wI" target="_blank">
             <img src="https://img.youtube.com/vi/MpOs1XNW8wI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/MpOs1XNW8wI.html" class="video-title">비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=MpOs1XNW8wI" target="_blank" class="video-title">비싼 수업받아도 안알려줘요. 영어회화가 어렵다면 이 영상 10번만 보세요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=MpOs1XNW8wI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/MpOs1XNW8wI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-11-03</td>
@@ -2070,10 +2552,14 @@
           <a href="https://www.youtube.com/watch?v=7gG-BbEd5Ok" target="_blank">
             <img src="https://img.youtube.com/vi/7gG-BbEd5Ok/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/7gG-BbEd5Ok.html" class="video-title">영어가 한국어처럼 쉽게 나온다? | 혼자 공부하신다면 꼭 보세요 | 외국인이 매일쓰는 일상 영어표현 | 말하는 영어일기</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=7gG-BbEd5Ok" target="_blank" class="video-title">영어가 한국어처럼 쉽게 나온다? | 혼자 공부하신다면 꼭 보세요 | 외국인이 매일쓰는 일상 영어표현 | 말하는 영어일기</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=7gG-BbEd5Ok" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/7gG-BbEd5Ok.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-10-27</td>
@@ -2087,10 +2573,14 @@
           <a href="https://www.youtube.com/watch?v=RHlt2Q9YUnU" target="_blank">
             <img src="https://img.youtube.com/vi/RHlt2Q9YUnU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/RHlt2Q9YUnU.html" class="video-title">영어 스피킹 실력이 폭발적으로 늘어요 | 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과좋은 원어민 브이로그 | 자기전 틀어놓으면 입에서 영어가 술술</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=RHlt2Q9YUnU" target="_blank" class="video-title">영어 스피킹 실력이 폭발적으로 늘어요 | 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과좋은 원어민 브이로그 | 자기전 틀어놓으면 입에서 영어가 술술</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=RHlt2Q9YUnU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/RHlt2Q9YUnU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-10-20</td>
@@ -2104,10 +2594,14 @@
           <a href="https://www.youtube.com/watch?v=99Tc6mUXHXs" target="_blank">
             <img src="https://img.youtube.com/vi/99Tc6mUXHXs/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/99Tc6mUXHXs.html" class="video-title">원어민이 맨날 쓰는 영어 문장 무조건 통째로 외워주세요 | 영어로 잠들기 | 딱 30분 흘려듣기ㅣ반복 듣기 | 리스닝 귀가 뚫립니다</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=99Tc6mUXHXs" target="_blank" class="video-title">원어민이 맨날 쓰는 영어 문장 무조건 통째로 외워주세요 | 영어로 잠들기 | 딱 30분 흘려듣기ㅣ반복 듣기 | 리스닝 귀가 뚫립니다</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=99Tc6mUXHXs" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/99Tc6mUXHXs.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-10-07</td>
@@ -2121,10 +2615,14 @@
           <a href="https://www.youtube.com/watch?v=tAtjheQ_M9M" target="_blank">
             <img src="https://img.youtube.com/vi/tAtjheQ_M9M/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/tAtjheQ_M9M.html" class="video-title">미국인이 매일쓰는 일상 영어표현 | 미드, 뉴스보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 술술 나와요 | 들으면 리스닝 실력이 폭발해요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=tAtjheQ_M9M" target="_blank" class="video-title">미국인이 매일쓰는 일상 영어표현 | 미드, 뉴스보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 술술 나와요 | 들으면 리스닝 실력이 폭발해요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=tAtjheQ_M9M" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/tAtjheQ_M9M.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-10-06</td>
@@ -2138,10 +2636,14 @@
           <a href="https://www.youtube.com/watch?v=vCEkFuReuS8" target="_blank">
             <img src="https://img.youtube.com/vi/vCEkFuReuS8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/vCEkFuReuS8.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 영어 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=vCEkFuReuS8" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 영어 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=vCEkFuReuS8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/vCEkFuReuS8.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-09-21</td>
@@ -2155,10 +2657,14 @@
           <a href="https://www.youtube.com/watch?v=NF_45Jbgoq8" target="_blank">
             <img src="https://img.youtube.com/vi/NF_45Jbgoq8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/NF_45Jbgoq8.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=NF_45Jbgoq8" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=NF_45Jbgoq8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/NF_45Jbgoq8.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-09-17</td>
@@ -2172,10 +2678,14 @@
           <a href="https://www.youtube.com/watch?v=Iq0ucF1-_Yw" target="_blank">
             <img src="https://img.youtube.com/vi/Iq0ucF1-_Yw/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Iq0ucF1-_Yw.html" class="video-title">미국인과 10년 동안 산 남자의 영어실력 | 미국인 이기는 영어 스피킹공부 | 혼자서 영어 공부하신다면 꼭 보세요 | 7일동안 영어만쓰면 생기는 일 | 무료영어레벨 테스트 해드려요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Iq0ucF1-_Yw" target="_blank" class="video-title">미국인과 10년 동안 산 남자의 영어실력 | 미국인 이기는 영어 스피킹공부 | 혼자서 영어 공부하신다면 꼭 보세요 | 7일동안 영어만쓰면 생기는 일 | 무료영어레벨 테스트 해드려요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Iq0ucF1-_Yw" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Iq0ucF1-_Yw.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-09-11</td>
@@ -2189,10 +2699,14 @@
           <a href="https://www.youtube.com/watch?v=3XqHe7WkiZo" target="_blank">
             <img src="https://img.youtube.com/vi/3XqHe7WkiZo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/3XqHe7WkiZo.html" class="video-title">영어 귀뚫기, 리스닝 실력 폭발적으로 늘어요 | 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과좋은 원어민 브이로그 | 자기전 틀어놓으면 입에서 영어가 술술</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=3XqHe7WkiZo" target="_blank" class="video-title">영어 귀뚫기, 리스닝 실력 폭발적으로 늘어요 | 미국인이 밥먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과좋은 원어민 브이로그 | 자기전 틀어놓으면 입에서 영어가 술술</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=3XqHe7WkiZo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/3XqHe7WkiZo.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-09-06</td>
@@ -2206,10 +2720,14 @@
           <a href="https://www.youtube.com/watch?v=wG4rud2ssvA" target="_blank">
             <img src="https://img.youtube.com/vi/wG4rud2ssvA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/wG4rud2ssvA.html" class="video-title">원어민 실제 영어속도 | 자막없이 들리면 영어고수 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=wG4rud2ssvA" target="_blank" class="video-title">원어민 실제 영어속도 | 자막없이 들리면 영어고수 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=wG4rud2ssvA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/wG4rud2ssvA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-08-28</td>
@@ -2223,10 +2741,14 @@
           <a href="https://www.youtube.com/watch?v=K6jTQtegWWU" target="_blank">
             <img src="https://img.youtube.com/vi/K6jTQtegWWU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/K6jTQtegWWU.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=K6jTQtegWWU" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=K6jTQtegWWU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/K6jTQtegWWU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-08-17</td>
@@ -2240,10 +2762,14 @@
           <a href="https://www.youtube.com/watch?v=vuTpHOIATVI" target="_blank">
             <img src="https://img.youtube.com/vi/vuTpHOIATVI/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/vuTpHOIATVI.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요. | 만명 받아간 학습자료 드려요!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=vuTpHOIATVI" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요. | 만명 받아간 학습자료 드려요!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=vuTpHOIATVI" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/vuTpHOIATVI.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-08-07</td>
@@ -2257,10 +2783,14 @@
           <a href="https://www.youtube.com/watch?v=COKhWj3LvO8" target="_blank">
             <img src="https://img.youtube.com/vi/COKhWj3LvO8/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/COKhWj3LvO8.html" class="video-title">초보도 가능한 영어회화 공부법(독학, 공짜) 회화가 어렵다면 그냥 이 영상 보세요.(무료 학습자료 드려요)</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=COKhWj3LvO8" target="_blank" class="video-title">초보도 가능한 영어회화 공부법(독학, 공짜) 회화가 어렵다면 그냥 이 영상 보세요.(무료 학습자료 드려요)</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=COKhWj3LvO8" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/COKhWj3LvO8.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-08-04</td>
@@ -2274,10 +2804,14 @@
           <a href="https://www.youtube.com/watch?v=KsJu0po06xc" target="_blank">
             <img src="https://img.youtube.com/vi/KsJu0po06xc/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/KsJu0po06xc.html" class="video-title">(미용실편) 미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=KsJu0po06xc" target="_blank" class="video-title">(미용실편) 미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=KsJu0po06xc" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/KsJu0po06xc.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-07-21</td>
@@ -2291,10 +2825,14 @@
           <a href="https://www.youtube.com/watch?v=PxPGltiJC-U" target="_blank">
             <img src="https://img.youtube.com/vi/PxPGltiJC-U/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/PxPGltiJC-U.html" class="video-title">[원어민 영어] 미국인의 전시회 데이트 필수 영어 표현| Art Vocabulary In English</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=PxPGltiJC-U" target="_blank" class="video-title">[원어민 영어] 미국인의 전시회 데이트 필수 영어 표현| Art Vocabulary In English</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=PxPGltiJC-U" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/PxPGltiJC-U.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-07-20</td>
@@ -2308,10 +2846,14 @@
           <a href="https://www.youtube.com/watch?v=aUWBXB4CBNo" target="_blank">
             <img src="https://img.youtube.com/vi/aUWBXB4CBNo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/aUWBXB4CBNo.html" class="video-title">(실제 상황) 미국인의 쇼핑 필수 영어 표현| Mall Vocabulary In English</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=aUWBXB4CBNo" target="_blank" class="video-title">(실제 상황) 미국인의 쇼핑 필수 영어 표현| Mall Vocabulary In English</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=aUWBXB4CBNo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/aUWBXB4CBNo.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-07-17</td>
@@ -2325,10 +2867,14 @@
           <a href="https://www.youtube.com/watch?v=Xteb-dQxBgM" target="_blank">
             <img src="https://img.youtube.com/vi/Xteb-dQxBgM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Xteb-dQxBgM.html" class="video-title">(식당 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Restaurant English Vocabulary</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Xteb-dQxBgM" target="_blank" class="video-title">(식당 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Restaurant English Vocabulary</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Xteb-dQxBgM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Xteb-dQxBgM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-07-11</td>
@@ -2342,10 +2888,14 @@
           <a href="https://www.youtube.com/watch?v=Ut3neOv5iE4" target="_blank">
             <img src="https://img.youtube.com/vi/Ut3neOv5iE4/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/Ut3neOv5iE4.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=Ut3neOv5iE4" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=Ut3neOv5iE4" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/Ut3neOv5iE4.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-06-29</td>
@@ -2359,10 +2909,14 @@
           <a href="https://www.youtube.com/watch?v=n_vYrlFC5WM" target="_blank">
             <img src="https://img.youtube.com/vi/n_vYrlFC5WM/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/n_vYrlFC5WM.html" class="video-title">(페스티벌편) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary from a native teacher</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=n_vYrlFC5WM" target="_blank" class="video-title">(페스티벌편) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary from a native teacher</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=n_vYrlFC5WM" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/n_vYrlFC5WM.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-06-17</td>
@@ -2376,10 +2930,14 @@
           <a href="https://www.youtube.com/watch?v=46qNfNBOLvY" target="_blank">
             <img src="https://img.youtube.com/vi/46qNfNBOLvY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/46qNfNBOLvY.html" class="video-title">(카페 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Cafe English vocabulary from a native teacher</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=46qNfNBOLvY" target="_blank" class="video-title">(카페 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Cafe English vocabulary from a native teacher</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=46qNfNBOLvY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/46qNfNBOLvY.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-06-09</td>
@@ -2393,10 +2951,14 @@
           <a href="https://www.youtube.com/watch?v=ncCY10pROKw" target="_blank">
             <img src="https://img.youtube.com/vi/ncCY10pROKw/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/ncCY10pROKw.html" class="video-title">한국인이 잘 모르는 영어 | 이거 알면 최소 교포, 미국인도 잘 모름</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=ncCY10pROKw" target="_blank" class="video-title">한국인이 잘 모르는 영어 | 이거 알면 최소 교포, 미국인도 잘 모름</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=ncCY10pROKw" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/ncCY10pROKw.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-06-02</td>
@@ -2410,10 +2972,14 @@
           <a href="https://www.youtube.com/watch?v=-zU4HyWpjMU" target="_blank">
             <img src="https://img.youtube.com/vi/-zU4HyWpjMU/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/-zU4HyWpjMU.html" class="video-title">(마트 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary at the grocery store!</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=-zU4HyWpjMU" target="_blank" class="video-title">(마트 영어) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary at the grocery store!</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=-zU4HyWpjMU" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/-zU4HyWpjMU.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-05-26</td>
@@ -2427,10 +2993,14 @@
           <a href="https://www.youtube.com/watch?v=ut3gmDinw08" target="_blank">
             <img src="https://img.youtube.com/vi/ut3gmDinw08/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/ut3gmDinw08.html" class="video-title">서류 탈락 취준생에서 회사 매각까지 영어로 인생 반전시킨 이야기 | Why you should learn English</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=ut3gmDinw08" target="_blank" class="video-title">서류 탈락 취준생에서 회사 매각까지 영어로 인생 반전시킨 이야기 | Why you should learn English</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=ut3gmDinw08" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/ut3gmDinw08.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-05-10</td>
@@ -2444,10 +3014,14 @@
           <a href="https://www.youtube.com/watch?v=s8G8L6zgWrA" target="_blank">
             <img src="https://img.youtube.com/vi/s8G8L6zgWrA/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/s8G8L6zgWrA.html" class="video-title">(헬스편) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary from a native teacher at the GYM</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=s8G8L6zgWrA" target="_blank" class="video-title">(헬스편) 미국인 실제 생활 따라다니며 원어민 되기 | Learning English vocabulary from a native teacher at the GYM</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=s8G8L6zgWrA" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/s8G8L6zgWrA.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-05-08</td>
@@ -2461,10 +3035,14 @@
           <a href="https://www.youtube.com/watch?v=yYHYsmM7610" target="_blank">
             <img src="https://img.youtube.com/vi/yYHYsmM7610/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/yYHYsmM7610.html" class="video-title">한국인이 매일 틀리는 영어 | 미국에서 총맞을 수 있음(방탄 뷔도 틀림) |BTS V&#x27;s English</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=yYHYsmM7610" target="_blank" class="video-title">한국인이 매일 틀리는 영어 | 미국에서 총맞을 수 있음(방탄 뷔도 틀림) |BTS V&#x27;s English</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=yYHYsmM7610" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/yYHYsmM7610.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-05-01</td>
@@ -2478,10 +3056,14 @@
           <a href="https://www.youtube.com/watch?v=6T8PU4P0YkY" target="_blank">
             <img src="https://img.youtube.com/vi/6T8PU4P0YkY/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/6T8PU4P0YkY.html" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=6T8PU4P0YkY" target="_blank" class="video-title">미국인이 밥 먹듯이 쓰는 생활영어표현 | 미드, 뉴스 공부보다 효과 좋은 원어민 브이로그 | 반복해서 들으면 영어가 입에서 자연스레 나와요</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=6T8PU4P0YkY" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/6T8PU4P0YkY.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-04-27</td>
@@ -2495,10 +3077,14 @@
           <a href="https://www.youtube.com/watch?v=4sC0szBKdvo" target="_blank">
             <img src="https://img.youtube.com/vi/4sC0szBKdvo/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/4sC0szBKdvo.html" class="video-title">한국인이 잘 모르는 영어 표현 | 3개 이상 알면 원어민 You can&#x27;t never guess this expressions</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=4sC0szBKdvo" target="_blank" class="video-title">한국인이 잘 모르는 영어 표현 | 3개 이상 알면 원어민 You can&#x27;t never guess this expressions</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=4sC0szBKdvo" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/4sC0szBKdvo.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-03-21</td>
@@ -2512,10 +3098,14 @@
           <a href="https://www.youtube.com/watch?v=L9AioVmRAzg" target="_blank">
             <img src="https://img.youtube.com/vi/L9AioVmRAzg/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/L9AioVmRAzg.html" class="video-title">한국인이 가장 많이 틀리는 발음 | 잘못하면 욕으로 들림 |Top 5 Pronunciation Mistakes that Koreans Make</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=L9AioVmRAzg" target="_blank" class="video-title">한국인이 가장 많이 틀리는 발음 | 잘못하면 욕으로 들림 |Top 5 Pronunciation Mistakes that Koreans Make</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=L9AioVmRAzg" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/L9AioVmRAzg.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-03-12</td>
@@ -2529,10 +3119,14 @@
           <a href="https://www.youtube.com/watch?v=_gjV_hF4Z1g" target="_blank">
             <img src="https://img.youtube.com/vi/_gjV_hF4Z1g/mqdefault.jpg" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            <a href="pages/_gjV_hF4Z1g.html" class="video-title">한국인이 가장 많이 틀리는 영어 | 내가 하던 실수들 여기있음;;</a>
-            
-          </span>
+          <div class="video-info">
+            <a href="https://www.youtube.com/watch?v=_gjV_hF4Z1g" target="_blank" class="video-title">한국인이 가장 많이 틀리는 영어 | 내가 하던 실수들 여기있음;;</a>
+            <div class="video-links">
+              <a href="https://www.youtube.com/watch?v=_gjV_hF4Z1g" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/_gjV_hF4Z1g.html" class="badge detail">상세</a>
+              
+            </div>
+          </div>
         </div>
       </td>
       <td>2024-02-25</td>

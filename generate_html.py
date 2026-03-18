@@ -29,9 +29,15 @@ TABLE_STYLE = """
   tr:hover { background: #fafafa; }
   .video-cell { display: flex; align-items: center; gap: 12px; }
   .video-cell img { width: 120px; border-radius: 4px; flex-shrink: 0; }
+  .video-info { display: flex; flex-direction: column; gap: 6px; }
   .video-title { color: #333; text-decoration: none; font-weight: 500; }
   .video-title:hover { color: #e74c3c; text-decoration: underline; }
-  .script-link { font-size: 0.8em; margin-left: 8px; }
+  .video-links { display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75em; font-weight: 600; text-decoration: none; }
+  .badge:hover { opacity: 0.8; text-decoration: none; }
+  .badge.yt { background: #ff0000; color: #fff; }
+  .badge.detail { background: #3498db; color: #fff; }
+  .badge.script { background: #2ecc71; color: #fff; cursor: default; }
   td:first-child, th:first-child { text-align: center; width: 40px; }
   td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(6) { white-space: nowrap; text-align: center; }
   th:nth-child(3), th:nth-child(4), th:nth-child(5), th:nth-child(6) { text-align: center; }
@@ -118,7 +124,7 @@ for i, v in enumerate(videos, 1):
   <div class="embed">
     <iframe src="https://www.youtube.com/embed/{video_id}" allowfullscreen></iframe>
   </div>
-  <div class="transcript">
+  <div class="transcript" id="script">
     <h2>Script</h2>
     {lines_html}
   </div>
@@ -143,8 +149,7 @@ for i, v in enumerate(videos, 1):
     thumb = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg" if video_id else ""
 
     has_script = os.path.exists(os.path.join(SCRIPTS_DIR, f"{video_id}.json"))
-    script_link = f'<a href="pages/{video_id}.html" class="script-link">[Script]</a>' if has_script else ""
-    page_link = f'<a href="pages/{video_id}.html"' if video_id else f'<a href="{url}" target="_blank"'
+    script_badge = f'<a href="pages/{video_id}.html#script" class="badge script">Script</a>' if has_script else ""
 
     rows_html += f"""
     <tr>
@@ -154,10 +159,14 @@ for i, v in enumerate(videos, 1):
           <a href="{url}" target="_blank">
             <img src="{thumb}" alt="thumbnail" loading="lazy">
           </a>
-          <span>
-            {page_link} class="video-title">{title}</a>
-            {script_link}
-          </span>
+          <div class="video-info">
+            <a href="{url}" target="_blank" class="video-title">{title}</a>
+            <div class="video-links">
+              <a href="{url}" target="_blank" class="badge yt">YouTube</a>
+              <a href="pages/{video_id}.html" class="badge detail">상세</a>
+              {script_badge}
+            </div>
+          </div>
         </div>
       </td>
       <td>{date_fmt}</td>
